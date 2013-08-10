@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Thomas J. Leeper</title>
+	<link rel="stylesheet" type="text/css" href="css.css" />
+	<script>
+		function printDate() {
+			var d = new Date();
+			var x = document.getElementById("years");
+			x.innerHTML = "2009-" + d.getFullYear();
+		}
+	</script>
+</head>
+<body onload="printDate()">
+	<header>
+		<a href="index.html"><h1 id="headername">Thomas J. Leeper</h1></a>
+	</header>
+	<nav>
+		<span class="nav" id="navlinks">
+			<a class="nav" href="research.html">Research</a>
+			<a class="nav" href="software.html">Software</a>
+			<a class="nav" href="teaching.html">Teaching</a>
+			<a class="nav" href="cv.pdf">CV</a>
+			<a class="nav" href="contact.html">Connect</a>
+		</span>
+	</nav>
+
+	<div class="body" id="body">
+		<img style="float:left;max-width:150px;margin-right:10px;margin-bottom:10px;" src="images/thomas1.jpg" alt="Thomas J. Leeper" />
+		<p>I am a Post-Doctoral Researcher in the <a href="http://ps.au.dk/en/">Institut for Statskundskab</a> at Aarhus University in Aarhus, Denmark. I received my MA and PhD from the <a href="http://www.polisci.northwestern.edu/">Department of Political Science</a> at Northwestern University, where I was a graduate fellow at the <a href="http://www.northwestern.edu/ipr/">Institute for Policy Research</a> and served as founding coordinator of the <a href="http://faculty.wcas.northwestern.edu/~jnd260/lab.html">Northwestern Political Science Research Lab (PSRL)</a>. I previously received my BA from the University of Minnesota &#8211; Twin Cities with a BA <em>magna cum laude</em> in Political Science and Global Studies (with an emphasis on European politics and society).</p>
+		<p>My research on individuals' public opinions primarily focuses on the role of information in politics. I am particularly interested in how mass attitudes reflect an interaction between the broader information environment - including the mass media and political elites - and individual-level attributes - namely citizens' expressed behaviors, psychological traits, prior knowledge and opinions, motivation, and affect. My dissertation focused on incorporating issues of information choice and over-time opinion dynamics into the study of political communication and opinion formation. At Aarhus, I am part of the <a href="http://ps.au.dk/en/research/research-centres-and-units/polis/">POLIS Political Parties and Issue Strategies research group</a>, where I study interactions between political parties and public opinion.</p>
+		<p>Using both survey and experimental methods, I attempt to study public opinion and political behavior from the perspectives of social and cognitive psychology, mass communication, and democratic theory. In addition to my substantive research interests, I am currently engaged in ongoing methodological projects related to nonrandom treatment assignment, internet-based experimentation, sample-related validity concerns, and interaction effects in observational studies.</p>
+		<p>I also comment on public opinion and psychology through my <em>Psychology Today</em> blog &#8220;<a href="http://www.psychologytoday.com/blog/polarized">Polarized</a>&#8221;.</p>
+	</div>
+
+	<footer id="footer">
+		<hr id="footerline" />
+		<p class="small" id="copyright">
+			&#169; <span id="years" onload="printDate()"></span> Thomas J. Leeper<br />
+			<a href="mailto:thosjleeper@gmail.com" id="email">thosjleeper@gmail.com</a>
+		</p>
+	</footer>
+
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-10964766-1");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+</body>
+</html>

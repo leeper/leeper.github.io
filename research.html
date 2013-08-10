@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Thomas J. Leeper</title>
+	<link rel="stylesheet" type="text/css" href="css.css" />
+	<script>
+		function printDate() {
+			var d = new Date();
+			var x = document.getElementById("years");
+			x.innerHTML = "2009-" + d.getFullYear();
+		}
+	</script>
+</head>
+<body onload="printDate()">
+	<header>
+		<a href="index.html"><h1 id="headername">Thomas J. Leeper</h1></a>
+	</header>
+	<nav>
+		<span class="nav" id="navlinks">
+			<a class="nav" href="research.html">Research</a>
+			<a class="nav" href="software.html">Software</a>
+			<a class="nav" href="teaching.html">Teaching</a>
+			<a class="nav" href="cv.pdf">CV</a>
+			<a class="nav" href="contact.html">Connect</a>
+		</span>
+	</nav>
+
+	<div class="body" id="body">
+		<!--<h3>Other Ongoing Research</h3>-->
+			<p style="font-style:italic;">Information Choices</p>
+				<p style="margin-left:1em;">Choices define humans' day-to-day experiences. While we are acted upon by outside forces and agents, we also make choices among alternatives. In politics and political behavior, choices are abundant: what candidate do you choose to vote for, what news do you choose to read, what people do you choose to interact with, etc. In this area, I am examining both causes and effects of information choices to understand how people decide amongst alternatives and how those choices impact their later cognition and behavior. In theoretically related, but methodologically distinct work, I have studied measurement problems related to survey measures of information exposure and used observational data to identify patterns of non-ideological selective exposure to political news.</p>
+			<p style="font-style:italic;">Political Communication and Public Opinion</p>
+				<p style="margin-left:1em;">Most of the information that people can and do receive about politics comes from elites - political candidates, parties, interest groups, and the mass media. Understanding the effects of political communications is therefore vital to making sense of the public opinions that elected officials must represent in policymaking. My work in this area examines the effectiveness of political communications in moving public preferences and also considers how different groups succeed or fail at influencing those preferences given their access to the mass public and the alternative messages being communicated in the political environment. Building off work from my dissertation, I am also pursuing work on the stability of opinions over-time and the downstream effects of political communications on other opinions.</p>
+			<p style="font-style:italic;">Experimental Methods</p>
+				<p style="margin-left:1em;">Experimental methods are an increasingly important method for understanding political and social processes and behavior. My work in this area aims to improve the quality of experimental methods and reduce barriers to entry for experimental research online. Pedagogically, I am also developing curricula for teaching political and social methodology primarily through the lens of experimentation and quasi-experimental causal inference rather than Normal-theory descriptive statistics, which is typically the foundation for undergraduate and graduate instruction in applied statistics but that is, in my experience, unintuitive for students new to statistical thinking. I have also developed <a href="/MTurkR/index.html">software</a> for the R programming environment to assist researchers in deploying experiments on the online Amazon Mechanical Turk workplace.</p>
+			<p style="font-style:italic;">Matching Methods</p>
+				<p style="margin-left:1em;">While experimental methods are considered the <em>gold standard</em> for causal inference, many political and social phenomena cannot be readily examined with experimentation and, regardless of feasibility, much of the social and political data available to researchers is observational. One potential solution to these constraints is the approximation of experimental treatment assignment through matching techniques. In some cases, (random) experimental assignment to treatment status may even be uninformative about real-world processes involving nonrandom assignment to treatment status. In this area I am currently examining critiques of matching methods in the area of voter mobilization research, the study causal moderation through matching, and the application of matching to treatment self-selection problems.</p>
+	</div>
+
+	<footer id="footer">
+		<hr id="footerline" />
+		<p class="small" id="copyright">
+			&#169; <span id="years" onload="printDate()"></span> Thomas J. Leeper<br />
+			<a href="mailto:thosjleeper@gmail.com" id="email">thosjleeper@gmail.com</a>
+		</p>
+	</footer>
+
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-10964766-1");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+</body>
+</html>

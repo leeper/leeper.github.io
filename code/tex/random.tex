@@ -1,0 +1,112 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx} % for \includegraphics
+\usepackage{calc} % for \setcounter math
+\setlength{\parindent}{0in}
+
+% Random uniform number generation with inclusive upper bound
+\newcounter{runiform}
+\newcommand{\runif}[1]
+{%
+\setcounter{runiform}{#1+1}%
+\pdfuniformdeviate \arabic{runiform}
+}
+
+
+% Random normal number generation; wrapper for \pdfnormaldeviate
+\newcommand{\rN}{\pdfnormaldeviate}
+
+
+% Random Normal number generation for given mean and SD
+\newcounter{rnormal}
+\newcommand{\rnorm}[2]{%
+%% first argument: mean
+%% second argument: standard deviation
+\setcounter{rnormal}{(\rN/(65536/#2))+#1}\arabic{rnormal}%
+}
+
+
+% Random letter
+\newcounter{ralpha}
+\newcommand{\ralph}[1][26]{% 
+%% (optional) first argument: value passed to \pdfuniformdeviate, as upper bound; default 26
+\setcounter{ralpha}{\pdfuniformdeviate #1+1}%
+\alph{ralpha} % lowercase letter
+%\Alph{ralpha} % uppercase letter
+}
+
+
+% Random file inclusion (numeric filename)
+\newcommand{\rinclude}[2]{%
+%% first argument: passed to \pdfuniformdeviate
+%% second argument: optional filename prefix
+\begingroup
+\let\clearpage\relax
+\include{\pdfuniformdeviate #2#1}
+\endgroup
+}
+
+
+% Random file inclusion (alphabetic filename)
+\newcounter{rincl}
+\newcommand{\ralphainclude}[2][26]{%
+%% (optional) first argument: value passed to \pdfuniformdeviate, as upper bound; default 26
+%% second argument: optional filename prefix
+\setcounter{rincl}{\pdfuniformdeviate #1+1}%
+\begingroup
+\let\clearpage\relax
+\include{#2\alph{rincl}} % lowercase filename
+%\include{#2\Alph{rincl}} % uppercase filename
+\endgroup
+}
+
+
+% Random graphics inclusion (numeric filename)
+\newcommand{\rgraphic}[3]{% 
+%% first argument: value passed to \pdfuniformdeviate
+%% second argument: optional file extension
+%% third argument: optional arguments passed to \includegraphics
+\includegraphics[#3]{\pdfuniformdeviate #1#2}
+}
+
+
+% Random graphics inclusion (alphabetic filename)
+\newcounter{rgraph}
+\newcommand{\ralphagraphic}[3][26]{% 
+%% (optional) first argument: value passed to \pdfuniformdeviate, as upper bound; default 26
+%% second argument: optional file extension
+%% third argument: optional arguments passed to \includegraphics
+\setcounter{rgraph}{\pdfuniformdeviate #1+1}%
+%\includegraphics[#3]{\alph{rgraph}#2} % lowercase filename
+\includegraphics[#3]{\Alph{rgraph}#2} % lowercase filename
+}
+
+
+
+\begin{document}
+
+{\large Some \LaTeX{} Macros to Do (Literally) Random Things}\\
+
+Random uniform variable: \runif{2} \runif{2} \runif{2}\\
+
+Random Normal variable: \rN{} \rN{} \rN{}\\
+
+Random Normal variable with specified (Mean, SD):
+\rnorm{0}{4} % (mean=0, sd=4)
+\rnorm{-10}{1} % (mean=-10, sd=1)
+\rnorm{25}{25}\\ % (mean=25, sd=25)
+
+Random letter: \ralph \ralph \ralph \\
+
+Random include file (numeric file name):\\
+\rinclude{3}{}\\ % include file {0 | 1 | 2}
+
+Random include file (alphabetic file name):\\
+\ralphainclude[2]{}\\ % include file {a | b}
+
+Random include graphic (numeric file name):\\
+\indent \fbox{\rgraphic{3}{}{width=1in}}\\ % include graphics file {0 | 1 | 2}
+
+Random include graphic (alphabetic file name):\\
+\indent \fbox{\ralphagraphic[2]{}{width=1in}}\\ % include graphics files {A | B}
+
+\end{document}

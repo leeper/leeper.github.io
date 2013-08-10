@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Thomas J. Leeper</title>
+	<link rel="stylesheet" type="text/css" href="css.css" />
+	<script>
+		function printDate() {
+			var d = new Date();
+			var x = document.getElementById("years");
+			x.innerHTML = "2009-" + d.getFullYear();
+		}
+	</script>
+</head>
+<body onload="printDate()">
+	<header>
+		<a href="index.html"><h1 id="headername">Thomas J. Leeper</h1></a>
+	</header>
+	<nav>
+		<span class="nav" id="navlinks">
+			<a class="nav" href="research.html">Research</a>
+			<a class="nav" href="software.html">Software</a>
+			<a class="nav" href="teaching.html">Teaching</a>
+			<a class="nav" href="cv.pdf">CV</a>
+			<a class="nav" href="contact.html">Connect</a>
+		</span>
+	</nav>
+
+	<div class="body" id="body">
+		<p class="body">
+			<br />Academic material:
+				<br />Publications: <a href="http://scholar.google.com/citations?user=hqiux-MAAAAJ">Google Scholar</a>
+				<br />Working papers: <a href="http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1269107">Social Science Research Network</a>
+				<br />Software: <a href="https://github.com/leeper">GitHub</a> and <a href="http://crantastic.org/authors/2512">crantastic!</a>
+				<br />Data: <a href="http://dvn.iq.harvard.edu/dvn/dv/leeper">Dataverse Network</a>
+				<br />
+			<br />Social networking:
+				<br /><a href="http://northwestern.academia.edu/ThomasLeeper">Academia.edu</a>
+				<br /><a href="http://www.mendeley.com/profiles/thomas-leeper/">Mendeley</a>
+				<br /><a href="http://www.linkedin.com/in/thomasjleeper" >LinkedIn</a>
+				<br />
+			<br />Blog:
+				<br /><a href="http://www.psychologytoday.com/blog/polarized"><em>Polarized</em></a> (via <em>Psychology Today</em>)
+				<br />				
+		</p>
+	</div>
+
+	<footer id="footer">
+		<hr id="footerline" />
+		<p class="small" id="copyright">
+			&#169; <span id="years" onload="printDate()"></span> Thomas J. Leeper<br />
+			<a href="mailto:thosjleeper@gmail.com" id="email">thosjleeper@gmail.com</a>
+		</p>
+	</footer>
+
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+	<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-10964766-1");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+</body>
+</html>
