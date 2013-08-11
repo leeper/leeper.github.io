@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2013.7.31)  6 AUG 2013 20:16
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2013.8.9)  11 AUG 2013 18:15
 entering extended mode
-**C:/Users/Thomas/Documents/Dropbox/Professional*Development/cv.tex
-("C:/Users/Thomas/Documents/Dropbox/Professional Development/cv.tex"
+**C:/Users/Thomas/Documents/Dropbox/Professional*Development/Website/cv/cv.tex
+("C:/Users/Thomas/Documents/Dropbox/Professional Development/Website/cv/cv.tex"
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -302,7 +302,8 @@ Package hyperref Info: Option `pdftoolbar' set `true' on input line 32.
 Package hyperref Info: Option `pdfmenubar' set `true' on input line 32.
 Package hyperref Info: Option `pdffitwindow' set `false' on input line 32.
 Package hyperref Info: Option `pdfnewwindow' set `true' on input line 32.
-("C:\Users\Thomas\Documents\Dropbox\Professional Development\cv.aux")
+("C:\Users\Thomas\Documents\Dropbox\Professional Development\Website\cv\cv.aux"
+)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
@@ -318,8 +319,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+pplj on input line 34.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pplj.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pplj.fd"
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
 \AtBeginShipoutBox=\box28
@@ -340,11 +340,11 @@ LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
 
-("C:\Users\Thomas\Documents\Dropbox\Professional Development\cv.out")
-("C:\Users\Thomas\Documents\Dropbox\Professional Development\cv.out")
+("C:\Users\Thomas\Documents\Dropbox\Professional Development\Website\cv\cv.out"
+) ("C:\Users\Thomas\Documents\Dropbox\Professional Development\Website\cv\cv.ou
+t")
 \@outlinefile=\write3
-
-(C:\Users\Thomas\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+ (C:\Users\Thomas\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
 \scratchdimen=\dimen124
@@ -500,104 +500,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--124
  []
 
 
-Overfull \hbox (8.58705pt too wide) in paragraph at lines 127--147
-[][]\T1/pplj/m/n/12 [] ``In-ter-est Groups and Po-lit-i-cal At-ti-tudes.'' Com
--par-a-tive Pol-i-tics Sem-i-nar, Aarhus
- []
-
-
-Overfull \hbox (4.8431pt too wide) in paragraph at lines 127--147
-[][]\T1/pplj/m/n/12 [] ``Po-lit-i-cal Groups and Pub-lic Opin-ion.'' Po-lit-i-
-cal Par-ties Work-ing Group, North-
- []
-
-
-Overfull \hbox (0.27945pt too wide) in paragraph at lines 127--147
-\T1/pplj/m/n/12 al-ism?'' An-nual meet-ing of the Mid-west Po-lit-i-cal Sci-enc
-e As-so-ci-a-tion, Chicago,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--147
-
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 149--157
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 164--167
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--185
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--190
-
- []
-
-
-Overfull \hbox (5.44702pt too wide) in paragraph at lines 192--204
+Overfull \hbox (5.44702pt too wide) in paragraph at lines 126--138
 [][]\T1/pplj/m/n/12 [] Na-tional Sci-ence Foun-da-tion Doc-toral Dis-ser-ta-ti
 on Im-prove-ment Grant, $12,000
  []
 
 
-Overfull \hbox (23.99905pt too wide) in paragraph at lines 192--204
+Overfull \hbox (23.99905pt too wide) in paragraph at lines 126--138
 [][]\T1/pplj/m/n/12 [] Wein-berg Col-lege of Arts and Sci-ences Hu-man-i-ties 
 and So-cial Sci-ences Technology-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--204
-
- []
-
-[5
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 206--213
+Underfull \hbox (badness 10000) in paragraph at lines 126--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--222
+Underfull \hbox (badness 10000) in paragraph at lines 140--147
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
+[3]
+Overfull \hbox (8.58705pt too wide) in paragraph at lines 150--170
+[][]\T1/pplj/m/n/12 [] ``In-ter-est Groups and Po-lit-i-cal At-ti-tudes.'' Com
+-par-a-tive Pol-i-tics Sem-i-nar, Aarhus
+ []
+
+
+Overfull \hbox (4.8431pt too wide) in paragraph at lines 150--170
+[][]\T1/pplj/m/n/12 [] ``Po-lit-i-cal Groups and Pub-lic Opin-ion.'' Po-lit-i-
+cal Par-ties Work-ing Group, North-
+ []
+
+
+Overfull \hbox (0.27945pt too wide) in paragraph at lines 150--170
+\T1/pplj/m/n/12 al-ism?'' An-nual meet-ing of the Mid-west Po-lit-i-cal Sci-enc
+e As-so-ci-a-tion, Chicago,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--170
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 173--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--209
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--224
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
 [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
- ("C:\Users\Thomas\Documents\Dropbox\Professional Development\cv.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
+
+("C:\Users\Thomas\Documents\Dropbox\Professional Development\Website\cv\cv.aux"
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  6453 strings out of 494019
- 92805 string characters out of 3143879
- 185933 words of memory out of 3000000
+ 92926 string characters out of 3143880
+ 183933 words of memory out of 3000000
  9616 multiletter control sequences out of 15000+200000
  32159 words of font info for 59 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 31i,5n,35p,538b,313s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,5n,35p,549b,313s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Users/
 Thomas/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/
 Thomas/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files
  (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (6 pages, 75133 bytes).
+Output written on cv.pdf (6 pages, 75183 bytes).
 PDF statistics:
  60 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
