@@ -4,9 +4,8 @@ This is the git repository for my webpage, which is hosted with [GitHub Pages](h
 
 Some things I learned setting up my custom domain redirect (from [thomasleeper.com](http://www.thomasleeper.com)), which weren't very well documented on the GitHub Pages [help files ](https://help.github.com/articles/setting-up-a-custom-domain-with-pages) are as follows. If you set up the redirect according to the instructions, it still may not work. My domain is registered with [mydomain](http://www.mydomain.com/) and I had to do the following configurations to get the redirect to work and to avoid an infinite looping redirect between mydomain and GH pages:
 * Make a `CNAME` file containing the domain in your gh-pages repository.
-* At your domain registrar, setup an **A record** pointing to the gh-pages address: `204.232.175.78`.
 * At mydomain, I had to setup:
-  * a "standard pointer" (not stealth) to `leeper.github.io`.
+  * a "standard pointer" (not stealth) to `leeper.github.io`. (This creates an infinite loop, though, so see below.)
   * a CNAME Alias for www.thomasleeper.com pointing to `leeper.github.io`.
   * an A record for www.thomasleeper.com pointing to `204.232.175.78`.
   * an A record for @.thomasleeper.com pointing to `204.232.175.78`.
