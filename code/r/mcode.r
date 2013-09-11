@@ -15,7 +15,7 @@
 ## STILL NEED TO FIGURE OUT A WILDCARD SYNTAX
 ### AN EXAMPLE TO WORK FROM: recodes <- "c(1,1)=1;c(1,2)=2;c(1,3)=3;c(2,'*')=4"
 
-message("Please download this code from https://github.com/leeper/mcode")
+message("Please download the code for `mcode` from https://github.com/leeper/mcode")
 
 mcode <- function(..., recodes, else.val=NA, as.factor.result=NULL, as.numeric.result=TRUE, levels=NULL){
 	vars <- list(...)
