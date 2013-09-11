@@ -13,7 +13,7 @@
 # digits rounds all values to specified number of digits (default is 2)
 # NAs handles NAs, by default removing them in calculating means and SDs
 
-message("Please obtain the most recent version of this code from https://github.com/leeper/expResults")
+message("Please obtain the most recent version of `expResults` from https://github.com/leeper/expResults")
 
 expResults <- function(dv,tr,labels=.groupNames,object.name=NULL,digits=2,NAs="na.rm"){
 	# function to produce a simple treatment group results table
