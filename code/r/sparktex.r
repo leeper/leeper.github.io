@@ -15,6 +15,8 @@
 
 ## to change color of sparkline or sparkspike, see sparklines documentation to specify global values
 
+message("`sparktex` is now available as a package on CRAN: http://cran.r-project.org/web/packages/sparktex/index.html")
+
 sparktex <- function(y,x=NULL,width=NULL,type="sparkline",rectangle=NULL,linewidth=NULL,sparkdot=NULL) {
 	if(!is.null(rectangle) && !length(rectangle)==2)
 		stop("rectangle must be vector of length 2")
