@@ -10,7 +10,7 @@
 
 # NEED TO UPDATE TO AN INFINITE NUMBER OF VARIABLES
 
-message("Please download this code from https://github.com/leeper/mcode")
+message("Please download the code for `mergeNA` from https://github.com/leeper/mcode")
 
 mergeNA <- function(a,b) {
 	if(!length(a)==length(b))
