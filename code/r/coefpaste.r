@@ -10,7 +10,7 @@
 # par is a vector of parrenthetical values (e.g., standard errors)
 # digits is an optional two-item vector indicating the number of digits to which coefficients and errors should be rounded
 
-message("Please download this source from https://github.com/leeper/coefpaste")
+message("Please download the source for `coefpaste` from https://github.com/leeper/coefpaste")
 
 coefpaste <- function(val,par,digits=c(2,2)){
 	if(length(digits)==1)
