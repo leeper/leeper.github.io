@@ -1,33 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Thomas J. Leeper</title>
-	<link rel="stylesheet" type="text/css" href="css.css" />
-	<script>
-		function printDate() {
-			var d = new Date();
-			var x = document.getElementById("years");
-			x.innerHTML = "2009-" + d.getFullYear();
-		}
-	</script>
-</head>
-<body onload="printDate()">
-	<header>
-		<a href="index.html"><h1 id="headername">Thomas J. Leeper</h1></a>
-	</header>
-	<nav>
-		<span class="nav">
-			<a class="nav" href="http://leeper.github.io/cv/cv.pdf">CV</a>
-			<a class="nav" href="http://leeper.github.io/research.html">Research</a>
-			<a class="nav" href="http://leeper.github.io/software.html">Software</a>
-			<a class="nav" href="http://leeper.github.io/teaching.html">Teaching</a>
-			<a class="nav" href="http://dvn.iq.harvard.edu/dvn/dv/leeper">Data</a>
-			<a class="nav" href="http://leeper.github.io/contact.html">Connect</a>
-		</span>
-	</nav>
+---
+layout: default
+title: Teaching - Thomas J. Leeper
+---
 
-	<div class="body" id="body">
 		<!--
 		<h3>Syllabi</h3>
 			<ul class="plus">
@@ -75,25 +50,3 @@
 				<!--<li>Thomas is very knowledgeable and easy to approach with questions regarding course content. His supplementary emails with R code and other documents prove that he really wants students to understand the course and not view R as something impossible to learn. He is also always available via appointment or email which is always appreciated.</li>-->
 				<li>Thomas is great. Very knowledgable, helped make me care about what I was learning in class, and made me feel that while it was difficult, it may be useful later. Would be happy to have him as a TA again</li>
 			</ul>		
-	</div>
-
-	<footer id="footer">
-		<hr id="footerline" />
-		<p class="small" id="copyright">
-			&#169; <span id="years" onload="printDate()"></span> Thomas J. Leeper<br />
-			<a href="mailto:thosjleeper@gmail.com" id="email">thosjleeper@gmail.com</a>
-		</p>
-	</footer>
-
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script>
-	<script type="text/javascript">
-		try {
-		var pageTracker = _gat._getTracker("UA-10964766-1");
-		pageTracker._trackPageview();
-		} catch(err) {}
-	</script>
-</body>
-</html>
