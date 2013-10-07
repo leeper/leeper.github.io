@@ -12,13 +12,15 @@ title: Software - Thomas J. Leeper
 
 ### Some other assorted materials ###
 
-<!--* <a href="code/r/clipboard.r">clipboard]: Paste from (and evaluate) the contents of the clipboard and copy R objects to the clipboard-->
-<!--* <a href="code/r/coefpaste.r">coefpaste]: Produce vectors of coefficients and parenthetical standard errors/standard deviations for easy output-->
-<!--* <a href="code/r/expResults.r">expResults]: Produce simple experimental results tables, for initial data description and/or output-->
+<!--* [clipboard](code/r/clipboard.r): Paste from (and evaluate) the contents of the clipboard and copy R objects to the clipboard-->
+<!--* [coefpaste](code/r/coefpaste.r): Produce vectors of coefficients and parenthetical standard errors/standard deviations for easy output-->
+<!--* [expResults](code/r/expResults.r): Produce simple experimental results tables, for initial data description and/or output-->
 * You can now find most of my software development projects on [GitHub](http://github.com/leeper)
-<!--* <a href="code/r/groupImpute.r">groupImpute]: A simple algorithm to impute missing experimental values-->
-<!--* <a href="code/r/mergeNA.r">mergeNA]: Combine two variables with mutually exclusive missingness (e.g., for merging responses to questions from two survey forms)-->
-<!--* <a href="code/r/sparktex.r">sparktex]: Produce LaTeX code for in-line sparklines, using the <a href="http://get-software.net/help/Catalogue/entries/sparklines.html#Docs">sparkline] environment-->
+ 
+<!--* [groupImpute](code/r/groupImpute.r): A simple algorithm to impute missing experimental values-->
+<!--* [mergeNA](code/r/mergeNA.r): Combine two variables with mutually exclusive missingness (e.g., for merging responses to questions from two survey forms)-->
+<!--* [sparktex](code/r/sparktex.r): Produce LaTeX code for in-line sparklines, using the [sparkline](http://get-software.net/help/Catalogue/entries/sparklines.html#Docs) environment-->
+
 * [R] [sweave](code/r/sweave.r): An R file (intended to be used as a Windows executable [shell script]) that automatically runs [Sweave](http://www.statistik.lmu.de/~leisch/Sweave/) on the most recently edited .rnw file in a directory and produces the resultant PDF and R code tangles
 * [R] [Really Introductory Introduction to R](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.pdf) (See also: source [.rnw](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.rnw))
 * [JavaScript] [redirect](code/javascript/redirect.html): Randomly redirect the user to one of several pages.
