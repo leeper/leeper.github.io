@@ -3,7 +3,7 @@ layout: default
 title: Thomas J. Leeper
 ---
 
-<!--<div><img style="float:left;max-width:150px;margin-right:10px;margin-bottom:10px;" src="images/thomas1.jpg" alt="Thomas J. Leeper" /><div>-->
+<div><img style="float:left;max-width:150px;margin-right:10px;margin-bottom:10px;" src="images/thomas1.jpg" alt="Thomas J. Leeper" /><div>
 
 I am a Post-Doctoral Researcher in the [Institut for Statskundskab](http://ps.au.dk/en/) at Aarhus University in Aarhus, Denmark. I received my MA and PhD from the [Department of Political Science](http://www.polisci.northwestern.edu/) at Northwestern University, where I was a graduate fellow at the [Institute for Policy Research](http://www.northwestern.edu/ipr/) and served as founding coordinator of the [Northwestern Political Science Research Lab (PSRL)](http://faculty.wcas.northwestern.edu/~jnd260/lab.html). I previously received my BA from the University of Minnesota &#8211; Twin Cities with a BA *magna cum laude* in Political Science and Global Studies (with an emphasis on European politics and society).
 
