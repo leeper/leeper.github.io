@@ -8,24 +8,19 @@ html {
 
 body {
   background-color:#e6e6e6;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 /* HEADINGS */
 h1 {
-  color:#4c4c4c; 
-	text-align:left; 
-	font-weight:bold; 
-	font-family:Helvetica, arial, freesans, clean, sans-serif;
-	font-size:32px;
-	margin-left:24pt;
+    color:#4c4c4c; 
+    text-align:left; 
+    font-weight:bold; 
+    font-size:24px;
 }
 
 /* NAVIGATION */
-nav {
-}
-
 span.nav {
   background-color:#4c4c4c;
   font-family:Helvetica, arial, freesans, clean, sans-serif;
@@ -50,6 +45,15 @@ p.small {
 	font-family:Helvetica, arial, freesans, clean, sans-serif;
 	font-size:14px;
 }
+.thomas {
+    color:#4c4c4c; 
+    text-align:left; 
+    font-weight:bold;
+    font-family:Helvetica, arial, freesans, clean, sans-serif;
+    font-size:32px;
+    margin-left:24pt;
+}
+
 
 
 /* HYPERLINKS */
@@ -62,7 +66,7 @@ a:hover {
 } 
 </style>
 <header>
-  <a href="http://www.thomasleeper.com"><h1>Thomas J. Leeper</h1></a>
+  <a href="http://www.thomasleeper.com"><p class="thomas">Thomas J. Leeper</p></a>
 </header>
 <nav>
   <span class="nav">
@@ -80,8 +84,18 @@ a:hover {
 <!--Footer Branding-->
 </div>
 
-	<footer>
-		<hr size="1" />
-		<p class="small">Copyright <span id="years">2009-2013</span> Thomas J. Leeper
-		<br /><a href="mailto:thosjleeper@gmail.com">thosjleeper@gmail.com</a></p>
-	</footer>
+<footer>
+<hr />
+<p class="small">Copyright <span id="years">2009-2013</span> Thomas J. Leeper
+<br /><a href="mailto:thosjleeper@gmail.com">thosjleeper@gmail.com</a></p>
+</footer>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10964766-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
