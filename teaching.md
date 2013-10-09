@@ -3,13 +3,13 @@ layout: default
 title: Teaching - Thomas J. Leeper
 ---
 
-### Teaching Philosophy ###
+## Teaching Philosophy ##
 
 Political psychologists study people. We want to know how people think, act, and understand the social and political universe. It is this curiosity about human understanding of politics that fundamentally drives my experience as an educator. Just as great teachers cultivated my interests in politics, I see it as my responsibility to mentor others in developing an understanding for themselves of political questions and the happenings of politics. My research typically explores how people think and feel about politics and often grapples with meta-scientific questions about how researchers might come to know individuals' political cognitions, the causes of those beliefs and attitudes, and the implications thereof for politics more broadly. Teaching is a natural transition from this exploration of human psychology and behavior in which the objective is not for me to transmit information and formulate students' understanding but to guide them as they seek answers to their own political questions.
 
 *[Click here](teaching/Teaching%20Statement.pdf) to read my full statement of teaching philosophy.*
 	
-### Teaching Experience ###
+## Teaching Experience ##
 
 <!--* Instructor, Experimentation and Causal Inference (Master level, Aarhus University, 2014)-->
 <!--* Co-Instructor, Quantitative Political Analysis (Master/Doctoral level, Aarhus University, 2014)-->
@@ -18,7 +18,7 @@ Political psychologists study people. We want to know how people think, act, and
 * Teaching Assistant for [Jim Mahoney](http://www.jamesmahoney.org/), Methods of Political Inference (Undergraduate level, Northwestern University, 2011)
 * Teaching Assistant for [Chris Galdieri](http://www.tc.umn.edu/~galdieri/), Political Psychology of Mass Behavior (Undergraduate level, University of Minnesota, 2007)
 
-### Student Evaluations ###
+## Student Evaluations ##
 
 *Average Ratings from Spring 2011:*
 
