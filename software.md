@@ -3,14 +3,14 @@ layout: default
 title: Software - Thomas J. Leeper
 ---
 
-### R Packages ###
+## R Packages ##
 
 * **MTurkR: An R Package for Amazon Mechanical Turk**: MTurkR is a free, open-source ([GPL-2](http://www.gnu.org/licenses/gpl-2.0.html)) package providing robust, flexible access to the Amazon Mechanical Turk platform through R. It requires little to no programming experience (and includes a lightweight, menu-based interface for beginners), but provides access for advanced users to full functionality of MTurk (including more functionality than Requester UI or MTurk command-line tools).<br/>[Learn more about MTurkR and download the package](http://leeper.github.io/MTurkR) and [follow its development on GitHub](https://github.com/leeper/MTurkR).
 * **rite: The Right Editor to Write R**: A simple, powerful, multi-platform script editor for R, built with tcl/tk, rite helps ease new R users' transition to R (a major rite of passage) by providing a helpful and straightforward scripting tool. rite also provides a script editor useful to advanced R users through its incorporation of features typically found in standalone editors and IDEs (e.g., syntax highlighting, command completion, shortcut keys, find and go-to-line commands, direct acces R help files, etc.). rite also gives beginners and guRus an easy workflow for reproducible research through integration with LaTeX and the [knitr](http://cran.r-project.org/web/packages/knitr/index.html) package. You can [find rite on CRAN](http://cran.r-project.org/web/packages/rite/index.html) and [follow its development on GitHub](https://github.com/leeper/rite).
 * **sparktex: Generate LaTeX sparklines in R**: sparktex is an R companion to the LaTeX [sparklines](http://www.ctan.org/pkg/sparklines) package (by Andreas Loeffler and Dan Luecking), which produces Edward Tufte-inspired [sparklines](http://en.wikipedia.org/wiki/Sparkline) and sparkspikes (in-text histograms) natively in LaTeX. The sparktex package translates R vectors into sparklines syntax and provides an array of control over the size, color, and shape of the resulting in-text plots. You can [find sparktex on CRAN](http://cran.r-project.org/web/packages/sparktex/index.html) and [follow its development on GitHub](https://github.com/leeper/sparktex).
 * **dvn: Access to The Dataverse Network APIs**: dvn is an R package providing access to [The Dataverse Network](http://thedata.org) APIs. The package allows you to search for dataverse records via metadata fields or by handles (a dataverse objectid), as well as download codebooks and other files in a variety of formats. From version 0.3, dvn also supports the Data Deposit API, allowing users to create, modify, and release dataverse studies directly from R. You can [find dvn on CRAN](http://cran.r-project.org/web/packages/dvn/index.html) and [follow its development on GitHub](https://github.com/leeper/dvn).
 
-### Some other assorted materials ###
+## Some other assorted materials ##
 
 <!--* [clipboard](code/r/clipboard.r): Paste from (and evaluate) the contents of the clipboard and copy R objects to the clipboard-->
 <!--* [coefpaste](code/r/coefpaste.r): Produce vectors of coefficients and parenthetical standard errors/standard deviations for easy output-->
