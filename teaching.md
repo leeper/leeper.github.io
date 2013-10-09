@@ -9,6 +9,7 @@ Political psychologists study people. We want to know how people think, act, and
 
 *[Click here](teaching/Teaching%20Statement.pdf) to read my full statement of teaching philosophy.*
 	
+---
 ## Teaching Experience ##
 
 <!--* Instructor, Experimentation and Causal Inference (Master level, Aarhus University, 2014)-->
@@ -18,6 +19,7 @@ Political psychologists study people. We want to know how people think, act, and
 * Teaching Assistant for [Jim Mahoney](http://www.jamesmahoney.org/), Methods of Political Inference (Undergraduate level, Northwestern University, 2011)
 * Teaching Assistant for [Chris Galdieri](http://www.tc.umn.edu/~galdieri/), Political Psychology of Mass Behavior (Undergraduate level, University of Minnesota, 2007)
 
+---
 ## Student Evaluations ##
 
 *Average Ratings from Spring 2011:*
