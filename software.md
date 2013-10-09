@@ -10,6 +10,7 @@ title: Software - Thomas J. Leeper
 * **sparktex: Generate LaTeX sparklines in R**: sparktex is an R companion to the LaTeX [sparklines](http://www.ctan.org/pkg/sparklines) package (by Andreas Loeffler and Dan Luecking), which produces Edward Tufte-inspired [sparklines](http://en.wikipedia.org/wiki/Sparkline) and sparkspikes (in-text histograms) natively in LaTeX. The sparktex package translates R vectors into sparklines syntax and provides an array of control over the size, color, and shape of the resulting in-text plots. You can [find sparktex on CRAN](http://cran.r-project.org/web/packages/sparktex/index.html) and [follow its development on GitHub](https://github.com/leeper/sparktex).
 * **dvn: Access to The Dataverse Network APIs**: dvn is an R package providing access to [The Dataverse Network](http://thedata.org) APIs. The package allows you to search for dataverse records via metadata fields or by handles (a dataverse objectid), as well as download codebooks and other files in a variety of formats. From version 0.3, dvn also supports the Data Deposit API, allowing users to create, modify, and release dataverse studies directly from R. You can [find dvn on CRAN](http://cran.r-project.org/web/packages/dvn/index.html) and [follow its development on GitHub](https://github.com/leeper/dvn).
 
+---
 ## Some other assorted materials ##
 
 <!--* [clipboard](code/r/clipboard.r): Paste from (and evaluate) the contents of the clipboard and copy R objects to the clipboard-->
