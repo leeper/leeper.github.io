@@ -4,7 +4,6 @@ title: Research - Thomas J. Leeper
 ---
 
 
----
 ## Information Choices ##
 
 Choices define humans' day-to-day experiences. While we are acted upon by outside forces and agents, we also make choices among alternatives. In politics and political behavior, choices are abundant: what candidate do you choose to vote for, what news do you choose to read, what people do you choose to interact with, etc. In this area, I am examining both causes and effects of information choices to understand how people decide amongst alternatives and how those choices impact their later cognition and behavior.
