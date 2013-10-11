@@ -1,10 +1,9 @@
 /* GENERAL FORMATTING */
-@import url(http://fonts.googleapis.com/css?family=Cuprum);
 @import url(http://fonts.googleapis.com/css?family=Lato);
 html {
     margin : 5px;
     padding : 5px;
-    font-family:Cuprum, Lato, "Helvetica Neue", Helvetica, Arial, freesans, sans-serif;
+    font-family:Lato, "Helvetica Neue", Helvetica, Arial, freesans, sans-serif;
 }
 
 body {
