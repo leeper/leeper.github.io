@@ -26,6 +26,12 @@ h2 {
     font-size:20px;
 }
 h3 {
+    color:#4c4c4c; 
+    text-align:left; 
+    font-weight:bold; 
+    font-size:16px;
+}
+h5 {
     background-color:#4c4c4c;
     color:#e6e6e6;
     text-align:center;
