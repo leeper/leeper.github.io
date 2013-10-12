@@ -22,12 +22,17 @@ title: Software - Thomas J. Leeper
 <!--* [mergeNA](code/r/mergeNA.r): Combine two variables with mutually exclusive missingness (e.g., for merging responses to questions from two survey forms)-->
 <!--* [sparktex](code/r/sparktex.r): Produce LaTeX code for in-line sparklines, using the [sparkline](http://get-software.net/help/Catalogue/entries/sparklines.html#Docs) environment-->
 
-* [R] [sweave](code/r/sweave.r): An R file (intended to be used as a Windows executable [shell script]) that automatically runs [Sweave](http://www.statistik.lmu.de/~leisch/Sweave/) on the most recently edited .rnw file in a directory and produces the resultant PDF and R code tangles
-* [R] [Really Introductory Introduction to R](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.pdf) (See also: source [.rnw](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.rnw))
-* [JavaScript] [redirect](code/javascript/redirect.html): Randomly redirect the user to one of several pages.
-* [JavaScript] [login](code/javascript/login.txt): Redirect the user to a pre-randomized page, based upon a username, anonymous code, etc.
-* [JavaScript] Other JavaScript code specifically for working with Amazon Mechanical Turk is available [here](MTurkR/index.html).
-* [LaTeX] The [sparktex](http://cran.r-project.org/web/packages/sparktex/index.html) package, mentioned above, for generating LaTeX sparklines from R
-* [LaTeX] [A .bst (bibliography style file for LaTeX)](code/tex/apsa-leeper.bst) that formats according to the APSA/Political Science style guide. I had trouble finding a .bst that correctly formatted citations, so I adapted one to do it. (I use the [natbib](http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/) package to produce parentheticals.)
-* [LaTeX] [A .tex file](code/tex/random.tex) including some simple macros (and [examples](code/tex/random.pdf) thereof) for generating uniform and Normally distributed random variables, displaying those values in various ways, and for including random graphics or .tex files.<br />(Example .tex uses the following files:
+### R ###
+* [sweave](code/r/sweave.r): An R file (intended to be used as a Windows executable [shell script]) that automatically runs [Sweave](http://www.statistik.lmu.de/~leisch/Sweave/) on the most recently edited .rnw file in a directory and produces the resultant PDF and R code tangles
+* [Really Introductory Introduction to R](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.pdf) (See also: source [.rnw](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.rnw))
+
+### JavaScript ###
+* [redirect](code/javascript/redirect.html): Randomly redirect the user to one of several pages.
+* [login](code/javascript/login.txt): Redirect the user to a pre-randomized page, based upon a username, anonymous code, etc.
+* Other JavaScript code specifically for working with Amazon Mechanical Turk is available [here](MTurkR/index.html).
+
+### LaTeX ###
+* The [sparktex](http://cran.r-project.org/web/packages/sparktex/index.html) package, mentioned above, for generating LaTeX sparklines from R
+* [A .bst (bibliography style file for LaTeX)](code/tex/apsa-leeper.bst) that formats according to the APSA/Political Science style guide. I had trouble finding a .bst that correctly formatted citations, so I adapted one to do it. (I use the [natbib](http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/) package to produce parentheticals.)
+* [A .tex file](code/tex/random.tex) including some simple macros (and [examples](code/tex/random.pdf) thereof) for generating uniform and Normally distributed random variables, displaying those values in various ways, and for including random graphics or .tex files.<br />(Example .tex uses the following files:
 [a.tex](code/tex/a.tex), [b.tex](code/tex/b.tex), [0.tex](code/tex/0.tex), [1.tex](code/tex/1.tex), [2.tex](code/tex/2.tex), [A.png](code/tex/A.png), [B.png](code/tex/B.png), [0.png](code/tex/0.png), [1.png](code/tex/1.png), [2.png](code/tex/2.png))
