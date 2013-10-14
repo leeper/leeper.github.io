@@ -22,6 +22,7 @@ While public opinion research has been a staple element of social science inquir
 
 Selected publications:
 	
+* Thomas J. Leeper, and Rune Slothuus. 2014 &ldquo;Political Parties, Motivated REasoning, and Public Opinion Formation.&rdquo; *Advances in Political Psychology*: In press.
 * James N. Druckman, and Thomas J. Leeper. 2012. &ldquo;Learning More from Political Communication Experiments: Pretreatment and Its Effects.&rdquo; *American Journal of Political Science* 56(4): 875&ndash;896.
 * James N. Druckman, and Thomas J. Leeper. 2012. &ldquo;Is Public Opinion Stable? Resolving the Micro-Macro Disconnect in Studies of Public Opinion.&rdquo; *Daedalus* 141(4): 50&ndash;68.
 	
