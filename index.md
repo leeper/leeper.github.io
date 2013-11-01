@@ -10,4 +10,4 @@ My research on individuals' public opinions primarily focuses on the role of inf
 
 Using both survey and experimental methods, I attempt to study public opinion and political behavior from the perspectives of social and cognitive psychology, mass communication, and democratic theory. In addition to my substantive research interests, I am currently engaged in ongoing methodological projects related to nonrandom treatment assignment, internet-based experimentation, sample-related validity concerns, and interaction effects in observational studies. I also actively develop an array of software for the R programming environment.
 
-I also occasionally comment, for a popular audience, on topics in public opinion and psychology through my *Psychology Today* blog &#8220;[Polarized](http://www.psychologytoday.com/blog/polarized)&#8221;.
+<!--I also occasionally comment, for a popular audience, on topics in public opinion and psychology through my *Psychology Today* blog &#8220;[Polarized](http://www.psychologytoday.com/blog/polarized)&#8221;.-->
