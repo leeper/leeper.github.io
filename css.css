@@ -117,12 +117,14 @@ li {
     text-align:left;
     font-size:16px;
     text-indent: -1em;
-    list-style: none; 
+    list-style: square; 
 } 
 
+/*
 ul li:before {
-    content: "+ ";
+    content: "+";
 } 
+*/
 
 /* HEADER AND FOOTER */
 hr {
