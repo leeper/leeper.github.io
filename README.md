@@ -1,6 +1,9 @@
-# Thomas J. Leeper
+# Thomas J. Leeper #
 
-This is the git repository for my webpage, which is hosted with [GitHub Pages](http://pages.github.com/). I'm still experimenting with it, since I moved from a static hosting service (after a period of hosting on Dropbox). GitHub Pages offers support for [Jekyll](http://jekyllrb.com/), but I haven't started migrating my old HTML into Jekyll yet. Maybe soon.
+This is the git repository for my webpage, which is hosted with [GitHub Pages](http://pages.github.com/). I'm still experimenting with it, since I moved from a static hosting service (after a period of hosting on Dropbox).
+
+---
+## Setting up GH Pages ##
 
 Some things I learned setting up my custom domain redirect (from [thomasleeper.com](http://www.thomasleeper.com)), which weren't very well documented on the GitHub Pages [help files ](https://help.github.com/articles/setting-up-a-custom-domain-with-pages) are as follows. If you set up the redirect according to the instructions, it still may not work. My domain is registered with [mydomain](http://www.mydomain.com/) and I had to do the following configurations to get the redirect to work and to avoid an infinite looping redirect between mydomain and GH pages:
 * Make a `CNAME` file containing the domain in your gh-pages repository.
