@@ -73,6 +73,9 @@ Selected publications:
 
 While experimental methods are considered the *gold standard* for causal inference, many political and social phenomena cannot be readily examined with experimentation and, regardless of feasibility, much of the social and political data available to researchers is observational. One potential solution to these constraints is the approximation of experimental treatment assignment through matching techniques. In some cases, (random) experimental assignment to treatment status may even be uninformative about real-world processes involving nonrandom assignment to treatment status.
 
-In this area I am currently examining critiques of matching methods in the area of voter mobilization research, the study causal moderation through matching, and the combination of matching and experimentation to treatment self-selection problems.
+Ongoing projects:
+* A project on the combination of matching and experimentation to study treatment self-selection problems.
+* Joint work with [Jason Seawright](http://www.polisci.northwestern.edu/people/seawright.html) on the study causal moderation with matching methods.
+* Project examining critiques of matching methods in the area of voter mobilization research.
 
 
