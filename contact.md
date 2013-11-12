@@ -3,7 +3,7 @@ layout: default
 title: Contact - Thomas J. Leeper
 ---
 
-## Academic material ##
+### Academic material ###
 Publications: [Google Scholar](http://scholar.google.com/citations?user=hqiux-MAAAAJ)
 
 Working papers: [Social Science Research Network](http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1269107)
@@ -12,15 +12,21 @@ Software: [GitHub](https://github.com/leeper) and [crantastic!](http://crantasti
 
 Data: [Dataverse Network](http://dvn.iq.harvard.edu/dvn/dv/leeper)
 
+Identifiers: [ORCID](http://orcid.org/0000-0003-4097-6326) and [ResearcherID](http://www.researcherid.com/rid/J-9733-2013)
 
-## Academic networking ##
-[Academia.edu](http://northwestern.academia.edu/ThomasLeeper)
+Aarhus: [PURE Profile](http://pure.au.dk/portal/da/tleeper@ps.au.dk)
+
+Q&A: [StackOverflow](http://stackoverflow.com/users/2338862/thomas) and [StackExchange Academia](http://academia.stackexchange.com/users/6984/thomas)
+
+
+### Academic networking ###
+[Academia.edu](http://au.academia.edu/ThomasLeeper)
 
 [Mendeley](http://www.mendeley.com/profiles/thomas-leeper/)
 
 [LinkedIn](http://www.linkedin.com/in/thomasjleeper)
 
 
-## Blog ##
+### Blog ###
 [*Polarized*](http://www.psychologytoday.com/blog/polarized) (via *Psychology Today*)
 				
