@@ -12,7 +12,7 @@ Political psychologists study people. We want to know how people think, act, and
 ---
 ## Teaching Experience ##
 
-<!--* Instructor, Experimentation and Causal Inference (Master level, Aarhus University, 2014)-->
+<!--* Instructor, Experimentation and Causal Inference (Master level, Aarhus University, 2014) - [Course Website](http://www.thomasleeper.com/expcourse) -->
 <!--* Co-Instructor, Quantitative Political Analysis (Master/Doctoral level, Aarhus University, 2014)-->
 * Instructor, Does Public Opinion Matter? (Master level, Aarhus University, 2013) - [Course Website](http://www.thomasleeper.com/opinioncourse)
 * Teaching Assistant for [Jay Seawright](http://www.polisci.northwestern.edu/people/seawright.html), Statistical Research Methods (Undergraduate level, Northwestern University, 2011)
