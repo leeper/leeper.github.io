@@ -19,7 +19,7 @@ title: Software - Thomas J. Leeper
 You can find most of my software development projects on [GitHub](http://github.com/leeper).
 
 ### R ###
-* [slopegraph](https://gist.github.com/leeper/7158678): An R function to to draw Edward Tufte-inspired [Slopegraphs](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk).
+* [slopegraph](https://github.com/leeper/slopegraph): An R function to to draw Edward Tufte-inspired [Slopegraphs](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003nk).
 * [sweave-executable](https://gist.github.com/leeper/7333995): An R file (intended to be used as a Windows executable [shell script]) that automatically runs [Sweave](http://www.statistik.lmu.de/~leisch/Sweave/) on the most recently edited .rnw file in a directory and produces the resultant PDF and R code tangles.
 * [Really Introductory Introduction to R](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.pdf) (See also: source [.rnw](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.rnw)).
 
