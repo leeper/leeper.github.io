@@ -26,6 +26,7 @@ Q&A: [StackOverflow](http://stackoverflow.com/users/2338862/thomas) and [StackEx
 
 [LinkedIn](http://www.linkedin.com/in/thomasjleeper)
 
+[Twitter](https://twitter.com/thosjleeper)
 
 ### Blog ###
 [*Polarized*](http://www.psychologytoday.com/blog/polarized) (via *Psychology Today*)
