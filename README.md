@@ -15,3 +15,4 @@ Some things I learned setting up my custom domain redirect (from [thomasleeper.c
 
 This is based on some advice from [this StackOverflow question](http://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages), which was pretty helpful. It was really frustrating getting this setup but once those settings were in place everything started working almost immediately. Hopefully this is helpful for anyone else experiencing similar problems. 
   
+[![Build Status](https://travis-ci.org/leeper/leeper.github.io.png?branch=master)](https://travis-ci.org/leeper/leeper.github.io)
