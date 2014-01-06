@@ -22,7 +22,7 @@ Q&A: [StackOverflow](http://stackoverflow.com/users/2338862/thomas) and [StackEx
 ### Academic networking ###
 [Academia.edu](http://au.academia.edu/ThomasLeeper)
 
-[Mendeley](http://www.mendeley.com/profiles/thomas-leeper/)
+<!--[Mendeley](http://www.mendeley.com/profiles/thomas-leeper/)-->
 
 [LinkedIn](http://www.linkedin.com/in/thomasjleeper)
 
