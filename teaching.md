@@ -12,14 +12,14 @@ Political psychologists study people. We want to know how people think, act, and
 ---
 ## Teaching Experience ##
 
-| Role | Course | Level/Location | Website |
+| Role | Course | Level/Location |  |
 | ---- | ------ | -------------- | ------- |
 | Instructor | Experimentation and Causal Inference | Master level<br/>Aarhus University<br/>2014 | [Course Website](http://www.thomasleeper.com/expcourse) |
-| Co-Instructor with [Kim Mannemar Sønderskov](http://pure.au.dk/portal/en/ks@ps.au.dk) | Quantitative Political Analysis | Master/Doctoral level, Aarhus University, 2014| |
-| Instructor | Does Public Opinion Matter? | Master level, Aarhus University, 2013 | [Course Website](http://www.thomasleeper.com/opinioncourse) |
-| Teaching Assistant for [Jay Seawright](http://www.polisci.northwestern.edu/people/seawright.html) | Statistical Research Methods | Undergraduate level, Northwestern University, 2011| |
-| Teaching Assistant for [Jim Mahoney](http://www.jamesmahoney.org/) | Methods of Political Inference | Undergraduate level, Northwestern University, 2011 | |
-| Teaching Assistant for [Chris Galdieri](http://www.tc.umn.edu/~galdieri/) | Political Psychology of Mass Behavior | Undergraduate level, University of Minnesota, 2007| |
+| Co-Instructor with [Kim Sønderskov](http://pure.au.dk/portal/en/ks@ps.au.dk) | Quantitative Political Analysis | Master/Doctoral level<br/>Aarhus University<br/>2014| |
+| Instructor | Does Public Opinion Matter? | Master level<br/>Aarhus University<br/>2013 | [Course Website](http://www.thomasleeper.com/opinioncourse) |
+| Teaching Assistant for [Jay Seawright](http://www.polisci.northwestern.edu/people/seawright.html) | Statistical Research Methods | Bachelor level<br/>Northwestern University<br/>2011| |
+| Teaching Assistant for [Jim Mahoney](http://www.jamesmahoney.org/) | Methods of Political Inference | Bachelor level<br/>Northwestern University<br/>2011 | |
+| Teaching Assistant for [Chris Galdieri](http://www.tc.umn.edu/~galdieri/) | Political Psychology of Mass Behavior | Bachelor level<br/>University of Minnesota<br/>2007| |
 
 ---
 ## Student Evaluations ##
