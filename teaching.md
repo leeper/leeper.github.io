@@ -14,7 +14,7 @@ Political psychologists study people. We want to know how people think, act, and
 
 | Role | Course | Level/Location | Website |
 | ---- | ------ | -------------- | ------- |
-| Instructor | Experimentation and Causal Inference | Master level, Aarhus University, 2014 | [Course Website](http://www.thomasleeper.com/expcourse) |
+| Instructor | Experimentation and Causal Inference | Master level<br/>Aarhus University<br/>2014 | [Course Website](http://www.thomasleeper.com/expcourse) |
 | Co-Instructor with [Kim Mannemar Sønderskov](http://pure.au.dk/portal/en/ks@ps.au.dk) | Quantitative Political Analysis | Master/Doctoral level, Aarhus University, 2014| |
 | Instructor | Does Public Opinion Matter? | Master level, Aarhus University, 2013 | [Course Website](http://www.thomasleeper.com/opinioncourse) |
 | Teaching Assistant for [Jay Seawright](http://www.polisci.northwestern.edu/people/seawright.html) | Statistical Research Methods | Undergraduate level, Northwestern University, 2011| |
