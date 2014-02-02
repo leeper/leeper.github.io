@@ -111,3 +111,14 @@ code {
 }
 
 /* Tables */
+table {
+    text-align:center;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+td {
+    text-align:center;
+    padding-left:2.5em;
+    padding-right:2.5em;
+}
