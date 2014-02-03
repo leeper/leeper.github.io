@@ -35,10 +35,10 @@ a, a > code {
     text-decoration: none;
 }
 code {
-    -moz-border-radius: 5px;
-    -web-border-radius: 5px;
+    /*-moz-border-radius: 5px;*/
+    /*-web-border-radius: 5px;*/
     /*background: #e7e8e2;*/
-    border-radius: 5px;
+    /*border-radius: 5px;*/
     font-size: 1em;
 }
 .pull-left {
