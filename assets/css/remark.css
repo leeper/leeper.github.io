@@ -26,6 +26,7 @@ h4 {
 .footnote {
     position: absolute;
     bottom: 3em;
+    font-size: 0.8em;
 }
 li p { line-height: 1.25em; }
 red { color: #fa0000; }
