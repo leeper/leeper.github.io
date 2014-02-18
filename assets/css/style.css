@@ -60,13 +60,9 @@ p {
     margin-left:0em;
     font-size:16px;
 }
-.thomas {
+header {
     margin-bottom:0.2em;
     color:#4c4c4c; 
-    text-align:left; 
-    font-weight:bold; 
-    font-size:32px;
-    margin-left:24pt;
     text-decoration:none;
 }
 .body {    
@@ -148,6 +144,7 @@ nav{
     text-align:right;
 }
 nav a{
+    color:#e6e6e6;
     display:block;
     padding:.7em 1em;
 }
