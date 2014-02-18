@@ -42,6 +42,24 @@ Political psychologists study people. We want to know how people think, act, and
 
 *Selected Student Comments:*
 
+<script>
+var div = $('div').hide(),
+    news = ['Thomas was the best TA I have ever had. No other TA has ever been so helpful, accessible, or responsive. He replied to emails quickly and with very long, detailed responses. He always extended office hours around exam/paper time. He was actually just the best TA ever. He also made discussions really interesting since he would implement activities or turn the material into an interesting conversation apart from just summarizing readings or lectures.',
+            'news2',
+            'news3'],
+    count = 0;
+
+function changeNews() {
+    div.fadeIn().delay(5000).fadeOut(function() {
+        changeNews();
+    }).text(news[count++])
+    if (count == news.length) {
+        count = 0;
+    }
+}
+changeNews();
+</script>
+
 * Thomas was the best TA I have ever had. No other TA has ever been so helpful, accessible, or responsive. He replied to emails quickly and with very long, detailed responses. He always extended office hours around exam/paper time. He was actually just the best TA ever. He also made discussions really interesting since he would implement activities or turn the material into an interesting conversation apart from just summarizing readings or lectures.
 * Thomas is great! He's very willing to help answer our questions and quite funny. Thomas is laid back and helped us see how to apply Methods to the real world.
 * Thomas is the PERFECT TA. Thomas likes and really, really understands PS methods. He is super prepared for section, makes jokes, brings in activities for us to do that relate to lectures, and grades with understanding. He is also just a really nice guy - you can talk to him about your papers and get help with questions, but you can also enjoy a good conversation with him in office hours. He cares about his students and teaches them a lot. It was a pleasure.
