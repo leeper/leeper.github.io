@@ -93,7 +93,7 @@ code {
     box-shadow: 0 0 10px #777;
 }
 #slide-how .slides .first {
-    background: #fff;
+    /*background: #fff;*/
     position: absolute;
     top: 20%;
     left: 20%;
@@ -101,7 +101,7 @@ code {
 }
 #slide-how .slides .second {
     position: relative;
-    background: #fff;
+    /*background: #fff;*/
     z-index: 0;
 }
 
