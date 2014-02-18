@@ -60,7 +60,7 @@ p {
     margin-left:0em;
     font-size:16px;
 }
-.thomas {
+header {
     font-weight:bold;
     font-size:32px;
     text-decoration:none;
@@ -71,11 +71,11 @@ p {
     margin-bottom:0.2em;
     color:#4c4c4c;
 }
-.thomas a {
+header a {
     color:#4c4c4c;
     text-decoration:none;
 }
-.thomas a:hover {
+header a:hover {
     color:#4c4c4c;
     text-decoration:none;
 }
