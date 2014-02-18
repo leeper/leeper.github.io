@@ -63,6 +63,9 @@ p {
 header {
     margin-bottom:0.2em;
     color:#4c4c4c; 
+    text-align:left; 
+    font-weight:bold; 
+    font-size:32px;
     text-decoration:none;
 }
 .body {    
@@ -89,6 +92,7 @@ header {
 
 /* HYPERLINKS */
 a {    
+    color:#4c4c4c;
     text-decoration:none; 
     color:maroon;
 }
