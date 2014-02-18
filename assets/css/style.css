@@ -62,12 +62,22 @@ p {
 }
 .thomas {
     margin-bottom:0.2em;
-    color:#4c4c4c; 
+    color:#4c4c4c;
     text-align:left; 
     font-weight:bold; 
     font-size:32px;
     text-decoration:none;
 }
+.thomas a {
+    color:#4c4c4c;
+    text-decoration:none;
+}
+.thomas a:hover {
+    color:#4c4c4c;
+    text-decoration:none;
+}
+
+
 .body {    
     margin-bottom:0.2em;
     color:#4c4c4c;
@@ -150,7 +160,7 @@ nav{
 nav a{
     color:#4c4c4c;
     display:block;
-    padding:.25em 1em;
+    padding:.5em 1em;
 }
 nav a:hover{
     color:#e6e6e6;
