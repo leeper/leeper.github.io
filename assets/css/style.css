@@ -61,6 +61,7 @@ p {
     font-size:16px;
 }
 header {
+    margin-left:-12em;
     margin-bottom:0.2em;
     color:#4c4c4c; 
     text-align:left; 
@@ -148,7 +149,7 @@ nav{
     text-align:right;
 }
 nav a{
-    color:#e6e6e6;
+    color:#4c4c4c;
     display:block;
     padding:.7em 1em;
 }
@@ -156,20 +157,3 @@ nav a:hover{
     background-color:maroon;
     text-decoration:none;
 }
-
-/*
-nav {
-}
-
-span.nav {
-    background-color:#4c4c4c;
-    text-align:center;
-    display:block;
-}
-
-a.nav {
-    color:#e6e6e6;
-    margin-left:2%;
-    margin-right:2%;
-}
-*/
