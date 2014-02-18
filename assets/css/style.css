@@ -138,15 +138,32 @@ hr {
     margin-top:1em;
 }
 
+nav{
+    font-weight:bold;
+    text-transform:uppercase;
+    font-size:18px;
+    float:left;
+    margin-left:-12em;
+    width:9em;
+    text-align:right;
+}
+nav a{
+    display:block;
+    padding:.7em 1em;
+}
+nav a:hover{
+    background-color:maroon;
+    text-decoration:none;
+}
+
+/*
 nav {
 }
 
 span.nav {
     background-color:#4c4c4c;
-    font-weight:bold;
     text-align:center;
     display:block;
-    font-size:18px;
 }
 
 a.nav {
@@ -154,3 +171,4 @@ a.nav {
     margin-left:2%;
     margin-right:2%;
 }
+*/
