@@ -45,10 +45,15 @@ UNF is an R package for generating variable- and dataset-level universal numeric
 ---
 ## Some other assorted materials ##
 
+* R: [Update R packages if newer versions available on DESCRIPTION-listed GitHub URL field](https://gist.github.com/leeper/9123584)
+* R: [Identify gender of first names, by country, using the Gender API](https://gist.github.com/leeper/9021068)
 * R: [Really Introductory Introduction to R](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.pdf) (See also: source [.rnw](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.rnw)).
+* R: [Materials for learning and teaching R](http://thomasleeper.com/Rcourse/)
+
 * JavaScript: [redirect](https://github.com/leeper/leeper.github.io/blob/master/code/javascript/redirect.html): Randomly redirect the user to one of several pages.
 * JavaScript: [login](https://github.com/leeper/leeper.github.io/blob/master/code/javascript/login.html): Redirect the user to a pre-randomized page, based upon a username, anonymous code, etc.
 * JavaScript: Other JavaScript code specifically for working with Amazon Mechanical Turk is available [here](MTurkR/index.html).
-* LaTex: [A .bst (bibliography style file for LaTeX)](https://github.com/leeper/leeper.github.io/blob/master/code/tex/apsa-leeper.bst) that formats according to the APSA/Political Science style guide. I had trouble finding a .bst that correctly formatted citations, so I adapted one to do it. (I use the [natbib](http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/) package to produce parentheticals.)
-* LaTex:  [A .tex file](https://github.com/leeper/leeper.github.io/blob/master/code/tex/random.tex) including some simple macros (and [examples](code/tex/random.pdf) thereof) for generating uniform and Normally distributed random variables, displaying those values in various ways, and for including random graphics or .tex files. (Example .tex uses the following files:
+
+* LaTeX: [A .bst (bibliography style file for LaTeX)](https://github.com/leeper/leeper.github.io/blob/master/code/tex/apsa-leeper.bst) that formats according to the APSA/Political Science style guide. I had trouble finding a .bst that correctly formatted citations, so I adapted one to do it. (I use the [natbib](http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/) package to produce parentheticals.)
+* LaTeX:  [A .tex file](https://github.com/leeper/leeper.github.io/blob/master/code/tex/random.tex) including some simple macros (and [examples](code/tex/random.pdf) thereof) for generating uniform and Normally distributed random variables, displaying those values in various ways, and for including random graphics or .tex files. (Example .tex uses the following files:
 [a.tex](code/tex/a.tex), [b.tex](code/tex/b.tex), [0.tex](code/tex/0.tex), [1.tex](code/tex/1.tex), [2.tex](code/tex/2.tex), [A.png](code/tex/A.png), [B.png](code/tex/B.png), [0.png](code/tex/0.png), [1.png](code/tex/1.png), [2.png](code/tex/2.png))
