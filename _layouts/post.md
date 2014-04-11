@@ -7,4 +7,4 @@ layout: default
 {{ content }}
 
 <br />
-Published: {{ page.date }}
+<span style="font-style:italic;font-size:.8em;float:right;">Published: {{ page.date | date:"%Y-%m-%d" }}</span>
