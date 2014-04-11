@@ -1,6 +1,13 @@
 ---
-layout: default
+layout: post
 title: The Relevance of Social Science
+categories:
+ - political science
+tags:
+ - political science
+ - engagement
+ - communication
+ - teaching
 ---
 
 
