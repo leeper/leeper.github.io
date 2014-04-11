@@ -6,4 +6,5 @@ layout: default
 
 {{ content }}
 
-{{ page.date }}
+<br />
+Published: {{ page.date }}
