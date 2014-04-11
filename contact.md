@@ -28,6 +28,9 @@ Q&A: [StackOverflow](http://stackoverflow.com/users/2338862/thomas) and [StackEx
 
 [Twitter](https://twitter.com/thosjleeper)
 
-### Blog ###
+### Blogging ###
+
+[My academic (research, teaching, software) blog](http://www.thomasleeper.com/blog)
+
 [*Polarized*](http://www.psychologytoday.com/blog/polarized) (via *Psychology Today*)
 				
