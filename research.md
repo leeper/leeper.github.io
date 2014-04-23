@@ -15,14 +15,14 @@ Ongoing projects:
 
 Working papers:
 
-* ["Are Strong Opinions More Stable?"]({{ page.papers }}AreStrongOpinionMoreStable.pdf)
+* [&ldquo;Are Strong Opinions More Stable?&rdquo;]({{ page.papers }}AreStrongOpinionMoreStable.pdf)
 
 Selected publications:
 	
-* Thomas J. Leeper. 2014. "Cognitive Style and the Survey Response." *Public Opinion Quarterly*: Forthcoming.
-* [Thomas J. Leeper, and Rune Slothuus. 2014 &ldquo;Political Parties, Motivated Reasoning, and Public Opinion Formation.&rdquo; *Advances in Political Psychology* 35(S1): 129--156.](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) [Preprint]({{ page.papers}}AdvancesInPoliticalPsychology2014.pdf)
-* [James N. Druckman, and Thomas J. Leeper. 2012. &ldquo;Learning More from Political Communication Experiments: Pretreatment and Its Effects.&rdquo; *American Journal of Political Science* 56(4): 875&ndash;896.](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00582.x/abstract) 
-* [James N. Druckman, and Thomas J. Leeper. 2012. &ldquo;Is Public Opinion Stable? Resolving the Micro-Macro Disconnect in Studies of Public Opinion.&rdquo; *Daedalus* 141(4): 50&ndash;68.](http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00173) [Preprint]({{ page.papers}}Daedalus2012.pdf)
+* Thomas J. Leeper. 2014. &ldquo;Cognitive Style and the Survey Response.&rdquo; *Public Opinion Quarterly*: Forthcoming.
+* Thomas J. Leeper, and Rune Slothuus. 2014 [&ldquo;Political Parties, Motivated Reasoning, and Public Opinion Formation.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) *Advances in Political Psychology* 35(S1): 129--156. [Preprint]({{ page.papers}}AdvancesInPoliticalPsychology2014.pdf)
+* James N. Druckman, and Thomas J. Leeper. 2012. [&ldquo;Learning More from Political Communication Experiments: Pretreatment and Its Effects.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00582.x/abstract) *American Journal of Political Science* 56(4): 875&ndash;896.
+* James N. Druckman, and Thomas J. Leeper. 2012. [&ldquo;Is Public Opinion Stable? Resolving the Micro-Macro Disconnect in Studies of Public Opinion.&rdquo;](http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00173) *Daedalus* 141(4): 50&ndash;68. [Preprint]({{ page.papers}}Daedalus2012.pdf)
 
 ---
 ## Information Choices ##
@@ -37,13 +37,13 @@ Ongoing projects:
 
 Working papers:
 
-* ["Causal Effects Under Self-Selection"]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
+* [&ldquo;Causal Effects Under Self-Selection&rdquo;]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
 
 Selected publications:
 	
-* [Thomas J. Leeper. 2014. &ldquo;The Informational Basis for Mass Polarization.&rdquo; *Public Opinion Quarterly* 78(1): 27-46.](http://poq.oxfordjournals.org/content/78/1/27.abstract) [Preprint]({{ page.papers }}PublicOpinionQuarterly2014.pdf)
-* [Toby Bolsen, and Thomas J. Leeper. 2013. &ldquo;Self-Interest and Attention to News among Issue Publics.&rdquo; *Political Communication* 30(3): 329&ndash;348.](http://www.tandfonline.com/doi/abs/10.1080/10584609.2012.737428#.UugCqLs1jtQ) [Preprint]({{ page.papers }}PoliticalCommunication2013.pdf)
-* [James N. Druckman, Jordan Fein, and Thomas J. Leeper. 2012. &ldquo;A Source of Bias in Public Opinion Stability.&rdquo; *American Political Science Review* 106(2): 430&ndash;454.](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8600564) [Preprint]({{ page.papers}}AmericanPoliticalScienceReview2012.pdf)
+* Thomas J. Leeper. 2014. [&ldquo;The Informational Basis for Mass Polarization.&rdquo;](http://poq.oxfordjournals.org/content/78/1/27.abstract) *Public Opinion Quarterly* 78(1): 27-46. [Preprint]({{ page.papers }}PublicOpinionQuarterly2014.pdf)
+* Toby Bolsen, and Thomas J. Leeper. 2013. [&ldquo;Self-Interest and Attention to News among Issue Publics.&rdquo;](http://www.tandfonline.com/doi/abs/10.1080/10584609.2012.737428#.UugCqLs1jtQ) *Political Communication* 30(3): 329&ndash;348. [Preprint]({{ page.papers }}PoliticalCommunication2013.pdf)
+* James N. Druckman, Jordan Fein, and Thomas J. Leeper. 2012. [&ldquo;A Source of Bias in Public Opinion Stability.&rdquo;](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8600564) *American Political Science Review* 106(2): 430&ndash;454. [Preprint]({{ page.papers}}AmericanPoliticalScienceReview2012.pdf)
 	
 
 ---
@@ -57,12 +57,12 @@ Ongoing projects:
 
 Working papers:
 
-* ["Interest Groups and Political Attitudes"]({{ page.papers }}InterestGroupsAndPoliticalAttitudes.pdf)
+* [&ldquo;Interest Groups and Political Attitudes&rdquo;]({{ page.papers }}InterestGroupsAndPoliticalAttitudes.pdf)
 
 Selected publications:
 
-* [Thomas J. Leeper, and Rune Slothuus. 2014 &ldquo;Political Parties, Motivated Reasoning, and Public Opinion Formation.&rdquo; *Advances in Political Psychology* 35(S1): 129--156.](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) [Preprint]({{ page.papers }}AdvancesInPoliticalPsychology2014.pdf)
-* [Toby Bolsen, Thomas J. Leeper, and Matthew Shapiro. 2014. &ldquo;Doing What Others Do: Norms, Science, and Collective Action on Global Warming.&rdquo; *American Politics Research* 42(1): 65--89.](http://apr.sagepub.com/content/42/1/65) [Preprint]({{ page.papers }}AmericanPoliticsResearch2014.pdf)
+* Thomas J. Leeper, and Rune Slothuus. 2014 [&ldquo;Political Parties, Motivated Reasoning, and Public Opinion Formation.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) *Advances in Political Psychology* 35(S1): 129--156. [Preprint]({{ page.papers }}AdvancesInPoliticalPsychology2014.pdf)
+* Toby Bolsen, Thomas J. Leeper, and Matthew Shapiro. 2014. [&ldquo;Doing What Others Do: Norms, Science, and Collective Action on Global Warming.&rdquo;](http://apr.sagepub.com/content/42/1/65) *American Politics Research* 42(1): 65--89. [Preprint]({{ page.papers }}AmericanPoliticsResearch2014.pdf)
 	
 ---
 ## Reproducible Research, Open Data, and Statistical Computing ##
@@ -72,8 +72,8 @@ Shifting norms in social scientific practice mean that the future of quantitativ
 Selected publications:
 
 * For published software, see [Software](http://thomasleeper.com/software)
-* [Thomas J. Leeper. 2014. &ldquo;Archiving Reproducible Research with R and Dataverse.&rdquo; *The R Journal*: In press.](http://journal.r-project.org/archive/accepted/leeper.pdf)
-* [Thomas J. Leeper. 2011. &ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo; *The Experimental Political Scientist* 2(1): 6&ndash;10.](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf)
+* Thomas J. Leeper. 2014. [&ldquo;Archiving Reproducible Research with R and Dataverse.&rdquo;](http://journal.r-project.org/archive/accepted/leeper.pdf) *The R Journal*: In press.
+* Thomas J. Leeper. 2011. [&ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo;](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf) *The Experimental Political Scientist* 2(1): 6&ndash;10.
 
 
 
@@ -84,12 +84,12 @@ Experimental methods are an increasingly important method for understanding poli
 
 Working papers:
 
-* ["To Whom With What Effect? Parallel Experiments on Framing"]({{ page.papers }}ParallelExperimentsOnFraming.pdf) (Joint with [Kevin Mullinix](http://www.kevinmullinix.com/))
+* [&ldquo;To Whom With What Effect? Parallel Experiments on Framing&rdquo;]({{ page.papers }}ParallelExperimentsOnFraming.pdf) (Joint with [Kevin Mullinix](http://www.kevinmullinix.com/))
 
 Selected publications:
 	
-* [Thomas J. Leeper. 2013. &ldquo;Crowdsourcing with R and the MTurk API.&rdquo; *The Political Methodologist* 2(2): 2&ndash;7.](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf)
-* [Thomas J. Leeper. 2011. &ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo; *The Experimental Political Scientist* 2(1): 6&ndash;10.](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf)
+* Thomas J. Leeper. 2013. [&ldquo;Crowdsourcing with R and the MTurk API.&rdquo;](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf) *The Political Methodologist* 2(2): 2&ndash;7.
+* Thomas J. Leeper. 2011. [&ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo;](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf) *The Experimental Political Scientist* 2(1): 6&ndash;10.
 	
 
 ---
