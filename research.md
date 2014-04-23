@@ -62,7 +62,7 @@ Working papers:
 Selected publications:
 
 * [Thomas J. Leeper, and Rune Slothuus. 2014 &ldquo;Political Parties, Motivated REasoning, and Public Opinion Formation.&rdquo; *Advances in Political Psychology* 35(S1): 129--156.](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) [Preprint]({{ page.papers }}AdvancesInPoliticalPsychology2014.pdf)
-* [Toby Bolsen, Thomas J. Leeper, and Matthew Shapiro. 2014. &ldquo;Doing What Others Do: Norms, Science, and Collective Action on Global Warming.&rdquo; *American Politics Research* 42(1): 65--89.](http://apr.sagepub.com/content/42/1/65) [Preprint]({{ page.papers }}AmericanPoliticsResearch.pdf)
+* [Toby Bolsen, Thomas J. Leeper, and Matthew Shapiro. 2014. &ldquo;Doing What Others Do: Norms, Science, and Collective Action on Global Warming.&rdquo; *American Politics Research* 42(1): 65--89.](http://apr.sagepub.com/content/42/1/65) [Preprint]({{ page.papers }}AmericanPoliticsResearch2014.pdf)
 	
 ---
 ## Reproducible Research, Open Data, and Statistical Computing ##
