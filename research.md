@@ -16,7 +16,7 @@ Ongoing projects:
 
 Working papers:
 
-* ["Are Strong Opinions More Stable?"]({{ papers }}AreStrongOpinionMoreStable.pdf)
+* ["Are Strong Opinions More Stable?"]({{ page.papers }}AreStrongOpinionMoreStable.pdf)
 
 Selected publications:
 	
