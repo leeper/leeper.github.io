@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research - Thomas J. Leeper
+papers: https://dl.dropboxusercontent.com/u/414906/
 ---
 
 ## Public Opinion Dynamics ##
@@ -12,6 +13,10 @@ Ongoing projects:
 * A nationally representative survey and experimental project examining how political debate about a real, novel policy issue influences citizens' understanding of and attitudes toward the policy.
 * A survey analytic project examining the relationship between attitude strength and the over-time stability of attitudes in panel surveys.
 * A macro-level analysis of the relationship between media coverage, issue importance, and the volume of public opinion polling.
+
+Working papers:
+
+* ["Are Strong Opinions More Stable?"]({{ papers }}/AreStrongOpinionMoreStable.pdf)
 
 Selected publications:
 	
