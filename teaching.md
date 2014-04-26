@@ -14,6 +14,8 @@ Political psychologists study people. We want to know how people think, act, and
 
 | Role | Course | Level/Location |
 | ---- | ------ | -------------- |
+| Instructor | [Using Surveys for Research and Evaluation](http://www.thomasleeper.com/surveycourse) | Master level<br/>Aarhus University, 2014 |
+| Instructor | [Issues in American Politics and Government](http://www.thomasleeper.com/ampolcourse) | Master level<br/>Aarhus University, 2014 |
 | Instructor | [Experimentation and Causal Inference](http://www.thomasleeper.com/expcourse) | Master level<br/>Aarhus University, 2014 |
 | Co-Instructor with [Kim Sønderskov](http://pure.au.dk/portal/en/ks@ps.au.dk) | Quantitative Political Analysis | Master/Doctoral level<br/>Aarhus University, 2014|
 | Instructor | [Introduction to R](http://www.thomasleeper.com/Rcourse) | Short course<br/>Aarhus University, 2013 |
