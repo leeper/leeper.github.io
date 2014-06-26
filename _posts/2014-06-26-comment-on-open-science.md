@@ -1,4 +1,15 @@
-# A Comment on Open Science #
+---
+layout: post
+title: A Comment on Open Science
+categories:
+ - political science
+tags:
+ - political science
+ - open science
+ - open access
+ - publishing
+ - conferences
+---
 
 Open science is important. Making knowledge and the data underlying that knowledge freely and widely available is a fundamental part of the enterprise of science. Unfortunately, science is typically not open. Instead, most research is hidden behind paywalls (all of my published empirical research is) and most data are never made public ([but all of mine is public](http://thedata.harvard.edu/dvn/dv/leeper)).
 
