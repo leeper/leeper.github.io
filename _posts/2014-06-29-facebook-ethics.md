@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Science, Social Media, and the Boundaries of Ethical Experimentation
 categories:
