@@ -1,4 +1,4 @@
-ï»¿---
+---
 layout: post
 title: Science, Social Media, and the Boundaries of Ethical Experimentation
 categories:
@@ -17,7 +17,7 @@ Facebook has been taking a lot of heat this week for a study its researchers pub
 
 The response from the media world has not been great. [The lede at *Slate* read](http://www.slate.com/articles/health_and_science/science/2014/06/facebook_unethical_experiment_it_made_news_feeds_happier_or_sadder_to_manipulate.html): "It intentionally manipulated users' emotions without their knowledge." *The Chicago Tribune*'s Scott Kleinberg was [apparently shocked to learn](http://www.chicagotribune.com/news/chi-facebook-experiment-20140628,0,5442982.story) that internet companies experiment: "This might be the reason Facebook doesn't have a dislike button. The social network has been conducting secret experiments on us. Really."
 
-[AV Club offered a softer view](http://www.avclub.com/article/facebook-tinkered-users-feeds-massive-psychology-e-206324): "It's a charming reminder that Facebook isn't just the place you go to see pictures of your friends' kids or your racist uncle's latest rant against the government—it's also an exciting research lab, with all of us as potential test subjects." In short, Facebook conducted scientific research that was deemed sufficiently interesting to get it published in one of the world's top academic journals.
+[AV Club offered a softer view](http://www.avclub.com/article/facebook-tinkered-users-feeds-massive-psychology-e-206324): "It's a charming reminder that Facebook isn't just the place you go to see pictures of your friends' kids or your racist uncle's latest rant against the government, it's also an exciting research lab, with all of us as potential test subjects." In short, Facebook conducted scientific research that was deemed sufficiently interesting to get it published in one of the world's top academic journals.
 
 I think it's fantastic that the study has prompted a wide discussion of research ethics among academics and journalists working in both technology and science. And, I think it's understandable that many people are experiencing a visceral negative reaction to the study. The idea of a company that doesn't have a great track record of privacy secretly experimenting with its users emotions sounds bad.
 
@@ -90,7 +90,7 @@ The final element of the Facebook study that seems to catch peoples' attention i
 
 The Facebook did not supply research subjects with this kind of form (remember, they legally didn't have to). [Gizmodo characterized the visceral reaction to this study feature as](http://gizmodo.com/facebook-did-psych-experiments-on-random-users-to-study-1597385219): "there's something a bit creepy about Facebook using nearly three quarters of a million regular users as psychological test subjects, without their ever knowing it." The study authors defended that choice as follows:
 
-> it was consistent with [Facebook’s Data Use Policy](https://www.facebook.com/about/privacy/), to which all users agree prior to creating an account on Facebook, constituting informed consent for this research. (p.8789).
+> it was consistent with [Facebook's Data Use Policy](https://www.facebook.com/about/privacy/), to which all users agree prior to creating an account on Facebook, constituting informed consent for this research. (p.8789).
 
 The relevant parts of the Data Use Policy state:
 
