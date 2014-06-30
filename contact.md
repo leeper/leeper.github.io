@@ -14,7 +14,7 @@ Identifiers: [ORCID](http://orcid.org/0000-0003-4097-6326) and [ResearcherID](ht
 
 Aarhus: [PURE Profile](http://pure.au.dk/portal/da/tleeper@ps.au.dk)
 
-Q&A: [StackOverflow](http://stackoverflow.com/users/2338862/thomas) and [StackExchange Academia](http://academia.stackexchange.com/users/6984/thomas)
+Q&A: [StackOverflow](http://stackoverflow.com/users/2338862/thomas), [Academia SE](http://academia.stackexchange.com/users/6984/thomas), [Open Data SE](http://opendata.stackexchange.com/users/2085/thomas)
 
 
 ### Academic networking ###
