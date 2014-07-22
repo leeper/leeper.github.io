@@ -15,19 +15,28 @@ colourlovers is an R package providing access to the [COLOURlovers](http://www.c
 dvn is an R package providing access to [The Dataverse Network](http://thedata.org) APIs. It is now part of the [rOpenSci](http://ropensci.org/) project. <br/>[CRAN](http://cran.r-project.org/web/packages/dvn/index.html) [GitHub](https://github.com/rOpenSci/dvn)
 
 
+**imguR: Imgur API Client Package for R**<br/>
+imguR is an R package, initated by Aaron Statham, that binds the imguR API to R, thus enabling the uploading and management of images on imguR. It might be particularly useful for web-based R projects and knitr documents written in R markdown. <br/> [GitHub](https://github.com/leeper/imguR)
+
+
 **meme: Meme Generation in R**<br/>
 meme is an R package that helps users generate internet memes from template images. It's just for fun. <br/> [GitHub](https://github.com/leeper/meme)
+
 
 **mpg: Fuel economy data from FuelEconomy.gov**<br/>
 This lightweight package extracts fuel economy data from [FuelEconomy.gov](FuelEconomy.gov). It is released as part of the [rOpenGov](http://ropengov.github.io/) project. <br/>[GitHub](https://github.com/rOpenGov/mpg)
 
 
-**MTurkR: An R Package for Amazon Mechanical Turk**<br/>
+**MTurkR: R Client for the MTurk Requester API**<br/>
 MTurkR is a client library providing access to the Amazon Mechanical Turk crowdsourcing platform through R.<br/> [CRAN](http://cran.r-project.org/web/packages/MTurkR/index.html) [GitHub](https://github.com/leeper/MTurkR) [Wiki](https://github.com/leeper/MTurkR/wiki)
 
 
 **rite: The Right Editor to Write R**<br/>
 A simple, powerful, multi-platform script editor for R, built with tcl/tk, rite provides features typically found in standalone editors and IDEs (e.g., syntax highlighting, command completion, shortcut keys, find and go-to-line commands, one-click access to documentation, etc.) and a helpful color-coded output "sink". It also creates an easy workflow for reproducible research through integration with the [knitr](http://cran.r-project.org/web/packages/knitr/index.html) package. <br/>[CRAN](http://cran.r-project.org/web/packages/rite/index.html) [GitHub](https://github.com/leeper/rite)
+
+
+**Rmonkey: A Survey Monkey R Client**<br/>
+Rmonkey is a simple package for retrieving survey data from [Survey Monkey](http://www.surveymonkey.com/) and creating new surveys and survey collectors from within R. <br/>[GitHub](https://github.com/leeper/Rmonkey)
 
 
 **RPublica: ProPublica API Client**<br/>
