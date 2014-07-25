@@ -52,7 +52,7 @@ Now we'll do something easier. Just create an account on [Bitbucket](https://bit
 
 Now the fun starts. In your new Bitbucket account, create a new repository by clicking the big "Create" button at the top of the screen. You'll then see a screen that looks like:
 
-![Create Repo](http://i.imgur.com/CwJzgwr.png)
+![Create Repo](http://i.imgur.com/CwJzgwrl.png)
 
 Fill in the relevant details however you want. For "Access level," select "This is a private repository." When you're done filling out the form, click "Create Repository". Your Bitbucket repo is now ready to go. Imagine that this is just like setting up your Dropbox account and creating a new folder for your project.
 
@@ -60,7 +60,7 @@ Fill in the relevant details however you want. For "Access level," select "This 
 
 Now you can add your collaborator(s). When you're looking at your new project page, you'll just need to click "Settings" (lower lefthand corner of the screen), and then click "Access management", where you'll see a screen like this:
 
-![Add collaborators](http://i.imgur.com/vlkXxUL.png)
+![Add collaborators](http://i.imgur.com/vlkXxULl.png)
 
 You can then add your collaborator(s) email address(es) and give them either "Write" or "Admin" access in the dropdown. This is just like sharing your Dropbox link with your collaborators.
 
@@ -70,7 +70,7 @@ Now let's get to work. I'm going to assume you already have a folder on your com
 
 If you're in Windows Explorer, you should navigate to this folder. If you hold the `Shift` key and right-click with your mouse on the folder, the hover menu (or context menu) should include an option called "Open command window here". Choose that. It should look something like this:
 
-![Command window](http://i.imgur.com/YGm0ya4.png)
+![Command window](http://i.imgur.com/YGm0ya4l.png)
 
 If this isn't an option, you can open Command Prompt from the Start menu and then use the `cd` (i.e., "change directory" command) [to navigate to your folder](http://i.imgur.com/0aMg3QZ).
 
@@ -146,7 +146,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 Git is telling you that you've modified the file `test.docx` and that change is not yet committed to the repo. But what changed? Try typing `git diff`. This is like Tracked Changes in Word; it's going to show what's changed since your last commit. Here's what my changes look like:
 
-![Imgur](http://i.imgur.com/e7Kq3uE.png)
+![Imgur](http://i.imgur.com/e7Kq3uEl.png)
 
 You can see that I deleted two lines (shown in red) and added two lines (shown in green). To commit these changes, use the `git add` and `git commit` commands:
 
