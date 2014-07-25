@@ -14,7 +14,7 @@ Collaboration is an increasingly important part of social science. In the past, 
 
 When I was an undergraduate, I remember hearing professors talk about collaboration using tools like fax machines, mainframe computers, ARPANET, and (gasp!) the U.S. Postal Service. Fortunately for collaborators today, we have plenty of much more useful tools at our disposal, like shared Dropbox folders and email. But as anyone who has collaborated using these tools knows, it's really easy for collaboration on even a simple project to orbit around a wastebin of previous, discarded article drafts, abandoned tables and figures, and numerous versions of analysis. The reason we end up with a bunch of files like `Draft 2014-03-24 tjl.docx`, `Revised draft from conference 2014-07-06 jnd tjl 2b.docx`, and `OLD DO NOT USE Final_Analysis3.do` is because our workflow is flawed. We want to preserve a record of where our collaboration has been (i.e., we want to a changelog of the various steps of our project's development) but we're using the wrong tools to do it.
 
-This post is meant as a really simple introduction to [Git](http://en.wikipedia.org/wiki/Git_(software)) as a version control system for simple, web-based collaboration. Git allows collaborators (or individuals working in isolation) to keep a complete history of their projects, while also leaving an uncluttered workspace. Rather than renaming files every time changes are made or using "Tracked Changes" in Microsoft Word to highlight differences between versions, Git will record a complete file history with all the changes made to files and a note of who made them. The tutorial is also going to show how to use Git collaboratively through a service called [Bitbucket](https://bitbucket.org/). Bitbucket allows you to easily share projects with collaborators, while also serving as an online backup of your project that will persist even if your computer is lost, stolen, destroyed, etc.
+This post is meant as a really simple introduction to [Git](http://en.wikipedia.org/wiki/Git_(software) as a version control system for simple, web-based collaboration. [Zach Jones has previously written about Git in political science](http://thepoliticalmethodologist.com/2013/11/18/gitgithub-transparency-and-legitimacy-in-quantitative-research/), but this post is meant as a bit more hands-on. Git allows collaborators (or individuals working in isolation) to keep a complete history of their projects, while also leaving an uncluttered workspace. Rather than renaming files every time changes are made or using "Tracked Changes" in Microsoft Word to highlight differences between versions, Git will record a complete file history with all the changes made to files and a note of who made them. The tutorial is also going to show how to use Git collaboratively through a service called [Bitbucket](https://bitbucket.org/). Bitbucket allows you to easily share projects with collaborators, while also serving as an online backup of your project that will persist even if your computer is lost, stolen, destroyed, etc.
 
 ## Basic Concepts ##
 
@@ -75,9 +75,6 @@ If you're in Windows Explorer, you should navigate to this folder. If you hold t
 If this isn't an option, you can open Command Prompt from the Start menu and then use the `cd` (i.e., "change directory" command) [to navigate to your folder](http://i.imgur.com/0aMg3QZ).
 
 Once you've got command prompt open and you're inside your project folder, type:
-
-Microsoft Windows [Version 6.1.7600]
-Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
 
 ```
 git init
