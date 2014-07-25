@@ -187,7 +187,7 @@ You'll be prompted to enter your Bitbucket username and password and then Git wi
 
 Once you've pushed, your commits will now show up on the Bitbucket web interface. You'll see the commits recorded in the lower righthand side of the screen:
 
-![Commits](http://i.imgur.com/ZS1ed7A)
+![Commits](http://i.imgur.com/ZS1ed7Al.png)
 
 Now, just like with Dropbox, you'll be able to see the status of your project both on your local machine and on the web.
 
