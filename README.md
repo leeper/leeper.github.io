@@ -1,6 +1,8 @@
 # Thomas J. Leeper #
 
-This is the git repository for my webpage, which is hosted with [GitHub Pages](http://pages.github.com/). I'm still experimenting with it, since I moved from a static hosting service (after a period of hosting on Dropbox).
+[![Build Status](https://travis-ci.org/leeper/leeper.github.io.png?branch=master)](https://travis-ci.org/leeper/leeper.github.io)
+
+This is the git repository for my webpage, which is hosted with [GitHub Pages](http://pages.github.com/).
 
 ---
 ## Setting up GH Pages ##
@@ -14,5 +16,17 @@ Some things I learned setting up my custom domain redirect (from [thomasleeper.c
   * an A record for @.thomasleeper.com pointing to `204.232.175.78`.
 
 This is based on some advice from [this StackOverflow question](http://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages), which was pretty helpful. It was really frustrating getting this setup but once those settings were in place everything started working almost immediately. Hopefully this is helpful for anyone else experiencing similar problems. 
+
+---
+## Share button ##
+
+The share button on all of my webpages is created using @carrot's [share-button](https://github.com/carrot/share-button).
+
+---
+## Jekyll-related things ##
+
+A lot of the Jekyll-related code that builds and styles my website (and especially the blog elements) is based on @yihui's [website](https://github.com/yihui/yihui.github.com/).
+
+---
+![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png) Except where noted, this website is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
   
-[![Build Status](https://travis-ci.org/leeper/leeper.github.io.png?branch=master)](https://travis-ci.org/leeper/leeper.github.io)
