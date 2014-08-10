@@ -79,15 +79,17 @@ Things individual scientists can do:
  - Re-imagine your role as reviewer to be one of advisor, counselor, and editor rather than critic
  - Open scientific notebooks and fully reproducible research
 
+Things graduate programs can do:
+ - Improve education in scientific reproducibility
+ - Improve education in how to peer review
+ 
+
+ 
 Things media can do:
  - Respect the peer review process
  - Understand how the peer review process shapes what is published
  - Apply basic understanding of uncertainty to published results and shift emphasis from individual research studies to 
 
-Things graduate programs can do:
- - Improve education in scientific reproducibility
- - Improve education in how to peer review
- 
 Things university employers (departments, chairs, deans, provosts, etc.) can do:
  - Employ modern, holistic, and evolving standards of research quality and impact
  - Give credit in hiring and promotion for peer review along with other editorial service
@@ -99,3 +101,8 @@ Things academic societies and their journals can do:
  - Adopt pre- and post-publication review procedures
  - Pre-accepted, registered experiments with peer-review beginning at time of registration
 
+
+ 
+[Open Journal Systems](https://pkp.sfu.ca/ojs/)
+
+[Kieran Healy's "retired papers"](http://kieranhealy.org/publications/)
