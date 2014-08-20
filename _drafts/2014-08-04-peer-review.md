@@ -67,6 +67,7 @@ The problem with pre-registration is that it must come with publication pre-acce
 
 Outcome blind review
 
+Bifurcated peer review: First phase improves manuscript, second phase decides publication venue/profile
 
 Reproducibility and especailly data access/archiving 
 
