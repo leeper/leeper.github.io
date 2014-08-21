@@ -106,3 +106,5 @@ Things academic societies and their journals can do:
 [Open Journal Systems](https://pkp.sfu.ca/ojs/)
 
 [Kieran Healy's "retired papers"](http://kieranhealy.org/publications/)
+
+http://www.theguardian.com/higher-education-network/blog/2014/aug/05/why-we-should-publish-less-scientific-research
