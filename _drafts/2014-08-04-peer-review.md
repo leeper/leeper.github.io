@@ -39,6 +39,8 @@ Reveal truth
 
 Information aggregation.
 
+[incentive experiment](http://chrisblattman.com/2014/08/21/peer-review-experiment/)
+
 
 Uncover fraud
 
