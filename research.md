@@ -16,6 +16,7 @@ Ongoing projects:
 Working papers:
 
 * [&ldquo;Are Strong Opinions More Stable?&rdquo;]({{ page.papers }}AreStrongOpinionsMoreStable.pdf)
+* [&ldquo;The Information Environment and Consistency in Citizens' Policy Opinions&rdquo;]({{ page.papers }}OpinionConsistency) (with Rune Slothuus)
 
 Selected publications:
 	
@@ -84,7 +85,7 @@ Experimental methods are an increasingly important method for understanding poli
 
 Working papers:
 
-* [&ldquo;To Whom With What Effect? Parallel Experiments on Framing&rdquo;]({{ page.papers }}ParallelExperimentsOnFraming.pdf) (Joint with [Kevin Mullinix](http://www.kevinmullinix.com/))
+* [&ldquo;What If You Had Done Things Differently? Testing the Generalizability of Framing Effects with Parallel Experiments&rdquo;]({{ page.papers }}ParallelExperimentsOnFraming.pdf) (Joint with [Kevin Mullinix](http://www.kevinmullinix.com/))
 
 Selected publications:
 	
