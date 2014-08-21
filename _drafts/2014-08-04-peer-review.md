@@ -67,6 +67,7 @@ The problem with pre-registration is that it must come with publication pre-acce
 
 Outcome blind review
 
+Bifurcated peer review: First phase improves manuscript, second phase decides publication venue/profile
 
 Reproducibility and especailly data access/archiving 
 
@@ -108,3 +109,6 @@ Things academic societies and their journals can do:
 [Kieran Healy's "retired papers"](http://kieranhealy.org/publications/)
 
 http://www.theguardian.com/higher-education-network/blog/2014/aug/05/why-we-should-publish-less-scientific-research
+
+[incentive experiment](http://chrisblattman.com/2014/08/21/peer-review-experiment/)
+
