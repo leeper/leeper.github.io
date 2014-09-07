@@ -74,6 +74,8 @@ Reproducibility and especailly data access/archiving
 
 ## Moving Forward ##
 
+ideas: http://jrs.sagepub.com/content/99/4/178
+
 Things individual scientists can do:
  - Outcome-blind reviewing
  - Publish in open venues
@@ -113,4 +115,14 @@ http://www.theguardian.com/higher-education-network/blog/2014/aug/05/why-we-shou
 [incentive experiment](http://chrisblattman.com/2014/08/21/peer-review-experiment/)
 
 [resubmitted articles rejected](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=6577844&utm_content=buffer6caaa&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)
+
+
+Nature debate:
+http://www.nature.com/nature/peerreview/debate/nature05032.html
+http://www.nature.com/nature/peerreview/debate/nature04990.html
+
+
+http://blogs.scientificamerican.com/guest-blog/2011/11/02/what-is-peer-review-for/
+
+CDC Guidelines: http://www.cdc.gov/maso/pdf/PeerReview.pdf
 
