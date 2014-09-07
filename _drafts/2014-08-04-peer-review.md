@@ -112,3 +112,5 @@ http://www.theguardian.com/higher-education-network/blog/2014/aug/05/why-we-shou
 
 [incentive experiment](http://chrisblattman.com/2014/08/21/peer-review-experiment/)
 
+[resubmitted articles rejected](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=6577844&utm_content=buffer6caaa&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer)
+
