@@ -14,6 +14,8 @@ Political psychologists study people. We want to know how people think, act, and
 
 | Role | Course | Level/Location |
 | ---- | ------ | -------------- |
+| Co-Instructor with David Hendry | Quantitative Political Analysis | Master/Doctoral level<br/>Aarhus University, 2015|
+| Instructor | [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse) | Short course<br/>Aarhus University, 2014 |
 | Instructor | [Using Surveys for Research and Evaluation](http://www.thomasleeper.com/surveycourse) | Master level<br/>Aarhus University, 2014 |
 | Instructor | [Issues in American Politics and Government](http://www.thomasleeper.com/ampolcourse) | Master level<br/>Aarhus University, 2014 |
 | Instructor | [Experimentation and Causal Inference](http://www.thomasleeper.com/expcourse) | Master level<br/>Aarhus University, 2014 |
