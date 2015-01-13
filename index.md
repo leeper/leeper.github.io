@@ -7,7 +7,7 @@ title: Thomas J. Leeper
 
 ## Thomas J. Leeper ##
 
-I am a Post-Doctoral Researcher in the [Institut for Statskundskab](http://ps.au.dk/en/) at [Aarhus University](http://www.au.dk/en/) in Aarhus, Denmark. From September 2015, I will be an Assistant Professor in Political Behaviour in the [Department of Government](http://www.lse.ac.uk/government/home.aspx) at [the London School of Economics and Political Science](http://www.lse.ac.uk/home.aspx).
+I am currently a Postdoc in the [Institut for Statskundskab](http://ps.au.dk/en/) at [Aarhus University](http://www.au.dk/en/) in Aarhus, Denmark. From September 2015, I will be an Assistant Professor in Political Behaviour in the [Department of Government](http://www.lse.ac.uk/government/home.aspx) at [the London School of Economics and Political Science](http://www.lse.ac.uk/home.aspx).
 
 I received my MA and PhD from the [Department of Political Science](http://www.polisci.northwestern.edu/) at Northwestern University, where I was a graduate fellow at the [Institute for Policy Research](http://www.northwestern.edu/ipr/) and served as founding coordinator of the [Northwestern Political Science Research Lab (PSRL)](http://faculty.wcas.northwestern.edu/~jnd260/lab.html). I previously received my BA from the University of Minnesota &#8211; Twin Cities with a BA *magna cum laude* in Political Science and Global Studies (with an emphasis on European politics and society).
 
