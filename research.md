@@ -20,8 +20,8 @@ Working papers:
 
 Selected publications:
 	
-* Thomas J. Leeper. 2014. &ldquo;Cognitive Style and the Survey Response.&rdquo; *Public Opinion Quarterly*: Forthcoming.
-* Thomas J. Leeper, and Rune Slothuus. 2014 [&ldquo;Political Parties, Motivated Reasoning, and Public Opinion Formation.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) *Advances in Political Psychology* 35(S1): 129--156. [Preprint]({{ page.papers}}AdvancesInPoliticalPsychology2014.pdf)
+* Thomas J. Leeper. 2014. [&ldquo;Cognitive Style and the Survey Response.&rdquo;](http://poq.oxfordjournals.org/content/78/4/974.abstract) *Public Opinion Quarterly* 78(4): 974&ndash;983. [Preprint]({{ page.papers}}PublicOpinionQuarterly2014b.pdf)
+* Thomas J. Leeper, and Rune Slothuus. 2014 [&ldquo;Political Parties, Motivated Reasoning, and Public Opinion Formation.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) *Advances in Political Psychology* 35(S1): 129&ndash;156. [Preprint]({{ page.papers}}AdvancesInPoliticalPsychology2014.pdf)
 * James N. Druckman, and Thomas J. Leeper. 2012. [&ldquo;Learning More from Political Communication Experiments: Pretreatment and Its Effects.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00582.x/abstract) *American Journal of Political Science* 56(4): 875&ndash;896.
 * James N. Druckman, and Thomas J. Leeper. 2012. [&ldquo;Is Public Opinion Stable? Resolving the Micro-Macro Disconnect in Studies of Public Opinion.&rdquo;](http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00173) *Daedalus* 141(4): 50&ndash;68. [Preprint]({{ page.papers}}Daedalus2012.pdf)
 
