@@ -12,8 +12,8 @@ Some things I learned setting up my custom domain redirect (from [thomasleeper.c
 * At mydomain, I had to setup:
   * a "standard pointer" (not stealth) to `leeper.github.io`. (This creates an infinite loop, though, so see below.)
   * a CNAME Alias for www.thomasleeper.com pointing to `leeper.github.io`.
-  * an A record for www.thomasleeper.com pointing to `204.232.175.78`.
-  * an A record for @.thomasleeper.com pointing to `204.232.175.78`.
+  * an A record for www.thomasleeper.com pointing to `192.30.252.153` and `192.30.252.154`.
+  * an A record for @.thomasleeper.com pointing to `192.30.252.153` and `192.30.252.154`.
 
 This is based on some advice from [this StackOverflow question](http://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages), which was pretty helpful. It was really frustrating getting this setup but once those settings were in place everything started working almost immediately. Hopefully this is helpful for anyone else experiencing similar problems. 
 
