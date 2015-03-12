@@ -15,6 +15,7 @@ Ongoing projects:
 
 Working papers:
 
+* [&ldquo;Do Heterogeneous Networks Undermine Attitude Strength?&rdquo;]({{ page.papers }}HeterogeneousNetworks.pdf) (with Joshua Robison and Jamie Druckman)
 * [&ldquo;Are Strong Opinions More Stable?&rdquo;]({{ page.papers }}AreStrongOpinionsMoreStable.pdf)
 * [&ldquo;The Information Environment and Consistency in Citizens' Policy Opinions&rdquo;]({{ page.papers }}OpinionConsistency.pdf) (with Rune Slothuus)
 
@@ -58,6 +59,7 @@ Ongoing projects:
 
 Working papers:
 
+* [&ldquo;Can Citizens Be Framed? How Information, Not Emphasis, Changes Opinoins&rdquo;]({{ page.papers}}CanCitizensBeFramed.pf) (with Rune Slothuus)
 * [&ldquo;Interest Groups and Political Attitudes&rdquo;]({{ page.papers }}InterestGroupsAndPoliticalAttitudes.pdf)
 
 Selected publications:
