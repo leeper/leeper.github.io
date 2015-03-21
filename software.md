@@ -64,14 +64,12 @@ You can find all of my software development projects on [GitHub](http://github.c
 ---
 ## Some other assorted materials ##
 
-* R: [Update R packages if newer versions available on DESCRIPTION-listed GitHub URL field](https://gist.github.com/leeper/9123584)
-
 * R: [Identify gender of first names, by country, using the Gender API](https://gist.github.com/leeper/9021068)
-
-* R: [Really Introductory Introduction to R](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.pdf) (See also: source [.rnw](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.rnw)).
 
 * R: [Materials for learning and teaching R](http://thomasleeper.com/Rcourse/)
 
+* R: [Really Introductory Introduction to R](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.pdf) (See also: source [.rnw](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.rnw)).
+
 * JavaScript code specifically for working with Amazon Mechanical Turk is available [here](MTurkR/index.html).
 
-* LaTeX: [A .bst (bibliography style file for LaTeX)](https://github.com/leeper/leeper.github.io/blob/master/code/tex/apsa-leeper.bst) that formats according to the APSA/Political Science style guide. I had trouble finding a .bst that correctly formatted citations, so I adapted one to do it. (I use the [natbib](http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/) package to produce parentheticals.)
+* LaTeX: [A .bst (bibliography style file for LaTeX)](https://github.com/leeper/apsa-leeper.bst) that formats according to the APSA/Political Science style guide. I had trouble finding a .bst that correctly formatted citations, so I adapted one to do it. (I use the [natbib](http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/) package to produce parentheticals.)

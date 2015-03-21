@@ -8,13 +8,9 @@ papers: https://dl.dropboxusercontent.com/u/414906/
 
 While public opinion research has been a staple element of social science inquiry for eighty years, there has been surprisingly little attention to the over-time dynamics of opinion. Instead cross-sectional surveys and one-off experiments constitute the bulk of published studies of opinions. But how to opinions change over time? What individual and contextual factors explain the dynamics of individuals' opinions over time? In this area, I am examining psychological dispositions - especially attitude strength and cognitive style - that shape attitude dynamics as well as considering how survey research practices shape our ability to measure opinions and opinion dynamics.
 
-Ongoing projects:
-
-* A nationally representative survey and experimental project examining how political debate about a real, novel policy issue influences citizens' understanding of and attitudes toward the policy (joint with [Rune Slothuus](http://pure.au.dk/portal/en/slothuus@ps.au.dk)).
-* A macro-level analysis of the relationship between media coverage, issue importance, and the volume of public opinion polling.
-
 Working papers:
 
+* [&ldquo;Can Citizens Be Framed? How Information, Not Emphasis, Changes Opinions&rdquo;]({{ page.papers }}CanCitizensBeFramed.pdf) (with Rune Slothuus)
 * [&ldquo;Do Heterogeneous Networks Undermine Attitude Strength?&rdquo;]({{ page.papers }}HeterogeneousNetworks.pdf) (with Joshua Robison and Jamie Druckman)
 * [&ldquo;Are Strong Opinions More Stable?&rdquo;]({{ page.papers }}AreStrongOpinionsMoreStable.pdf)
 * [&ldquo;The Information Environment and Consistency in Citizens' Policy Opinions&rdquo;]({{ page.papers }}OpinionConsistency.pdf) (with Rune Slothuus)
@@ -31,14 +27,9 @@ Selected publications:
 
 Choices define humans' day-to-day experiences. While we are acted upon by outside forces and agents, we also make choices among alternatives. In politics and political behavior, choices are abundant: what candidate do you choose to vote for, what news do you choose to read, what people do you choose to interact with, etc. In this area, I am examining both causes and effects of information choices to understand how people decide amongst alternatives and how those choices impact their later cognition and behavior.
 
-Ongoing projects:
-
-* An experiment examining the effects of "byproduct" exposure to political information on attitudes and knowledge.
-* An experiment examining how treatment self-selection biases in the evaluation of arguments.
-* A multi-study project examining the relationship between preferences for news content and media choices.
-
 Working papers:
 
+* [&ldquo;The Role of Media Choice and Media Effects in Political Knowledge Gaps&rdquo;]({{ page.papers }}KnowledgeGaps.pdf)
 * [&ldquo;Causal Effects Under Self-Selection&rdquo;]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
 
 Selected publications:
@@ -52,10 +43,6 @@ Selected publications:
 ## Effects of Political Communication ##
 
 Most of the information that people can and do receive about politics comes from elites - political candidates, parties, interest groups, and the mass media. Understanding the effects of political communications is therefore vital to making sense of public opinions. My work in this area examines the effectiveness of political communications in moving public preferences and also considers how different groups succeed or fail at influencing those preferences given their access to the mass public and the alternative messages being communicated in the political environment.
-
-Ongoing projects:
-
-* The above mentioned project examining the effects of political debate and issue framing over the course of a real-world political debate (joint with [Rune Slothuus](http://pure.au.dk/portal/en/slothuus@ps.au.dk)).
 
 Working papers:
 
@@ -79,7 +66,6 @@ Selected publications:
 * Thomas J. Leeper. 2011. [&ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo;](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf) *The Experimental Political Scientist* 2(1): 6&ndash;10.
 
 
-
 ---
 ## Experimental Methods ##
 
@@ -94,15 +80,3 @@ Selected publications:
 * Thomas J. Leeper. 2013. [&ldquo;Crowdsourcing with R and the MTurk API.&rdquo;](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf) *The Political Methodologist* 2(2): 2&ndash;7.
 * Thomas J. Leeper. 2011. [&ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo;](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf) *The Experimental Political Scientist* 2(1): 6&ndash;10.
 	
-
----
-## Matching Methods ##
-
-While experimental methods are considered the *gold standard* for causal inference, many political and social phenomena cannot be readily examined with experimentation and, regardless of feasibility, much of the social and political data available to researchers is observational. One potential solution to these constraints is the approximation of experimental treatment assignment through matching techniques. In some cases, (random) experimental assignment to treatment status may even be uninformative about real-world processes involving nonrandom assignment to treatment status.
-
-Ongoing projects:
-
-* A project on the combination of matching and experimentation to study treatment self-selection problems.
-* Joint work with [Jason Seawright](http://www.polisci.northwestern.edu/people/seawright.html) on the study causal moderation with matching methods.
-* Project examining critiques of matching methods in the area of voter mobilization research.
-
