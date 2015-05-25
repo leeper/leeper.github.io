@@ -168,6 +168,17 @@ Reproducibility and especially data access/archiving
 Distinguish peer review of grants, peer review of published research, IRB review, review by way of subsequent scientific debate, Altmetrics, positive and negative citations, reproducible (e.g., internal reproduction of results by an editorial assistant), subsequent replication, etc.
 
 
+History:
+ - Biagioli
+ - Bornmann, http://www.lutz-bornmann.de/icons/sciencereviews.pdf
+ - Bornmann, http://www.ns2.okcir.com/Articles%20VI%202/LutzBornmann-FM.pdf
+ - Kronick on journalism, http://www.ncbi.nlm.nih.gov/pubmed/2406469
+ - Spier, http://www.cell.com/trends/biotechnology/abstract/S0167-7799(02)01985-6?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0167779902019856%3Fshowall%3Dtrue
+ - Relman, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1002603/pdf/westjmed00111-0058.pdf
+
+
+
+
 [Open Journal Systems](https://pkp.sfu.ca/ojs/)
 
 [Kieran Healy's "retired papers"](http://kieranhealy.org/publications/)
