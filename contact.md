@@ -8,7 +8,7 @@ Publications: [Google Scholar](http://scholar.google.com/citations?user=hqiux-MA
 
 Software: [GitHub](https://github.com/leeper) and [crantastic!](http://crantastic.org/authors/2512)
 
-Data: [Dataverse Network](http://dvn.iq.harvard.edu/dvn/dv/leeper)
+Data: [Dataverse Network](https://dataverse.harvard.edu/dataverse/leeper)
 
 Identifiers: [ORCID](http://orcid.org/0000-0003-4097-6326) and [ResearcherID](http://www.researcherid.com/rid/J-9733-2013)
 
