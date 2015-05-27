@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ben: The One Simple Step To Eliminate Data Fraud
+title: Ben, The One Simple Step To Eliminate Data Fraud
 categories:
- - political science
+ - reproducibility
 tags:
  - political science
  - open science
