@@ -200,7 +200,7 @@ http://blogs.scientificamerican.com/guest-blog/2011/11/02/what-is-peer-review-fo
 CDC Guidelines: http://www.cdc.gov/maso/pdf/PeerReview.pdf
 
 
-
+Times HigherEd article: https://www.timeshighereducation.co.uk/content/the-peer-review-drugs-dont-work
 
 
 
