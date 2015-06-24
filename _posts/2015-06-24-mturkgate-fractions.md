@@ -13,21 +13,21 @@ tags:
 
 On the morning of June 23, 2015, I received an email from Amazon Web Services describing the final details of [previously announced fee changes](http://mechanicalturk.typepad.com/blog/2015/05/bringing-future-innovation-to-mechanical-turk.html) in celebration of [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome)'s 10th anniversary. Here's the email:
 
-    Hello Mechanical Turk Requester,
+> Hello Mechanical Turk Requester,
 
-    We’re writing to follow-up on our post “Bringing Future Innovation to Mechanical Turk” published May 21st to the Mechanical Turk blog (http://mechanicalturk.typepad.com/). In the post, we indicated that we were analyzing changes to our commission structure, including changing our base commission to somewhere between 20% and 35%. We have settled on changing our base commission to 20% and modifying other elements of our pricing. These changes take effect at midnight on July 21st, 2015. We are introducing the following updates:
+> We're writing to follow-up on our post "Bringing Future Innovation to Mechanical Turk" published May 21st to the Mechanical Turk blog (http://mechanicalturk.typepad.com/). In the post, we indicated that we were analyzing changes to our commission structure, including changing our base commission to somewhere between 20% and 35%. We have settled on changing our base commission to 20% and modifying other elements of our pricing. These changes take effect at midnight on July 21st, 2015. We are introducing the following updates:
 
-    •       Amazon Mechanical Turk’s base commission will be 20% with a $0.01 minimum per transaction. This commission applies to HIT reward amounts and any bonuses paid to Workers.
-    •       HITs requiring 10 or more assignments will incur an additional 20% commission above the base commission. These HITs comprise less than 0.3% of Mechanical Turk’s overall HITs, and are most commonly used by Requesters to survey Workers and conduct market research.
-    •       The incremental commission for using Masters Workers will decrease to 5%, making it even easier for Requesters to access the marketplace’s highest-rated Workers.
+> - Amazon Mechanical Turk’s base commission will be 20% with a $0.01 minimum per transaction. This commission applies to HIT reward amounts and any bonuses paid to Workers.
+> - HITs requiring 10 or more assignments will incur an additional 20% commission above the base commission. These HITs comprise less than 0.3% of Mechanical Turk’s overall HITs, and are most commonly used by Requesters to survey Workers and conduct market research.
+> - The incremental commission for using Masters Workers will decrease to 5%, making it even easier for Requesters to access the marketplace's highest-rated Workers.
 
-    These changes will help allow Amazon to continue growing the Amazon Mechanical Turk marketplace and innovating on behalf of our customers. You can learn more about these changes here: http://requester.mturk.com/pricing.
+> These changes will help allow Amazon to continue growing the Amazon Mechanical Turk marketplace and innovating on behalf of our customers. You can learn more about these changes here: http://requester.mturk.com/pricing.
 
-    If you have any questions, you can contact us at: https://requester.mturk.com/contactus.
+> If you have any questions, you can contact us at: https://requester.mturk.com/contactus.
 
-    Sincerely,
-    Amazon Mechanical Turk
-    https://requester.mturk.com
+> Sincerely,
+> Amazon Mechanical Turk
+> https://requester.mturk.com
     
 The [SPSP Blog has a good summary](http://www.spspblog.org/mechanical-turk-quadruples-survey-fees-mturkgate-ensues/) of the underlying issues and the emergence of the [`#mturkgate`](https://twitter.com/search?q=%23mturkgate) hashtag. The email matters because MTurk has become a major platform for two things: (1) crowdsourcing human computation tasks (e.g., image moderation, transcription, etc.), and (2) academic survey-experimental research. The fee changes affect the latter group particularly hard because a "HIT" for an academic study will typically involve several hundred or thousand assignments (see the second bullet point in the email). This means that in reality, the fee increase from is actually from 10% to 40% rather than 10% to 20%, as for HITs with fewer than 10 assignments. 
 
