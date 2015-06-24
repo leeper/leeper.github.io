@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #MTurkGate Is A Good Reminder To Practice Our Fractions
+title: MTurkGate Is A Good Reminder To Practice Our Fractions
 categories:
  - mturk
 tags:
