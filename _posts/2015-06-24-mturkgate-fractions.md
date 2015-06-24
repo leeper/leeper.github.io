@@ -15,7 +15,7 @@ On the morning of June 23, 2015, I received an email from Amazon Web Services de
 
 > Hello Mechanical Turk Requester,
 
-> We're writing to follow-up on our post "Bringing Future Innovation to Mechanical Turk" published May 21st to the Mechanical Turk blog (http://mechanicalturk.typepad.com/). In the post, we indicated that we were analyzing changes to our commission structure, including changing our base commission to somewhere between 20% and 35%. We have settled on changing our base commission to 20% and modifying other elements of our pricing. These changes take effect at midnight on July 21st, 2015. We are introducing the following updates:
+> We're writing to follow-up on our post "Bringing Future Innovation to Mechanical Turk" published May 21st to the Mechanical Turk blog http://mechanicalturk.typepad.com/. In the post, we indicated that we were analyzing changes to our commission structure, including changing our base commission to somewhere between 20% and 35%. We have settled on changing our base commission to 20% and modifying other elements of our pricing. These changes take effect at midnight on July 21st, 2015. We are introducing the following updates:
 
 > - Amazon Mechanical Turk's base commission will be 20% with a $0.01 minimum per transaction. This commission applies to HIT reward amounts and any bonuses paid to Workers.
 > - HITs requiring 10 or more assignments will incur an additional 20% commission above the base commission. These HITs comprise less than 0.3% of Mechanical Turk’s overall HITs, and are most commonly used by Requesters to survey Workers and conduct market research.
@@ -37,7 +37,7 @@ To express the fee change, [I tweeted a pretty simple graph](https://twitter.com
 
 ![Project Cost Graph](https://pbs.twimg.com/media/CIKbRaRWoAIroMW.png)
 
-I thought this was pretty straightforward and was aimed at requesters: how much more is your project going to cost compared to how much it cost before, if you held per-assignment reward amount the same. (Carey Morewedge wasn't satisfied with my graph, and [produced one](https://twitter.com/morewedge/status/613438957859250177) emphasizing how the proportion of the total cost of a project going to Amazon would now be higher.)
+I thought this was pretty straightforward and was aimed at requesters: how much more is your project going to cost compared to how much it cost before, if you held per-assignment reward amount the same. (Carey Morewedge also [produced one](https://twitter.com/morewedge/status/613438957859250177) emphasizing how the proportion of the total cost of a project going to Amazon would now be higher.)
 
 The part of the Twitter discussion on the `mturkgate` hashtag that I found fascinating was how people were conceptualizing the cost increase (i.e., how large they understood the cost increase to be when they expressed it in their minds in different ways). Here are some different ways we can think about the cost increase, all of which result from the same basic fact that the commission will increase from 10% to 40% for the kinds of HITs academic researchers often use:
 
