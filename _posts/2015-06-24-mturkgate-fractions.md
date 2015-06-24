@@ -35,8 +35,7 @@ Less discussed is the fact that the fee changes also affect projects with many H
 
 To express the fee change, [I tweeted a pretty simple graph](https://twitter.com/thosjleeper/status/613223405983281153) displaying the total cost of a project at varying reward amounts from $0.01 to $1.00 per HIT with a y-axis representing the total cost of the project. As one can see, the fee increase means a pretty simple shift in the slope of the cost of a project, except at the very low end where penny HITs get caught by the new minimum commission:
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">To put new <a href="https://twitter.com/hashtag/mturk?src=hash">#mturk</a> fees in perspective. Here&#39;s a quick chart of cost/100 workers at varying reward amounts. <a href="https://twitter.com/hashtag/mturkgate?src=hash">#mturkgate</a> <a href="http://t.co/I8LXNEsu7p">pic.twitter.com/I8LXNEsu7p</a></p>&mdash; Thomas Leeper (@thosjleeper) <a href="https://twitter.com/thosjleeper/status/613223405983281153">June 23, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Project Cost Graph](https://pbs.twimg.com/media/CIKbRaRWoAIroMW.png)
 
 I thought this was pretty straightforward and was aimed at requesters: how much more is your project going to cost compared to how much it cost before, if you held per-assignment reward amount the same. (Carey Morewedge wasn't satisfied with my graph, and [produced one](https://twitter.com/morewedge/status/613438957859250177) emphasizing how the proportion of the total cost of a project going to Amazon would now be higher.)
 
