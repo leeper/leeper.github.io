@@ -3,9 +3,9 @@ old/
 crochet/
 
 # latex auxiliary files for cv #
-cv/cv.aux
-cv/cv.log
-cv/cv.out
-cv/cv.synctex.gz
-cv/cv.bbl
-cv/cv.blg
+cv/cv*.aux
+cv/cv*.log
+cv/cv*.out
+cv/cv*.synctex.gz
+cv/cv*.bbl
+cv/cv*.blg
