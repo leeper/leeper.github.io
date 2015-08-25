@@ -7,7 +7,7 @@ title: Thomas J. Leeper
 
 ## Thomas J. Leeper ##
 
-I am currently a Postdoc in the [Institut for Statskundskab](http://ps.au.dk/en/) at [Aarhus University](http://www.au.dk/en/) in Aarhus, Denmark. From September 2015, I will be an Assistant Professor in Political Behaviour in the [Department of Government](http://www.lse.ac.uk/government/home.aspx) at [the London School of Economics and Political Science](http://www.lse.ac.uk/home.aspx).
+I am an Assistant Professor in Political Behaviour in the [Department of Government](http://www.lse.ac.uk/government/home.aspx) at [the London School of Economics and Political Science](http://www.lse.ac.uk/home.aspx). Prior to that, I was a Postdoc in the [Institut for Statskundskab](http://ps.au.dk/en/) at [Aarhus University](http://www.au.dk/en/) in Aarhus, Denmark.
 
 I received my MA and PhD from the [Department of Political Science](http://www.polisci.northwestern.edu/) at Northwestern University, where I was a graduate fellow at the [Institute for Policy Research](http://www.northwestern.edu/ipr/) and served as founding coordinator of the [Northwestern Political Science Research Lab (PSRL)](http://faculty.wcas.northwestern.edu/~jnd260/lab.html). I previously received my BA from the University of Minnesota &#8211; Twin Cities with a BA *magna cum laude* in Political Science and Global Studies (with an emphasis on European politics and society).
 
@@ -15,4 +15,4 @@ My research on individuals' public opinions primarily focuses on the role of inf
 
 Using both survey and experimental methods, I attempt to study public opinion and political behavior from the perspectives of social and cognitive psychology, mass communication, and democratic theory. In addition to my substantive research interests, I am currently engaged in ongoing methodological projects related to nonrandom treatment assignment, internet-based experimentation, sample-related validity concerns, and interaction effects in observational studies.
 
-I also actively develop an array of software for the R programming environment and participate in the [rOpenSci](http://ropensci.org/) and [rOpenGov](http://ropengov.github.io/) development projects, which aim to easily integrate science- and government-related data and applications into R.
+I also actively develop an array of software for the R programming environment and participate in the [rOpenSci](http://ropensci.org/), [rOpenGov](http://ropengov.github.io/), [rOpenHealth](https://github.com/rOpenHealth), and [cloudyr](http://cloudyr.github.io) development projects, which aim to easily integrate science- and government-related data and applications into R.

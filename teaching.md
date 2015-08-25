@@ -8,12 +8,13 @@ title: Teaching - Thomas J. Leeper
 Political psychologists study people. We want to know how people think, act, and understand the social and political universe. It is this curiosity about human understanding of politics that fundamentally drives my experience as an educator. Just as great teachers cultivated my interests in politics, I see it as my responsibility to mentor others in developing an understanding for themselves of political questions and the happenings of politics. My research typically explores how people think and feel about politics and often grapples with meta-scientific questions about how researchers might come to know individuals' political cognitions, the causes of those beliefs and attitudes, and the implications thereof for politics more broadly. Teaching is a natural transition from this exploration of human psychology and behavior in which the objective is not for me to transmit information and formulate students' understanding but to guide them as they seek answers to their own political questions.
 
 *[Click here](cv/TeachingStatement.pdf) to read my full statement of teaching philosophy, or [here](cv/TeachingPortfolio.pdf) to see my teaching portfolio.*
-	
+
 ---
 ## Teaching Experience ##
 
 | Role | Course | Level/Location |
 | ---- | ------ | -------------- |
+| Instructor | [Research Design in Political Science](http://www.thomasleeper.com/designcourse) | Bachelor level<br/>London School of Economics, 2015-16 |
 | Co-Instructor with David Hendry | [Quantitative Political Analysis](http://www.thomasleeper.com/regcourse) | Master/Doctoral level<br/>Aarhus University, 2015|
 | Instructor | [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse) | Short course<br/>Aarhus University, 2014 |
 | Instructor | [Using Surveys for Research and Evaluation](http://www.thomasleeper.com/surveycourse) | Master level<br/>Aarhus University, 2014 |
