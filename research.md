@@ -14,6 +14,7 @@ Working papers:
 * [&ldquo;Do Heterogeneous Networks Undermine Attitude Strength?&rdquo;]({{ page.papers }}HeterogeneousNetworks.pdf) (with Joshua Robison and Jamie Druckman)
 * [&ldquo;Are Strong Opinions More Stable?&rdquo;]({{ page.papers }}AreStrongOpinionsMoreStable.pdf)
 * [&ldquo;The Information Environment and Consistency in Citizens' Policy Opinions&rdquo;]({{ page.papers }}OpinionConsistency.pdf) (with Rune Slothuus)
+* [&ldquo;Politics and Media Coverage Shape the Issue Content of the Polling Agenda&rdquo;]({{ page.papers }}PollingAgenda.pdf)
 
 Selected publications:
 	
