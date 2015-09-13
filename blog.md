@@ -5,7 +5,7 @@ layout: default
 
 <h2>{{ page.title }}</h2>
 
-<a href="http://thomasleeper.com/feed.html">[RSS Feed]</a>
+<a href="http://thomasleeper.com/feed.xml">[RSS Feed]</a>
 
 <ul class="listing">
 {% for post in site.posts %}
