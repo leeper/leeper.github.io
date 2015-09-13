@@ -4,3 +4,5 @@ url: http://www.thomasleeper.com
 author: Thomas J. Leeper
 name: Thomas J. Leeper
 description: open science, academia, and politics
+gems:
+ - jekyll-feed
