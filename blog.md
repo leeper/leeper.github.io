@@ -3,7 +3,7 @@ title: Posts
 layout: default
 ---
 
-<h2>{{ page.title }}</h2>
+<h3><a href="http://thomasleeper.com/blog.html">Blog</a> > {{ page.title}} </h3>
 
 <a href="http://thomasleeper.com/feed.xml">[RSS Feed]</a>
 
