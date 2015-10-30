@@ -47,8 +47,9 @@ Most of the information that people can and do receive about politics comes from
 
 Working papers:
 
-* [&ldquo;Can Citizens Be Framed? How Information, Not Emphasis, Changes Opinoins&rdquo;]({{ page.papers}}CanCitizensBeFramed.pf) (with Rune Slothuus)
+* [&ldquo;Can Citizens Be Framed? How Information, Not Emphasis, Changes Opinions&rdquo;]({{ page.papers}}CanCitizensBeFramed.pf) (with Rune Slothuus)
 * [&ldquo;Interest Groups and Political Attitudes&rdquo;]({{ page.papers }}InterestGroupsAndPoliticalAttitudes.pdf)
+* [&ldquo;How Does Treatment Self-Selection Affect Inferences About Political Communication?&rdquo;]({{ page.papers }}PoliticalCommuniationSelfSelection.pdf)
 
 Selected publications:
 
@@ -60,6 +61,11 @@ Selected publications:
 
 Shifting norms in social scientific practice mean that the future of quantitative social science will depend on shared data, open source software, and reproducible research reports. Developing tools to facilitate the coming era of reproducible social science and training social scientists at all levels to use those tools is critically important. In this vein, I develop open source software and write on how to improve reproducibility of social science research.
 
+Working papers:
+
+* Thomas J. Leeper. [&ldquo;The Multiple Paths To Credibility.&rdquo;]({{ page.papers }}MultiplePathsToCredibility.pdf)
+* Thomas J. Leeper. [&ldquo;Crowdsourced Data Preprocessing with R and Amazon Mechanical Turk.&rdquo;]({{ page.papers }}MTurkRCrowdsourcing.pdf)
+
 Selected publications:
 
 * For published software, see [Software](http://thomasleeper.com/software)
@@ -68,16 +74,18 @@ Selected publications:
 
 
 ---
-## Experimental Methods ##
+## Survey and Experimental Methods ##
 
-Experimental methods are an increasingly important method for understanding political and social processes and behavior. My work in this area aims to improve the quality of experimental methods and reduce barriers to entry for experimental research online. I am also completing a large project comparing the effects of convenience samples on inferences about experimental effects in a project funded by the National Science Foundation.
+Experimental methods are an increasingly important method for understanding political and social processes and behavior. My work in this area aims to improve the quality of experimental methods and reduce barriers to entry for experimental research online. Survey methods remain a staple in the study of public opinion, political communication, and human behavior and I aim to contribute to our understand of how best to conduct survey and survey-experimental research in ways that balance cost and total survey error.
 
 Working papers:
 
-* [&ldquo;What If You Had Done Things Differently? Testing the Generalizability of Framing Effects with Parallel Experiments&rdquo;]({{ page.papers }}ParallelExperimentsOnFraming.pdf) (Joint with [Kevin Mullinix](http://www.kevinmullinix.com/))
+* Thomas J. Leeper, and Rune Slothuus. [&ldquo;Using the Rolling Reinterview Design to Study Political Campaigns and Electoral Behavior&rdquo;]({{ page.papers }}RollingReinterviewDesign.pdf)
+* Thomas J. Leeper, and Emily Thorson. [&ldquo;Minimial Sponsorship-Induced Bias in Web Survey Data.&rdquo;]({{ page.papers }}SurveySponsorship.pdf)
 
 Selected publications:
 	
+* Kevin J. Mullinix, Thomas J. Leeper, James N. Druckman, and Jeremy Freese. [&ldquo;The Generalizability of Survey Experiments.&rdquo;]({{ page.papers }}GeneralizabilitySurveyExperiments.pdf) *Journal of Experimental Political Science*: In press.
 * Thomas J. Leeper. 2013. [&ldquo;Crowdsourcing with R and the MTurk API.&rdquo;](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf) *The Political Methodologist* 2(2): 2&ndash;7.
 * Thomas J. Leeper. 2011. [&ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo;](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf) *The Experimental Political Scientist* 2(1): 6&ndash;10.
 	
