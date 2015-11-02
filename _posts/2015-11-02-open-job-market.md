@@ -13,7 +13,7 @@ tags:
  - tranparency
 ---
 
-A defining feature of openness is the possibility of accountability. When a process is transparent, it can be evaluated for how effectively it achieves its stated objectives. As such, transparency tends to be seen as normatively desirable, except in circumstances where transparency per se invites harm. One process that is remarkably intransparent is the academic job market, at least in political science. What would a more transparent academic market look like? And sould the market benefit from such transparency?
+A defining feature of openness is the possibility of accountability. When a process is transparent, it can be evaluated for how effectively it achieves its stated objectives. As such, transparency tends to be seen as normatively desirable, except in circumstances where transparency per se invites harm. One process that is remarkably intransparent is the academic job market, at least in political science. What would a more transparent academic market look like? And should the market benefit from such transparency?
 
 As students entering their final years of PhD training (in political science) know all to well, autumn is the season of heartbreak. As jobs are advertised on [APSA eJobs](http://www.apsanet.org/eJobs) or [PoliSci Jobs](http://polscijobs.info/?ckattempt=1), students spend countless hours pondering possible feature places of employment, scrambling to assemble and distribute job market materials, offering practice job talks, and generally worrying endlessly about their post-PhD prospects.
 
