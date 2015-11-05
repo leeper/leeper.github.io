@@ -5,8 +5,12 @@ layout: default
 
 <h3><a href="http://thomasleeper.com/blog.html">Blog</a> > {{ page.title}} </h3>
 
+<div style="border:1px solid #4c4c4c;">
 <h2>Latest Post: <a href="{{ site.url }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
-{{ site.posts.first.excerpt }}
+{{ site.posts.first.excerpt }} <a style="font-size: .8em; font-style: italic;" href="{{ site.url }}{{ site.posts.first.url }}">...continue reading</a>
+</div>
+
+<br />
 
 <h2>Past Posts</h2>
 
@@ -25,6 +29,8 @@ layout: default
 </ul>
 
 <a href="http://thomasleeper.com/feed.xml">[RSS Feed]</a>
+
+<br />
 
 <h2>Tags</h2>
 
