@@ -30,7 +30,7 @@ layout: default
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
-<a href="tags/index.html#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+<a href="blog/tags.html#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
 </div>
 
