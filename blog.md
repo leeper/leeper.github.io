@@ -6,7 +6,7 @@ layout: default
 <h3><a href="http://thomasleeper.com/blog.html">Blog</a> > {{ page.title}} </h3>
 
 <h2>Latest Post: <a href="{{ site.url }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
-<div style="border:0.5px solid #4c4c4c;">
+<div>
 {{ site.posts.first.excerpt }} <a style="font-size: .8em; font-style: italic;" href="{{ site.url }}{{ site.posts.first.url }}">...continue reading</a>
 </div>
 
