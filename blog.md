@@ -5,7 +5,10 @@ layout: default
 
 <h3><a href="http://thomasleeper.com/blog.html">Blog</a> > {{ page.title}} </h3>
 
-<a href="http://thomasleeper.com/feed.xml">[RSS Feed]</a>
+<h2>Latest Post: <a href="{{ site.url }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
+{{ site.posts.first.excerpt }}
+
+<h2>Past Posts</h2>
 
 <ul class="listing">
 {% for post in site.posts %}
@@ -21,27 +24,15 @@ layout: default
 {% endfor %}
 </ul>
 
-<br /><br /><br /><br />
+<a href="http://thomasleeper.com/feed.xml">[RSS Feed]</a>
 
 <h2>Tags</h2>
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
-<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
+<a href="tags/index.html#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
 {% endfor %}
 </div>
-
-<ul class="listing">
-{% for tag in site.tags %}
-  <span class="listing-seperator" id="{{ tag[0] }}" style = "font-style:italic;">{{ tag[0] }}</span>
-{% for post in tag[1] %}
-  <li class="listing-item">
-  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-  <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-{% endfor %}
-</ul>
 
 <script src="http://www.thomasleeper.com/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
 <script language="javascript">

@@ -1,4 +1,8 @@
+# files to ignore #
+.jekyll-metadata
+
 # subdirectories to ignore #
+_site/
 old/
 crochet/
 
