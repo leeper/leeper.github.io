@@ -19,9 +19,9 @@ layout: default
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
-    <b>{{ y }}</b>
+    <br /><b>{{ y }}</b>
   {% endif %}
-  <li class="listing-item">
+  <li class="listing-item" style="list-style-type: none;">
     <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
     <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
