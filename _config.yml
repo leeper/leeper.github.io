@@ -1,4 +1,7 @@
-markdown: rdiscount
+pygments: true
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 permalink: /:year/:month/:title/
 url: http://www.thomasleeper.com
 author: Thomas J. Leeper
