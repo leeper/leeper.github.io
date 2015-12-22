@@ -14,7 +14,7 @@ tags:
  - reproducibility
 ---
 
-This is just a post to mention that I have [a new article/post at *The Political Methodologist*](thepoliticalmethodologist.com/2015/12/21/the-multiple-routes-to-credibility/) called "The Multiple Routes to Credibility." In it, I argue that if we think about peer review as an outward facing activity - that is, something meant to enhance the credibility of scientific claims - we need to start consider how it fits in alongside other more recent open science innovations (replication, reproducibility, registration). And, furthermore, I offer some suggestions for how to improve the peer review process so that it can actually add something above and beyond those other three Rs. 
+This is just a post to mention that I have [a new article/post at *The Political Methodologist*](http://www.thepoliticalmethodologist.com/2015/12/21/the-multiple-routes-to-credibility/) called "The Multiple Routes to Credibility." In it, I argue that if we think about peer review as an outward facing activity - that is, something meant to enhance the credibility of scientific claims - we need to start consider how it fits in alongside other more recent open science innovations (replication, reproducibility, registration). And, furthermore, I offer some suggestions for how to improve the peer review process so that it can actually add something above and beyond those other three Rs. 
 
 Here's a teaser:
 
