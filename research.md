@@ -85,7 +85,7 @@ Working papers:
 
 Selected publications:
 	
-* Kevin J. Mullinix, Thomas J. Leeper, James N. Druckman, and Jeremy Freese. &ldquo;The Generalizability of Survey Experiments.&rdquo; *Journal of Experimental Political Science*: In press. [Preprint]({{ page.papers }}GeneralizabilitySurveyExperiments.pdf), [Reproduction Files](http://dx.doi.org/10.7910/DVN/MUJHGR)
+* Kevin J. Mullinix, Thomas J. Leeper, James N. Druckman, and Jeremy Freese. 2015. &ldquo;[The Generalizability of Survey Experiments.](http://dx.doi.org/10.1017/XPS.2015.19)&rdquo; *Journal of Experimental Political Science* 2(2): 109-138. [Preprint]({{ page.papers }}GeneralizabilitySurveyExperiments.pdf), [Reproduction Files](http://dx.doi.org/10.7910/DVN/MUJHGR)
 * Thomas J. Leeper. 2013. [&ldquo;Crowdsourcing with R and the MTurk API.&rdquo;](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf) *The Political Methodologist* 2(2): 2&ndash;7.
 * Thomas J. Leeper. 2011. [&ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo;](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf) *The Experimental Political Scientist* 2(1): 6&ndash;10.
 	
