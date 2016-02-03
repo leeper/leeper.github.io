@@ -2,6 +2,7 @@
 layout: default
 title: Research - Thomas J. Leeper
 papers: https://dl.dropboxusercontent.com/u/414906/
+permalink: /research.html
 ---
 
 ## Public Opinion Dynamics ##

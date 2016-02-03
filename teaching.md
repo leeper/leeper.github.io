@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching - Thomas J. Leeper
+permalink: /teaching.html
 ---
 
 ## Teaching Philosophy ##

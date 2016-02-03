@@ -1,6 +1,7 @@
 ---
 title: Posts
 layout: default
+permalink: /blog.html
 ---
 
 <h3><a href="http://thomasleeper.com/blog.html">Blog</a> > {{ page.title}} </h3>

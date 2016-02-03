@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact - Thomas J. Leeper
+permalink: /contact.html
 ---
 
 Publications: [Google Scholar](http://scholar.google.com/citations?user=hqiux-MAAAAJ)

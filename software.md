@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Software - Thomas J. Leeper
+permalink: /software.html
 ---
 
 ## R Packages ##
