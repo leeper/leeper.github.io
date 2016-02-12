@@ -10,7 +10,7 @@ Software: [GitHub](https://github.com/leeper), [metacran](http://www.r-pkg.org/m
 
 Data: [Dataverse Network](https://dataverse.harvard.edu/dataverse/leeper)
 
-Identifiers: [ORCID](http://orcid.org/0000-0003-4097-6326) and [ResearcherID](http://www.researcherid.com/rid/J-9733-2013)
+Identifiers: [ORCID](http://orcid.org/0000-0003-4097-6326) and [ResearcherID](http://www.researcherid.com/rid/J-9733-2013) and [Scopus](http://www.scopus.com/authid/detail.uri?authorId=54998513300)
 
 Aarhus: [PURE Profile](http://pure.au.dk/portal/da/tleeper@ps.au.dk)
 
