@@ -20,6 +20,11 @@ colourlovers is an R package providing access to the [COLOURlovers](http://www.c
 These R packages provide access to [The Dataverse Network](http://dataverse.org) APIs. *dataverse* is the current generation package, providing access to the complete functionality of current Dataverse installations (see [GitHub](htts://www.github.com/IQSS/dataverse-client-r)). It is part of the [rOpenSci](http://ropensci.org/) project and is officially supported by Harvard-IQSS, the developers of Dataverse. *dvn* is a legacy package supporting earlier Dataverse installations. <br/>[CRAN](http://cran.r-project.org/web/packages/dvn/index.html) [GitHub](https://github.com/rOpenSci/dvn)
 
 
+**ghit: Lightweight GitHub Package Installer**
+ghit is a lightweight, vectorized drop-in replacement for `devtools::install_github()` that uses native git and R methods to clone and install a package from GitHub. It provides a lighter weight alternative to devtools with a very similar API, slightly different defaults, and completely rebuilt internals.
+<br/>[CRAN](https://cran.r-project.org/web/packages/ghit/index.html) [GitHub](https://github.com/leeper/ghit)
+
+
 **imguR: Imgur API Client Package for R**<br/>
 imguR is an R package, initated by Aaron Statham, that binds the imguR API to R, thus enabling the uploading and management of images on imguR. It might be particularly useful for web-based R projects and knitr documents written in R markdown. <br/> [GitHub](https://github.com/leeper/imguR)
 
@@ -57,12 +62,8 @@ UNF is an R package for generating variable- and dataset-level universal numeric
 
 
 ---
-## Some other assorted materials ##
-
-* R: [Identify gender of first names, by country, using the Gender API](https://gist.github.com/leeper/9021068)
+## Some other materials ##
 
 * R: [Materials for learning and teaching R](http://thomasleeper.com/Rcourse/)
-
-* R: [Really Introductory Introduction to R](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.pdf) (See also: source [.rnw](http://thomasleeper.com/Rcourse/Intro2R/Intro2R.rnw)).
 
 * LaTeX: [A .bst (bibliography style file for LaTeX)](https://github.com/leeper/apsa-leeper.bst) that formats according to the APSA/Political Science style guide. I had trouble finding a .bst that correctly formatted citations, so I adapted one to do it. (I use the [natbib](http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/) package to produce parentheticals.)
