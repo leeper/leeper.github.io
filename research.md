@@ -25,6 +25,7 @@ Selected publications:
 * James N. Druckman, and Thomas J. Leeper. 2012. [&ldquo;Is Public Opinion Stable? Resolving the Micro-Macro Disconnect in Studies of Public Opinion.&rdquo;](http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00173) *Daedalus* 141(4): 50&ndash;68. [Preprint]({{ page.papers}}Daedalus2012.pdf), [Reproduction Files](http://dx.doi.org/10.7910/DVN/NSRKXC)
 
 ---
+
 ## Information Choices ##
 
 Choices define humans' day-to-day experiences. While we are acted upon by outside forces and agents, we also make choices among alternatives. In politics and political behavior, choices are abundant: what candidate do you choose to vote for, what news do you choose to read, what people do you choose to interact with, etc. In this area, I am examining both causes and effects of information choices to understand how people decide amongst alternatives and how those choices impact their later cognition and behavior.
@@ -42,6 +43,7 @@ Selected publications:
 	
 
 ---
+
 ## Effects of Political Communication ##
 
 Most of the information that people can and do receive about politics comes from elites - political candidates, parties, interest groups, and the mass media. Understanding the effects of political communications is therefore vital to making sense of public opinions. My work in this area examines the effectiveness of political communications in moving public preferences and also considers how different groups succeed or fail at influencing those preferences given their access to the mass public and the alternative messages being communicated in the political environment.
@@ -58,6 +60,7 @@ Selected publications:
 * Toby Bolsen, Thomas J. Leeper, and Matthew Shapiro. 2014. [&ldquo;Doing What Others Do: Norms, Science, and Collective Action on Global Warming.&rdquo;](http://apr.sagepub.com/content/42/1/65) *American Politics Research* 42(1): 65--89. [Preprint]({{ page.papers }}AmericanPoliticsResearch2014.pdf), [Reproduction Files](http://hdl.handle.net/1902.1/18249)
 	
 ---
+
 ## Reproducible Research, Open Data, and Statistical Computing ##
 
 Shifting norms in social scientific practice mean that the future of quantitative social science will depend on shared data, open source software, and reproducible research reports. Developing tools to facilitate the coming era of reproducible social science and training social scientists at all levels to use those tools is critically important. In this vein, I develop open source software and write on how to improve reproducibility of social science research.
@@ -75,6 +78,7 @@ Selected publications:
 
 
 ---
+
 ## Survey and Experimental Methods ##
 
 Experimental methods are an increasingly important method for understanding political and social processes and behavior. My work in this area aims to improve the quality of experimental methods and reduce barriers to entry for experimental research online. Survey methods remain a staple in the study of public opinion, political communication, and human behavior and I aim to contribute to our understand of how best to conduct survey and survey-experimental research in ways that balance cost and total survey error.
