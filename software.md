@@ -59,11 +59,3 @@ sparktex is an R companion to the LaTeX [sparklines](http://www.ctan.org/pkg/spa
 
 **UNF: Tools for creating universal numeric fingerprints for data**<br/>
 UNF is an R package for generating variable- and dataset-level universal numeric fingerprint signatures to uniquely identify data. UNF signatures provide a way to uniquely and persistently identify (a version of) a dataset. [The UNF algorithm](http://thedata.org/book/universal-numerical-fingerprint) was created by [Micah Altman](http://micahaltman.com/) and was updated to version 5 of the UNF algorithm in the current package, which I maintain. The UNF package also provides UNF-based functions to identify discrepancies between dataframes and works well with the **dvn** package, listed above, for comparing Dataverse-stored datasets against local copies.<br/>[GitHub](https://github.com/leeper/UNF)
-
-
----
-## Some other materials ##
-
-* R: [Materials for learning and teaching R](http://thomasleeper.com/Rcourse/)
-
-* LaTeX: [A .bst (bibliography style file for LaTeX)](https://github.com/leeper/apsa-leeper.bst) that formats according to the APSA/Political Science style guide. I had trouble finding a .bst that correctly formatted citations, so I adapted one to do it. (I use the [natbib](http://www.ctan.org/tex-archive/macros/latex/contrib/natbib/) package to produce parentheticals.)
