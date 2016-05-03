@@ -57,5 +57,9 @@ A simple, one-function R package to produce Edward Tufte-inspired [slopegraph pl
 sparktex is an R companion to the LaTeX [sparklines](http://www.ctan.org/pkg/sparklines) package (by Andreas Loeffler and Dan Luecking), which produces Edward Tufte-inspired [sparklines](http://en.wikipedia.org/wiki/Sparkline) and sparkspikes (in-text histograms) natively in LaTeX. <br/>[CRAN](http://cran.r-project.org/web/packages/sparktex/index.html) [GitHub](https://github.com/leeper/sparktex)
 
 
+**tabulizer: Bindings for Tabula PDF Table Extractor Library**<br/>
+tabulizer provides R bindings to the [Tabula java library](https://github.com/tabulapdf/tabula-java/), which extracts tables from PDF documents using a small set of really powerful and accurate algorithms. tabulizer provides a thin client around Tabula, and provides a handy interactive mode to identifying tables in PDFs directly within an R graphics window. <br/>[GitHub](https://github.com/leeper/tabulizer)
+
+
 **UNF: Tools for creating universal numeric fingerprints for data**<br/>
 UNF is an R package for generating variable- and dataset-level universal numeric fingerprint signatures to uniquely identify data. UNF signatures provide a way to uniquely and persistently identify (a version of) a dataset. [The UNF algorithm](http://thedata.org/book/universal-numerical-fingerprint) was created by [Micah Altman](http://micahaltman.com/) and was updated to version 5 of the UNF algorithm in the current package, which I maintain. The UNF package also provides UNF-based functions to identify discrepancies between dataframes and works well with the **dvn** package, listed above, for comparing Dataverse-stored datasets against local copies.<br/>[GitHub](https://github.com/leeper/UNF)
