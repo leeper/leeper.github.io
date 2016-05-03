@@ -61,19 +61,19 @@ Selected publications:
 	
 ---
 
-## Reproducible Research, Open Data, and Statistical Computing ##
+## Reproducible Research, Open Data, and Social Science Computing ##
 
 Shifting norms in social scientific practice mean that the future of quantitative social science will depend on shared data, open source software, and reproducible research reports. Developing tools to facilitate the coming era of reproducible social science and training social scientists at all levels to use those tools is critically important. In this vein, I develop open source software and write on how to improve reproducibility of social science research.
 
 Working papers:
 
 * Thomas J. Leeper. [&ldquo;The Multiple Paths To Credibility.&rdquo;]({{ page.papers }}MultiplePathsToCredibility.pdf)
-* Thomas J. Leeper. [&ldquo;Crowdsourced Data Preprocessing with R and Amazon Mechanical Turk.&rdquo;]({{ page.papers }}MTurkRCrowdsourcing.pdf)
 
 Selected publications:
 
 * For published software, see [Software](http://thomasleeper.com/software)
-* Thomas J. Leeper. 2014. [&ldquo;Archiving Reproducible Research with R and Dataverse.&rdquo;](http://journal.r-project.org/archive/accepted/leeper.pdf) *The R Journal*: In press.
+* Thomas J. Leeper. [&ldquo;Crowdsourced Data Preprocessing with R and Amazon Mechanical Turk.&rdquo;]({{ page.papers }}MTurkRCrowdsourcing.pdf) *The R Journal*: In press.
+* Thomas J. Leeper. 2014. [&ldquo;Archiving Reproducible Research with R and Dataverse.&rdquo;](http://journal.r-project.org/archive/2014-1/leeper.pdf) *The R Journal* 6(1): 151--158.
 * Thomas J. Leeper. 2011. [&ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo;](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf) *The Experimental Political Scientist* 2(1): 6&ndash;10.
 
 
