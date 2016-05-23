@@ -31,6 +31,6 @@ Political psychologists study people. We want to know how people think, act, and
 | Role | Course | Level/Location |
 | ---- | ------ | -------------- |
 | Instructor | [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse) | PhD/Faculty<br/>Barcelona Summer School in Survey Methodology, 2016 |
-| Instructor | Online Surveys and Survey Experiments | PhD/Faculty<br/>European University Institute, 2015 |
+| Instructor | [Online Surveys and Survey Experiments](http://thomasleeper.com/websurveycourse/) | PhD/Faculty<br/>European University Institute, 2015 |
 | Instructor | [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse) | PhD/Faculty<br/>Aarhus University, 2014 |
 | Instructor | [Introduction to R](http://www.thomasleeper.com/Rcourse) | PhD/Faculty<br/>Aarhus University, 2013 |
