@@ -53,6 +53,11 @@ td {
     padding-right:2.5em;
 }
 
+/* IMAGES */
+img {
+    max-width:90%;
+}
+
 /* TEXT */
 p {    
     margin-bottom:0.2em;
