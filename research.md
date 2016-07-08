@@ -36,7 +36,7 @@ Working papers:
 * [&ldquo;Causal Effects Under Self-Selection&rdquo;]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
 * [&ldquo;Can Citizens Be Framed? How Information, Not Emphasis, Changes Opinions&rdquo;]({{ page.papers}}CanCitizensBeFramed.pf) (with Rune Slothuus)
 * [&ldquo;Interest Groups and Political Attitudes&rdquo;]({{ page.papers }}InterestGroupsAndPoliticalAttitudes.pdf)
-* [&ldquo;How Does Treatment Self-Selection Affect Inferences About Political Communication?&rdquo;]({{ page.papers }}PoliticalCommuniationSelfSelection.pdf)
+* [&ldquo;How Does Treatment Self-Selection Affect Inferences About Political Communication?&rdquo;]({{ page.papers }}PoliticalCommunicationSelfSelection.pdf)
 
 Selected publications:
 
