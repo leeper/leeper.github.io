@@ -36,10 +36,10 @@ Working papers:
 * [&ldquo;Causal Effects Under Self-Selection&rdquo;]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
 * [&ldquo;Can Citizens Be Framed? How Information, Not Emphasis, Changes Opinions&rdquo;]({{ page.papers}}CanCitizensBeFramed.pf) (with Rune Slothuus)
 * [&ldquo;Interest Groups and Political Attitudes&rdquo;]({{ page.papers }}InterestGroupsAndPoliticalAttitudes.pdf)
-* [&ldquo;How Does Treatment Self-Selection Affect Inferences About Political Communication?&rdquo;]({{ page.papers }}PoliticalCommunicationSelfSelection.pdf)
 
 Selected publications:
 
+* Thomas J. Leeper. N.d. &ldquo;How Does Treatment Self-Selection Affect Inferences About Political Communication?&rdquo; *Journal of Experimental Political Science*: In press. [Preprint]]({{ page.papers }}PoliticalCommunicationSelfSelection.pdf), [Reproduction Files](http://hdl.handle.net/1902.1/17865)
 * Thomas J. Leeper, and Rune Slothuus. N.d. &ldquo;Deliberation and Framing.&rdquo; In Andre Bächtiger, John Dryzek, Jane Mansbridge, and Mark Warren, eds., *Oxford Handbook of Deliberative Democracy*, In press. [Preprint]({{ page.papers }}DeliberationAndFraming.pdf)
 * Thomas J. Leeper, and Rune Slothuus. 2014 [&ldquo;Political Parties, Motivated Reasoning, and Public Opinion Formation.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) *Advances in Political Psychology* 35(S1): 129--156. [Preprint]({{ page.papers }}AdvancesInPoliticalPsychology2014.pdf)
 * Thomas J. Leeper. 2014. [&ldquo;The Informational Basis for Mass Polarization.&rdquo;](http://poq.oxfordjournals.org/content/78/1/27.abstract) *Public Opinion Quarterly* 78(1): 27-46. [Preprint]({{ page.papers }}PublicOpinionQuarterly2014.pdf), [Reproduction Files](http://hdl.handle.net/1902.1/21964)
