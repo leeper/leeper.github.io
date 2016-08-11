@@ -14,8 +14,8 @@ Political psychologists study people. We want to know how people think, act, and
 
 | Role | Course | Level/Location |
 | ---- | ------ | -------------- |
-| Instructor | [Public Opinion, Political Psychology, and Citizenship](http://www.thomasleeper.com/opinioncourse) | Master level<br/>London School of Economics and Political Science, 2016 |
-| Instructor | [Research Design in Political Science](http://www.thomasleeper.com/designcourse) | Bachelor level<br/>London School of Economics, 2015-16 |
+| Instructor | [Public Opinion, Political Psychology, and Citizenship](http://www.thomasleeper.com/opinioncourse) | Master level<br/>London School of Economics and Political Science, 2016, 2017 |
+| Instructor | [Research Design in Political Science](http://www.thomasleeper.com/designcourse) | Bachelor level<br/>London School of Economics, 2015-16, 2016-17 |
 | Co-Instructor with David Hendry | [Quantitative Political Analysis](http://www.thomasleeper.com/regcourse) | Master/Doctoral level<br/>Aarhus University, 2015|
 | Instructor | [Using Surveys for Research and Evaluation](http://www.thomasleeper.com/surveycourse) | Master level<br/>Aarhus University, 2014 |
 | Instructor | [Issues in American Politics and Government](http://www.thomasleeper.com/ampolcourse) | Master level<br/>Aarhus University, 2014 |
