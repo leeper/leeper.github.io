@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Thomas J. Leeper
+description: Thomas J. Leeper, PhD, is an Assistant Professor in Political Behaviour in the Department of Government at the London School of Economics and Political Science. His research focuses on how political attitudes reflect an interaction between the broader information environment and citizens' individual-level traits, psychology, and behavior.
 ---
 
 I am an Assistant Professor in Political Behaviour in the [Department of Government](http://www.lse.ac.uk/government/home.aspx) at [the London School of Economics and Political Science](http://www.lse.ac.uk/home.aspx). Prior to that, I was a Postdoc in the [Institut for Statskundskab](http://ps.au.dk/en/) (Department of Political Science) at [Aarhus University](http://www.au.dk/en/) in Aarhus, Denmark.
