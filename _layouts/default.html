@@ -9,7 +9,7 @@
     <meta property="twitter:image:alt" content="Headshot of Thomas J. Leeper, PhD" />
     <meta property="og:url" content="http://thomasleeper.com{{ page.url }}" />
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:description" content="{% if page.description != "" %}{{ page.description }}{% else %}{{ page.title }}{% endif %}" />
+    <meta property="og:description" content="{% if page.description == nil or page.description == "" %}{{ page.title }}{% else %}{{ page.description }}{% endif %}" />
     <meta property="og:image" content="http://thomasleeper.com/images/thomas2016.jpg" />
     <title>Thomas J. Leeper</title>
     <link rel="stylesheet" type="text/css" href="http://thomasleeper.com/assets/css/style.css" />
