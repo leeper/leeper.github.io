@@ -12,13 +12,13 @@ While public opinion research has been a staple element of social science inquir
 Working papers:
 
 * [&ldquo;Can Citizens Be Framed? How Information, Not Emphasis, Changes Opinions&rdquo;]({{ page.papers }}CanCitizensBeFramed.pdf) (with Rune Slothuus)
-* [&ldquo;Do Heterogeneous Networks Undermine Attitude Strength?&rdquo;]({{ page.papers }}HeterogeneousNetworks.pdf) (with Joshua Robison and Jamie Druckman)
 * [&ldquo;Are Strong Opinions More Stable?&rdquo;]({{ page.papers }}AreStrongOpinionsMoreStable.pdf)
 * [&ldquo;The Information Environment and Consistency in Citizens' Policy Opinions&rdquo;]({{ page.papers }}OpinionConsistency.pdf) (with Rune Slothuus)
 * [&ldquo;Politics and Media Coverage Shape the Issue Content of the Polling Agenda&rdquo;]({{ page.papers }}PollingAgenda.pdf)
 
 Selected publications:
 	
+* Joshua Robison, Thomas J. Leeper, and James N. Druckman. &ldquo;Do Disagreeable Political Discussion Networks Undermine Attitude Strength?&rdquo; *Political Psychology*: In press. [Preprint]({{ page.papers }}HeterogeneousNetworks.pdf), [Reproduction Files](http://dx.doi.org/10.7910/DVN/DVWPVB)
 * Thomas J. Leeper. 2014. [&ldquo;Cognitive Style and the Survey Response.&rdquo;](http://poq.oxfordjournals.org/content/78/4/974.abstract) *Public Opinion Quarterly* 78(4): 974&ndash;983. [Preprint]({{ page.papers}}PublicOpinionQuarterly2014b.pdf), [Reproduction Files](http://dx.doi.org/10.7910/DVN/V9ROA)
 * James N. Druckman, and Thomas J. Leeper. 2012. [&ldquo;Learning More from Political Communication Experiments: Pretreatment and Its Effects.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00582.x/abstract) *American Journal of Political Science* 56(4): 875&ndash;896. [Preprint]({{ page.papers}}AmericanJournalofPoliticalScience2012), [Reproduction Files](http://hdl.handle.net/1902.1/17218)
 * James N. Druckman, and Thomas J. Leeper. 2012. [&ldquo;Is Public Opinion Stable? Resolving the Micro-Macro Disconnect in Studies of Public Opinion.&rdquo;](http://www.mitpressjournals.org/doi/abs/10.1162/DAED_a_00173) *Daedalus* 141(4): 50&ndash;68. [Preprint]({{ page.papers}}Daedalus2012.pdf), [Reproduction Files](http://dx.doi.org/10.7910/DVN/NSRKXC)
