@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Assessing Clinton's Conflicts of Interest Requires Unobservable Counterfactuals"
-description: "An AP headline today describes an observed relationship in data - between charitable contributions and political access - and calls upon the reader to draw a causal inference. That is a terrible thing to do."
+description: "An AP headline today describes an observed relationship in data and calls upon the reader to draw a causal inference. That is a terrible thing to do."
 tags:
  - politics
  - counterfactuals
