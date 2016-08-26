@@ -16,6 +16,8 @@ Software: [GitHub](https://github.com/leeper), [metacran](http://www.r-pkg.org/m
 
 Data: [Dataverse Network](https://dataverse.harvard.edu/dataverse/leeper)
 
+Peer Reviews: [Publons](https://publons.com/a/634082/)
+
 Q&A: [StackOverflow](http://stackoverflow.com/users/2338862/thomas), [Academia SE](http://academia.stackexchange.com/users/6984/thomas), [Open Data SE](http://opendata.stackexchange.com/users/2085/thomas), [AWS Developer Forums](https://forums.aws.amazon.com/profile.jspa?userID=187779)
 
 Networking: [LinkedIn](http://www.linkedin.com/in/thomasjleeper)
