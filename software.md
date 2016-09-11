@@ -12,10 +12,6 @@ Here are a few of the R packages I've developed on my own, and as part of the [r
 The [cloudyr project](http://cloudyr.github.io) is an effort to connect R to cloud computing applications, starting with Amazon Web Services and continuous integration services for R package development. See the cloudyr website or [GitHub page](https://github.com/cloudyr) for more details.
 
 
-**colourlovers: R client for the COLOURlovers API**<br/>
-colourlovers is an R package providing access to the [COLOURlovers](http://www.colourlovers.com/) API. COLOURlovers is a social networking site for sharing colors, color palettes, and color-rich visual designs. <br/>[CRAN](http://cran.r-project.org/web/packages/colourlovers/index.html) [GitHub](https://github.com/leeper/colourlovers)
-
-
 **Dataverse packages: dataverse (version >= 4.0) and dvn (version < 4.0)**<br/>
 These R packages provide access to [The Dataverse Network](http://dataverse.org) APIs. *dataverse* is the current generation package, providing access to the complete functionality of current Dataverse installations (see [GitHub](htts://www.github.com/IQSS/dataverse-client-r)). It is part of the [rOpenSci](http://ropensci.org/) project and is officially supported by Harvard-IQSS, the developers of Dataverse. *dvn* is a legacy package supporting earlier Dataverse installations. <br/>[CRAN](http://cran.r-project.org/web/packages/dvn/index.html) [GitHub](https://github.com/rOpenSci/dvn)
 
@@ -43,10 +39,6 @@ The aim of rio is to make data file I/O in R as easy as possible by implementing
 
 **rite: The Right Editor to Write R**<br/>
 A simple, powerful, multi-platform script editor for R, built with tcl/tk, rite provides features typically found in standalone editors and IDEs (e.g., syntax highlighting, command completion, shortcut keys, find and go-to-line commands, one-click access to documentation, etc.) and a helpful color-coded output "sink". It also creates an easy workflow for reproducible research through integration with the [knitr](http://cran.r-project.org/web/packages/knitr/index.html) package. <br/>[CRAN](http://cran.r-project.org/web/packages/rite/index.html) [GitHub](https://github.com/leeper/rite)
-
-
-**Rmonkey: A Survey Monkey R Client**<br/>
-Rmonkey is a simple package for retrieving survey data from [Survey Monkey](http://www.surveymonkey.com/) and creating new surveys and survey collectors from within R. <br/>[GitHub](https://github.com/leeper/Rmonkey)
 
 
 **slopegraph: Edward Tufte-inspired Slopegraphs in R**<br/>
