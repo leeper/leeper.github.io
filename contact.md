@@ -12,7 +12,7 @@ Citations: [Google Scholar](http://scholar.google.com/citations?user=hqiux-MAAAA
 
 LSE: [Profile](http://www.lse.ac.uk/government/whosWho/Academic%20profiles/ThomasLeeper.aspx), [Preprints](http://eprints.lse.ac.uk/view/lseauthor/Leeper,_Thomas.html)
 
-Software: [GitHub](https://github.com/leeper), [metacran](http://www.r-pkg.org/maint/thosjleeper@gmail.com), [the cloudyr project](https://cloudyr.github.io)
+Software: [GitHub](https://github.com/leeper), [metacran](http://www.r-pkg.org/maint/thosjleeper@gmail.com), [depsy](http://depsy.org/person/330088), [the cloudyr project](https://cloudyr.github.io)
 
 Data: [Dataverse Network](https://dataverse.harvard.edu/dataverse/leeper)
 
