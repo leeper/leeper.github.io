@@ -5,7 +5,7 @@ papers: https://dl.dropboxusercontent.com/u/414906/
 permalink: /research.html
 ---
 
-## Public Opinion Dynamics ##
+## Public Opinion Dynamics
 
 While public opinion research has been a staple element of social science inquiry for eighty years, there has been surprisingly little attention to the over-time dynamics of opinion. Instead cross-sectional surveys and one-off experiments constitute the bulk of published studies of opinions. But how to opinions change over time? What individual and contextual factors explain the dynamics of individuals' opinions over time? In this area, I am examining psychological dispositions - especially attitude strength and cognitive style - that shape attitude dynamics as well as considering how survey research practices shape our ability to measure opinions and opinion dynamics.
 
@@ -26,7 +26,7 @@ Selected publications:
 
 ---
 
-## Political Communication and Information Choices ##
+## Political Communication and Information Choices
 
 Most of the information that people can and do receive about politics comes from elites - political candidates, parties, interest groups, and the mass media. Understanding the effects of political communications is therefore vital to making sense of public opinions. My work in this area examines the effectiveness of political communications in moving public preferences. I also study the causes and effects of information choices to understand how people expose themselves to alternative messages in the political environment and how those choices impact their later cognition and behavior.
 
@@ -39,7 +39,7 @@ Working papers:
 
 Selected publications:
 
-* Thomas J. Leeper. N.d. &ldquo;How Does Treatment Self-Selection Affect Inferences About Political Communication?&rdquo; *Journal of Experimental Political Science*: In press. [Preprint]]({{ page.papers }}PoliticalCommunicationSelfSelection.pdf), [Reproduction Files](http://hdl.handle.net/1902.1/17865)
+* Thomas J. Leeper. N.d. &ldquo;How Does Treatment Self-Selection Affect Inferences About Political Communication?&rdquo; *Journal of Experimental Political Science*: In press. [Preprint]({{ page.papers }}PoliticalCommunicationSelfSelection.pdf), [Reproduction Files](http://hdl.handle.net/1902.1/17865)
 * Thomas J. Leeper, and Rune Slothuus. N.d. &ldquo;Deliberation and Framing.&rdquo; In Andre Bächtiger, John Dryzek, Jane Mansbridge, and Mark Warren, eds., *Oxford Handbook of Deliberative Democracy*, In press. [Preprint]({{ page.papers }}DeliberationAndFraming.pdf)
 * Thomas J. Leeper, and Rune Slothuus. 2014 [&ldquo;Political Parties, Motivated Reasoning, and Public Opinion Formation.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) *Advances in Political Psychology* 35(S1): 129--156. [Preprint]({{ page.papers }}AdvancesInPoliticalPsychology2014.pdf)
 * Thomas J. Leeper. 2014. [&ldquo;The Informational Basis for Mass Polarization.&rdquo;](http://poq.oxfordjournals.org/content/78/1/27.abstract) *Public Opinion Quarterly* 78(1): 27-46. [Preprint]({{ page.papers }}PublicOpinionQuarterly2014.pdf), [Reproduction Files](http://hdl.handle.net/1902.1/21964)
@@ -51,7 +51,7 @@ Selected publications:
 
 ---
 
-## Reproducible Research and Social Science Computing ##
+## Reproducible Research and Social Science Computing
 
 Shifting norms in social scientific practice mean that the future of quantitative social science will depend on shared data, open source software, and reproducible research reports. Developing tools to facilitate the coming era of reproducible social science and training social scientists at all levels to use those tools is critically important. In this vein, [I develop open source software](http://thomasleeper.com/software) and [write on how to improve reproducibility of social science research](http://thomasleeper.com/blog.html).
 
@@ -66,7 +66,7 @@ Selected publications:
 
 ---
 
-## Survey and Experimental Methods ##
+## Survey and Experimental Methods
 
 Experimental methods are an increasingly important method for understanding political and social processes and behavior. My work in this area aims to improve the quality of experimental methods and reduce barriers to entry for experimental research online. Survey methods remain a staple in the study of public opinion, political communication, and human behavior and I aim to contribute to our understand of how best to conduct survey and survey-experimental research in ways that balance cost and total survey error.
 
