@@ -1,5 +1,5 @@
 ---
-title: Blog - Thomas J. Leeper
+title: Posts
 layout: default
 permalink: /blog.html
 ---
