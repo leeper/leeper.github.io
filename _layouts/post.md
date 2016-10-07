@@ -9,7 +9,8 @@ layout: default
 {{ content }}
 
 <br />
-<span style="font-style:italic;font-size:.8em;float:right;">Published: {{ page.date | date:"%Y-%m-%d" }}</span>
+<span style="font-style:italic;font-size:.8em;float:right;">Published: {{ page.date | date:"%Y-%m-%d" }}</span><br />
+<span style="font-style:italic;font-size:.8em;float:right;"><a href="http://thomasleeper.com/feed.xml">[Feed]</a></span>
 
 <br />
 
