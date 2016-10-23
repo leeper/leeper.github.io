@@ -10,7 +10,7 @@ tags:
  - methods
 ---
 
-*This is a the first of a possible series of posts on Angus Deaton and Nancy Cartwright's working paper, "[Understanding and Misunderstanding Randomized Controlled Trials](http://www.nber.org/papers/w22595)."*
+*This is a the first of a series of posts on Angus Deaton and Nancy Cartwright's working paper, "[Understanding and Misunderstanding Randomized Controlled Trials](http://www.nber.org/papers/w22595)."*
 
 Yesterday I was fortunate enough to hear [Angus Deaton](https://en.wikipedia.org/wiki/Angus_Deaton), 2015 Nobel Laureate in Economic Sciences, present [a working paper](http://www.nber.org/papers/w22595) (coauthored with [Nancy Cartwright](https://community.dur.ac.uk/nancy.cartwright/)) that is essentially a comprehensive and at times technical critique of randomized controlled trials (RCTs, or experiments) and their use in policymaking. As an experimentalist, it was fascinating to hear an outsider critique the method with a high degree of sophistication, yet I was left with some lingering doubts about what we should do as scientists in response to Deaton and Cartwright's critiques. 
 
