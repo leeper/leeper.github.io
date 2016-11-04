@@ -66,6 +66,11 @@ p {
     margin-left:0em;
     font-size:16px;
 }
+
+blockquote {
+    font-size:14px;
+}
+
 header {
     font-weight:bold;
     font-size:32px;
