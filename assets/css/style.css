@@ -68,7 +68,10 @@ p {
 }
 
 blockquote {
-    font-size:80%;
+  font-style: normal;
+  font-size: 14px;
+  border-left: 4px solid #CCC;
+  padding-left: 8px;
 }
 
 header {
