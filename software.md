@@ -4,7 +4,7 @@ title: Software - Thomas J. Leeper
 permalink: /software.html
 ---
 
-## R Packages ##
+## R Packages
 
 Here are a few of the R packages I've developed on my own, and as part of the [rOpenSci](http://ropensci.org/), [rOpenGov](http://ropengov.github.io/), and [cloudyr](http://cloudyr.github.io) open source projects. [My CV](http://www.thomasleeper.com/cv/cv.pdf) lists all of my software projects and you can find source code for all projects on [GitHub](http://github.com/leeper). The projects below are a few of the more prominent examples.
 
@@ -26,7 +26,7 @@ imguR is an R package, initated by Aaron Statham, that binds the imguR API to R,
 
 
 **margins: An R port of Stata's margins command**<br/>
-margins is a work-in-progress that is meant to be an R port of Stata's margins command. It can be used to calculate marginal effects and their variances from regression models. It is especially helpful for models with power terms, non-linear transformations, and interaction terms, and for generalized linear models. <br/> [GitHub](https://github.com/leeper/margins)
+margins is a an R port of Stata's `margins` command. It can be used to calculate (average) marginal effects and their variances from regression models. It is especially helpful for models with power terms, non-linear transformations, and interaction terms, and for generalized linear models. <br/> [GitHub](https://github.com/leeper/margins)
 
 
 **MTurkR: R Client for the MTurk Requester API**<br/>

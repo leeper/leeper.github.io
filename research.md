@@ -76,9 +76,9 @@ Working papers:
 * Thomas J. Leeper, and Emily Thorson. [&ldquo;Minimial Sponsorship-Induced Bias in Web Survey Data.&rdquo;]({{ page.papers }}SurveySponsorship.pdf)
 
 Selected publications:
-	
+
 * Kevin J. Mullinix, Thomas J. Leeper, James N. Druckman, and Jeremy Freese. 2015. &ldquo;[The Generalizability of Survey Experiments.](http://dx.doi.org/10.1017/XPS.2015.19)&rdquo; *Journal of Experimental Political Science* 2(2): 109-138. [Preprint]({{ page.papers }}GeneralizabilitySurveyExperiments.pdf), [Reproduction Files](http://dx.doi.org/10.7910/DVN/MUJHGR)
 *  James N. Druckman, Thomas J. Leeper, and Kevin J. Mullinix. 2014. &ldquo;The Experimental Study of Legislative Behaviors.&rdquo; In Thomas Saalfeld, and Kaare Strøm, eds., The Oxford Handbook of Legislative Studies, 194–210. Oxford, UK: Oxford University Press.
 * Thomas J. Leeper. 2013. [&ldquo;Crowdsourcing with R and the MTurk API.&rdquo;](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf) *The Political Methodologist* 2(2): 2&ndash;7. [Reproduction Files](https://github.com/leeper/mturkr-article/tree/master/tpm)
 * Thomas J. Leeper. 2011. [&ldquo;The Role of Protocol in the Design and Reporting of Experiments.&rdquo;](http://scholar.harvard.edu/files/dtingley/files/may2011.pdf) *The Experimental Political Scientist* 2(1): 6&ndash;10.
-	
+
