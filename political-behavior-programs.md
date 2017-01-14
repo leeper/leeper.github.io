@@ -4,6 +4,8 @@ title: Doctoral Programs in Political Behavior
 permalink: /political-behavior-programs.html
 ---
 
+# A Rough Guide to Doctoral Programs in Political Behavior
+
 Inspired by [the Conflict Consortium's](http://www.conflictconsortium.com/) [Guide to Conflict, Violence, and Peace programs](http://conflictconsortium.weebly.com/annual-review-of-conflict-peace-and-violence-programs-in-political-science.html), I thought it may be useful to compile some information on academic departments providing supervision, methodological training, and infrastructure sufficient to strongly support doctoral specialization.
 
 Because political behavior is not one of the traditional five fields of (American-style) political science, it can be difficult to identify programs that are likely to support research in the field. This is especially true given that behavior researchers tend to cluster in American Politics subfields at US institutions but in Comparative Politics subfields outside the US.
