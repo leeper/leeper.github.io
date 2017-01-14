@@ -14,14 +14,14 @@ There is no effort here to indicate whether these programs are "a good choice" a
 
 This is a work in progress. All information is provided without guarantees or warranties.
 
-| University  | Department | Behavior Faculty | Seminar/Workshop | Laboratory |
-| ----------- | ---------- | ---------------- | ---------------- | ---------- |
+| University  | Department(s) | Behavior Faculty | Seminar/Workshop | Laboratory |
+| ----------- | ------------- | ---------------- | ---------------- | ---------- |
 | Aarhus | Political Science | Aarøe, Arndt, Bech, Bisgaard, Bøggild, Green-Pedersen, Kevins, Laustsen, Lee, Mortensen, Petersen, Robison, Seeberg, Slothuus, Stubager, Thomsen,  | ? | ? |
 | American | Political Science, Communication | | ? | ? |
 | ASCoR | Communication |  | ? | ? |
 | Columbia | Political Science | | ? | ? |
 | Duke | Political Science | | ? | ? |
-| Essex | Political Science | | ? | ? |
+| Essex | [Government](https://www.essex.ac.uk/government/) | Bartle, Duell, Ezrow, Getmansky, Johns, Kern, Whiteley | ? | ? |
 | EUI | Political Science | | ? | ? |
 | George Washington | Political Science, Communication | | ? | ? |
 | Georgetown | Political Science | | ? | ? |
@@ -31,18 +31,20 @@ This is a work in progress. All information is provided without guarantees or wa
 | LSU | Political Science, Communications | | ? | ? |
 | LSE | [Government](http://www.lse.ac.uk/government) | Hix, Hendry, Hobolt, Hortala-Vallve, Jablonski, Koenig-Archibugi, Leeper | [Yes](http://www.lse.ac.uk/government/research/resgroups/PoliticalBehaviour/Political-Behaviour.aspx) | [Lab](http://www.lse.ac.uk/management/research/behavioural-research-lab/home.aspx) |
 | Michigan | Political Science, Communications | | ? | ? |
-| Minnesota | Political Science, Psychology | | ? | ? |
+| Minnesota | Political Science, Psychology, Communication | Caraway, Federico, Goren, Lavine, Miller, Myers, Rahn, Samuels, Tims, Wackman | ? | ? |
 | MIT | Political Science | | ? | ? |
 | Nebraska | Political Science | | ? | ? |
 | Northwestern | [Political Science](http://www.polisci.northwestern.edu/) | Burch, Druckman, Merseth, Page, Rogers, Seawright, Yong | No | [Lab](http://faculty.wcas.northwestern.edu/~jnd260/lab.html) |
 | NYU | Political Science | | ? | ? |
-| Ohio State | Political Science, Communications | | ? | ? |
+| Ohio State | Communication | | ? | ? |
+| Ohio State | [Political Science](https://polisci.osu.edu/) | Acree, Box-Steffensmeier, Cranmer, Gelpi, McGraw, Minozzi, Neblo, Nelson, Robinson, Swigger, Watson, Wood | ? | ? |
 | Oxford |  | | ? | ? |
-| Penn | Political Science, Communication | | ? | ? |
+| Penn | Political Science |  | ? | ? |
+| Penn | Communication | | ? | ? |
 | Princeton | Political Science | | ? | ? |
 | Rutgers | Political Science | | ? | ? |
 | Stanford | [Political Science](http://politicalscience.stanford.edu/) | Davenport, Fiorina, Hainmeuller, Hall, Iyengar, Krosnick, Laitin, Levi, Rivers, Scheve, Sniderman, Tomz | ? | [Lab](https://pcl.stanford.edu/) |
-| Stony Brook | Political Science | | ? | ? |
+| Stony Brook | Political Science | Barabas, Delton, DeScioli, Feldman, Huddy, Jerit, Kline, Krupnikov, Lahav, Lebo, Lodge, Nam, Norpoth, Ryan, Smirnov, Taber | ? | ? |
 | UC-Berkeley | Political Science | | ? | ? |
 | UC-Davis | Political Science | | ? | ? |
 | UCLA | Political Science | | ? | ? |
@@ -50,7 +52,10 @@ This is a work in progress. All information is provided without guarantees or wa
 | UCSD | Political Science | | ? | ? |
 | UNC-Chapel Hill | Political Science | | ? | ? |
 | UT-Austin | Political Science | | ? | ? |
-| UW-Madison | Political Science, Communications | | ? | ? |
+| UW-Madison | [Political Science](https://www.polisci.wisc.edu/) | Burden, Mayer, Shafer, Canon, Tahk, Cramer, Marquez, Bhavnani | ? | ? |
+| UW-Madison | [Communication](https://commarts.wisc.edu/) | Xenos | ? | ? |
+| UW-Madison | [Journalism](https://journalism.wisc.edu/) | Graves, Kim, McLeod, Robinson, Shah, Wagner, Wells | ? | ? |
+| UW-Madison | [Life Sciences Communication](http://lsc.wisc.edu/) | Brossard, Scheufele, Stenhouse | ? | ? |
 | Vanderbilt | Political Science | | ? | ? |
 | Virginia | Political Science | | ? | ? |
 | Yale | Political Science | | ? | ? |
