@@ -30,6 +30,7 @@ This is a work in progress. All information is provided without guarantees or wa
 | Illinois, Urbana-Champaign | Political Science | | ? | ? |
 | LSU | Political Science, Communications | | ? | ? |
 | LSE | [Government](http://www.lse.ac.uk/government) | Hix, Hendry, Hobolt, Hortala-Vallve, Jablonski, Koenig-Archibugi, Leeper | [Yes](http://www.lse.ac.uk/government/research/resgroups/PoliticalBehaviour/Political-Behaviour.aspx) | [Lab](http://www.lse.ac.uk/management/research/behavioural-research-lab/home.aspx) |
+| Mannheim | Political Science | | ? | ? |
 | Michigan | Political Science, Communications | | ? | ? |
 | Minnesota | Political Science, Psychology, Communication | Caraway, Federico, Goren, Lavine, Miller, Myers, Rahn, Samuels, Tims, Wackman | ? | ? |
 | MIT | Political Science | | ? | ? |
