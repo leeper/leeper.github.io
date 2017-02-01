@@ -5,6 +5,8 @@ papers: https://dl.dropboxusercontent.com/u/414906/
 permalink: /research.html
 ---
 
+This page lists some of my research interests, working papers, and past publications. You can also view PDFs of my [full CV](http://leeper.github.io/cv/cv.pdf), or [an abbreviated (2pp) version](http://leeper.github.io/cv/cv-2pp.pdf).
+
 ## Public Opinion Dynamics
 
 While public opinion research has been a staple element of social science inquiry for eighty years, there has been surprisingly little attention to the over-time dynamics of opinion. Instead cross-sectional surveys and one-off experiments constitute the bulk of published studies of opinions. But how to opinions change over time? What individual and contextual factors explain the dynamics of individuals' opinions over time? In this area, I am examining psychological dispositions - especially attitude strength and cognitive style - that shape attitude dynamics as well as considering how survey research practices shape our ability to measure opinions and opinion dynamics.
