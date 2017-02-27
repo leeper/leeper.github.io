@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Doctoral Programs in Political Behavior
+layout: page
+title: A Rough Guide to Doctoral Programs in Political Behavior
 permalink: /political-behavior-programs.html
 ---
-
-# A Rough Guide to Doctoral Programs in Political Behavior
 
 Inspired by [the Conflict Consortium's](http://www.conflictconsortium.com/) [Guide to Conflict, Violence, and Peace programs](http://conflictconsortium.weebly.com/annual-review-of-conflict-peace-and-violence-programs-in-political-science.html), I thought it may be useful to compile some information on academic departments providing supervision, methodological training, and infrastructure sufficient to strongly support doctoral specialization in political behavior. This page attempts to provide that.
 

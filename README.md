@@ -25,7 +25,7 @@ The share button on all of my webpages is created using @carrot's [share-button]
 ---
 ## Jekyll-related things
 
-A lot of the Jekyll-related code that builds and styles my website (and especially the blog elements) is based on @yihui's [website](https://github.com/yihui/yihui.github.com/).
+The website uses the [Moon Jekyll Theme]](https://taylantatli.github.io/Moon) -- [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
 
 ---
 ![CC-BY 4.0](https://i.creativecommons.org/l/by/4.0/80x15.png) Except where noted, this website is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

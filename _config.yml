@@ -1,10 +1,76 @@
-highlighter: rouge
-markdown: kramdown
-permalink: /:year/:month/:title/
-url: http://www.thomasleeper.com
-author: Thomas J. Leeper
-name: Thomas J. Leeper
-description: open science, academia, and politics
+# Site
+title:              Thomas J. Leeper
+author:             Thomas J. Leeper
+name:               Thomas J. Leeper
+bio:                '<a href="http://www.lse.ac.uk/government/whosWho/Academic%20profiles/ThomasLeeper.aspx">Assistant Professor in Political Behaviour</a><br /><a href="http://www.lse.ac.uk/government/">Government Department</a><br /><a href="http://www.lse.ac.uk/">London School of Economics and Political Science</a>'
+description:        'Assistant Professor in Political Behaviour<br />Government Department<br />London School of Economics and Political Science'
+reading_time:       true
+words_per_minute:   200
+logo:               'assets/img/thomas2016.jpg'
+background:         'assets/img/canterbury.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             en_US
+url:                http://www.thomasleeper.com
+
+# Jekyll
+permalink:          /:year/:month/:title/
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+disqus_shortname:   taylantatli
+
+# Social
+email:              thosjleeper@gmail.com
+twitter:            thosjleeper
+github-url:         leeper
+stackoverflow:      2338862/thomas
+linkedin:           thomasjleeper
+orcid:              '0000-0003-4097-6326'
+google-scholar:     'hqiux-MAAAAJ'
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#facebook:          username
+#xing:              username
+#instagram:         username
+#lastfm:            username
+#tumblr:            username
+#medium:            '@username'
+#pinterest:         username
+#foursquare:        username
+#steam:             username
+#dribbble:          username
+#youtube:           username
+#youtube-channel:   channel
+#soundcloud:        username
+#weibo:             username
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+
+# Gems
 gems:
- - jekyll-feed
-exclude: [old]
+#  - jekyll-mentions
+  - jekyll-feed
+#  - jekyll-sitemap
+#  - jekyll-gist
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, LICENSE, Rakefile]

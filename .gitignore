@@ -1,13 +1,8 @@
-# files to ignore #
-.jekyll-metadata
-.sass-cache
-
-# subdirectories to ignore #
 _site/
-old/
-crochet/
+.sass-cache/
+.jekyll-metadata
 
-# latex auxiliary files for cv #
+# latex auxiliary files for cv
 cv/cv*.aux
 cv/cv*.log
 cv/cv*.out

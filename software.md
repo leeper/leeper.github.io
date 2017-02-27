@@ -1,11 +1,9 @@
 ---
-layout: default
-title: Software - Thomas J. Leeper
+layout: page
+title: Software
 description: This page showcaes a few highlights from my software development portfolio.
 permalink: /software.html
 ---
-
-## R Packages
 
 Here are a few of the R packages I've developed on my own, and as part of the [rOpenSci](http://ropensci.org/), [rOpenGov](http://ropengov.github.io/), and [cloudyr](http://cloudyr.github.io) open source projects. [My CV](http://www.thomasleeper.com/cv/cv.pdf) lists all of my software projects and you can find source code for all projects on [GitHub](https://github.com/leeper). The projects below are a few of the more prominent examples.
 

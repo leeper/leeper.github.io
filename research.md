@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Research - Thomas J. Leeper
+layout: page
+title: Research
 papers: https://dl.dropboxusercontent.com/u/414906/
 permalink: /research.html
 ---
