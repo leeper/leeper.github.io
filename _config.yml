@@ -27,9 +27,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   taylantatli
-
 # Social
 email:              thosjleeper@gmail.com
 twitter:            thosjleeper
