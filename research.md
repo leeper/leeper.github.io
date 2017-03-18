@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-papers: https://dl.dropboxusercontent.com/u/414906/
+papers: https://www.dropbox.com/sh/1oodworxpsbrpmj/AAA0yH_kTH0pFGI5ngytwjWBa?dl=0&preview=
 permalink: /research.html
 ---
 
