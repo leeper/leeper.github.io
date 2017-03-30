@@ -17,10 +17,10 @@ This is a work in progress. All information is provided without guarantees or wa
 | University  | Department(s) | Behavior Faculty | Seminar/Workshop | Laboratory |
 | ----------- | ------------- | ---------------- | ---------------- | ---------- |
 | Aarhus | Political Science | Aarøe, Arndt, Bech, Bisgaard, Bøggild, Green-Pedersen, Kevins, Laustsen, Lee, Mortensen, Petersen, Robison, Seeberg, Slothuus, Stubager, Thomsen,  | ? | ? |
-| American | Political Science, Communication | | ? | ? |
-| ASCoR | Communication |  | ? | ? |
-| Columbia | Political Science | | ? | ? |
-| Duke | Political Science | | ? | ? |
+| American | Political Science | Lawless, LeBas, Leighley, Lublin, Moore, Nelson, Suhay, Wright | ? | ? |
+| ASCoR | Communication | http://ascor.uva.nl/about-ascor/faculty/faculty.html | ? | ? |
+| Columbia | Political Science | Erikson, Gelman, Green, Harris, Lax, O'Halloran, Phillips, Shapiro, Margalit | ? | ? |
+| Duke | Political Science | Aldrich, Haynie, Hillygus, Jardina, Johnston, Kitschelt, McCubbins, Siegel, Stegmueller | ? | ? |
 | Essex | [Government](https://www.essex.ac.uk/government/) | Bartle, Duell, Ezrow, Getmansky, Johns, Kern, Whiteley | ? | ? |
 | EUI | Political Science | | ? | ? |
 | George Washington | Political Science, Communication | | ? | ? |
@@ -29,12 +29,12 @@ This is a work in progress. All information is provided without guarantees or wa
 | Harvard | Political Science | | ? | ? |
 | Illinois, Urbana-Champaign | Political Science | | ? | ? |
 | LSU | Political Science, Communications | | ? | ? |
-| LSE | [Government](http://www.lse.ac.uk/government) | Hix, Hendry, Hobolt, Hortala-Vallve, Jablonski, Koenig-Archibugi, Leeper | [Yes](http://www.lse.ac.uk/government/research/resgroups/PoliticalBehaviour/Political-Behaviour.aspx) | [Lab](http://www.lse.ac.uk/management/research/behavioural-research-lab/home.aspx) |
+| LSE | [Government](http://www.lse.ac.uk/government), [Methodology](http://www.lse.ac.uk/methodology), [Psychology/Behavioural Science](http://www.lse.ac.uk/DPBS/Home.aspx), [Media](http://www.lse.ac.uk/media@lse/Home.aspx) | Anstead, Hix, Hendry, Hobolt, Gleibs, Hortala-Vallve, Jablonski, Koenig-Archibugi, Leeper, Sheehy-Skeffington | [Yes](http://www.lse.ac.uk/government/research/resgroups/PoliticalBehaviour/Political-Behaviour.aspx) | [Lab](http://www.lse.ac.uk/management/research/behavioural-research-lab/home.aspx) |
 | Mannheim | Political Science | | ? | ? |
 | Michigan | Political Science, Communications | | ? | ? |
 | Minnesota | Political Science, Psychology, Communication | Caraway, Federico, Goren, Lavine, Miller, Myers, Rahn, Samuels, Tims, Wackman | ? | ? |
 | MIT | Political Science | | ? | ? |
-| Nebraska | Political Science | | ? | ? |
+| Nebraska | Political Science | Barton, Bosch, Haas, Hibbing, Smith, Theiss-Morse | ? | ? |
 | Northwestern | [Political Science](http://www.polisci.northwestern.edu/) | Burch, Druckman, Merseth, Page, Rogers, Seawright, Yong | No | [Lab](http://faculty.wcas.northwestern.edu/~jnd260/lab.html) |
 | NYU | Political Science | | ? | ? |
 | Ohio State | Communication | | ? | ? |
