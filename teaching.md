@@ -10,7 +10,7 @@ Political psychologists study people. We want to know how people think, act, and
 
 *[Click here](cv/TeachingStatement.pdf) to read my full statement of teaching philosophy, or [here](cv/TeachingPortfolio.pdf) to see my teaching portfolio.*
 
-## Term-length Courses Teaching
+## Term-length Courses
 
 **Experimental Politics**
 
