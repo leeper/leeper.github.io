@@ -50,6 +50,9 @@
                     {% if site.google-scholar %}<li>
                         <a href="https://scholar.google.com/citations?user={{ site.google-scholar }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar-square"></i> Google Scholar</a>
                     </li>{% endif %}
+                    {% if site.publons %}<li>
+                        <a href="https://publons.com/author/{{ site.publons }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-publons-square"></i> Publons</a>
+                    </li>{% endif %}
                     {% if site.facebook %}<li>
                         <a href="http://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>
                     </li>{% endif %}
