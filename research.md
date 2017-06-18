@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-papers: https://www.dropbox.com/sh/1oodworxpsbrpmj/AAA0yH_kTH0pFGI5ngytwjWBa?dl=0&preview=
+papers: https://s3.us-east-2.amazonaws.com/tjl-sharing/assets/
 permalink: /research.html
 ---
 
