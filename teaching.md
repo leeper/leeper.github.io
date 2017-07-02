@@ -12,7 +12,7 @@ Political psychologists study people. We want to know how people think, act, and
 
 ## Term-length Courses
 
-**Experimental Politics**
+[**Experimental Politics**](http://www.thomasleeper.com/exppolcourse)
 
  - Last taught: 2017/18
  - Level: Bachelor
