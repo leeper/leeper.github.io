@@ -14,21 +14,24 @@ Political psychologists study people. We want to know how people think, act, and
 
 [**Experimental Politics**](http://www.thomasleeper.com/exppolcourse)
 
- - Last taught: 2017/18
+ - Last taught: [2017/18](http://www.lse.ac.uk/resources/calendar2017-2018/courseGuides/GV/2017_GV319.htm)
  - Level: Bachelor
  - Institution: London School of Economics and Political Science
      
 [**Public Opinion, Political Psychology, and Citizenship**](http://www.thomasleeper.com/opinioncourse)
 
- - Last taught: 2016/17
+ - Last taught: [2016/17](http://www.lse.ac.uk/resources/calendar/courseGuides/GV/2016_GV4J3.htm)
  - Level: Master
  - Institution: London School of Economics and Political Science
 
 [**Research Design in Political Science**](http://www.thomasleeper.com/designcourse)
  
- - Last taught: 2016/17
+ - Last taught: [2016/17](http://www.lse.ac.uk/resources/calendar/courseGuides/GV/2016_GV249.htm)
  - Level: Bachelor
  - Institution: London School of Economics and Political Science
+
+I also teach part of GV5X1 ("Research Design in Political Science") for PhD students in LSE's Government, European Institute, and International Development departments, together with Joachim Wehner and Kai Spiekermann.
+
 
 **Previous Courses**
  
@@ -45,9 +48,10 @@ Political psychologists study people. We want to know how people think, act, and
 ## Workshops and Short Courses
 
  - [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse), PhD/Faculty level, Barcelona Summer School in Survey Methodology (2016-Present)
- - [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse), PhD/Faculty level, Nottingham University (2016)
+ - [Experimental Research in Legislative Studies](http://www.thomasleeper.com/legexpcourse), PhD/Faculty level, ECPR Summer School on Parliaments (2017)
  - [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse), PhD/Faculty level, NTNU, Trondheim, Norway (2017)
  - [Survey Experiments in Practice](http://www.thomasleeper.com/surveyexpcourse), PhD/Faculty level, European University Institute (2017)
+ - [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse), PhD/Faculty level, Nottingham University (2016)
  - [Online Surveys and Survey Experiments](http://thomasleeper.com/websurveycourse/), PhD/Faculty level, European University Institute (2015)
  - [Producing Reproducible Research](http://www.thomasleeper.com/rrcourse), PhD/Faculty level, Aarhus University (2014)
  - [Introduction to R](http://www.thomasleeper.com/Rcourse), PhD/Faculty level, Aarhus University (2013)
