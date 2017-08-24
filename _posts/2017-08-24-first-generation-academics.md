@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Promoting First-Generation University Graduates in Academia"
+description: "If you're a first-generation college grad now seeking an academic job, I want to hear from you. Here's why."
+tags:
+ - job market
+ - academia
+ - political science
+ - inequality
+---
+
+I recently tweeted my intention to promote the research of early-career researchers currently on the academic job market:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">on the academic market, send me a one-sentence summary of your research and a link to your website at t.leeper (at) lse dot ac dot uk.  2/2</p>&mdash; Thomas Leeper (@thosjleeper) <a href="https://twitter.com/thosjleeper/status/900450467662225408">August 23, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Why am I doing this? Genuinely, I was inspired by [Dr. Sen's continuing efforts](https://twitter.com/maya_sen/status/895335421491560448) to promote academic job candidates from underrepresented backgrounds. It's a laudable public service to take one's own time to advance the careers of others. I have benefitted from the assistance of others, and I felt it was a good and straightforward way to pay that forward.
+
+Why promote first-generation college graduates in particular? Why does this group matter? The answers to those questions are a bit multifaceted and is going to start with a bit of autobiography.
+
+I'm a second-generation university graduate. I am a proud holder of a BA from my home state's land-grant institution, the University of Minnesota. My parent both went to "The U", as well. They were first-generation college students but I always knew I was going to go to college; that was never even a question. Yet the idea that university education is the default - that I grew up assuming there was no other path in life - reflects the naivete of educational privilege. Figures from the US Census Bureau suggest that [only about one-third of Americans have a bachelors degree](https://www.census.gov/content/dam/Census/library/publications/2016/demo/p20-578.pdf). Perhaps 40% of Americans have attended college or earned an associates degree, but for the vast majority of Americans college has never been a part of their life. It's always been a part of mine and it is easy to see how that lived experience colors my understandings of academic life.
+
+I have the privilege of having parents that helped me understand college and who encouraged me to pursue a PhD. Yet even with that context, I have always found and continue to find some aspects of academic life immensely confusing. I can't describe them all here; maybe I'll write a separate post about conference fashion at some point. Among these point of confusion ws that when I started my PhD, I genuinely did not understand that it was an educational track that serves mainly as an apprenticeship for a lifelong academic career. I distinctly recall a conversation at my visit weekend at Northwestern when a faculty member said "The job market is looking stronger; we've placed candidates well recently" and I assumed they meant a job market that contained career paths beyond being a university professor. While that is changing, a PhD in social science remains largely a one-track endeavor.
+
+In my continued professionalization, one of the main things that still surprises me is how many academics have parents that are academics. Some [(unfortunately dated) statistics suggest that as sizable portion of the staff at research-intensive American universities have parents with postgraduate degrees](http://www.u.arizona.edu/~jag/POL602/firstGen-profKniffin.pdf). Given that only 12% of the American public has postgraduate education, that's rather startling. Academia and, it seems, academics tend to reproduce themselves.
+
+To me it is obvious that those individuals coming into an academic career without the inter-generational support of university experience face the difficulty both of making sense of the confusing world of academia and trying to gain entry into a profession dominated by people - quite like me - who have basically known no other route. As universities worldwide wrestle with questions of promotion of diversity of background, it's important that economic and social notions of diversity (which might reasonably be expected to shape research question, methods, theorizing, interpretations, and viewpoints) are considered. This should not be at the expense of considering other notions of diversity but rather as one additional aspect of diversity that is often invisible and often easy to forget.
+
+There's also a final reason that I think actually doing something to encourage and promote early-career researchers is important. As participants in "political science Twitter" will surely know, there are individuals with a reputation for [punching down](https://sasconfidential.com/2015/12/02/on-student-shaming/) their own students or others they disagree with on social media. One person, who shall go unnamed, is particularly prone to punch down when matters of academic diversity come up with the retort that working class individuals deserve just as much or more attention than other groups. That's all well and good to think that but unless that argument is followed by some action, it's a meaningless rebuttal. Those of us with even a modicum of social media followership should use our positions for good, not evil.
+
+So, if you are a first-generation college graduate who is now embarking on the task of starting an academic career, I would like to hear from you. I will be promoting the research of early career political scientists on Twitter under the [#poliscimarket hashtag](https://twitter.com/search?f=tweets&vertical=default&q=%23poliscimarket&src=typd). All subfields, methods, schools, ambitions, etc. welcome. If you'd like me to tweet about you, please send a one-sentence summary of your research and a link to your professional website to me at t.leeper (at) lse.ac.uk. No need to be wordy or super formal; don't worry if we've never met or spoken; I promise I won't bite. Tweets will go out the week of September 4th after the APSA meeting in San Francisco.
