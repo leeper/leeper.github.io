@@ -74,6 +74,7 @@ Experimental methods are an increasingly important method for understanding poli
 
 Working papers:
 
+* Alexander Coppock, Thomas J. Leeper, and Kevin J. Mullinix. [&ldquo;The Generalizability of Heterogeneous Treatment Effect Estimates Across Samples&rdquo;]({{ page.papers }}HeterogeneousTreatmentEffects.pdf)
 * Thomas J. Leeper, and Rune Slothuus. [&ldquo;Using the Rolling Reinterview Design to Study Political Campaigns and Electoral Behavior&rdquo;]({{ page.papers }}RollingReinterviewDesign.pdf)
 * Thomas J. Leeper, and Emily Thorson. [&ldquo;Minimial Sponsorship-Induced Bias in Web Survey Data.&rdquo;]({{ page.papers }}SurveySponsorship.pdf)
 
