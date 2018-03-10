@@ -2,7 +2,7 @@
 layout: page
 title: Thomas J. Leeper
 comments: false
-description: Thomas J. Leeper, PhD, is an Associate Professor in Political Behaviour in the Department of Government at the London School of Economics and Political Science. His research focuses substantively on the formation of political attitudes and methodologically on the development of tools for quantitative research, especially in the areas of experimental and survey research.
+description: Thomas J. Leeper, PhD, is a data scientist and R hacker specializing in experimental, survey, and computational methods. His substantive research has focused on how political opinions reflect an interaction between the broader information environment and citizens' individual-level traits, psychology, and behavior.
 permalink: /about.html
 ---
 
