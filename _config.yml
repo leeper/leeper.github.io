@@ -10,7 +10,7 @@ logo:               'assets/img/thomas2016.jpg'
 background:         'assets/img/canterbury.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://www.thomasleeper.com
+url:                https://www.thomasleeper.com
 
 # Jekyll
 permalink:          /:year/:month/:title/
