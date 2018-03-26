@@ -8,7 +8,7 @@
     <meta name="twitter:card" content="{% if page.twittercardtype == nil or page.twittercardtype == "" %}summary{% else %}{{ page.twittercardtype }}{% endif %}" />
     <meta name="twitter:site" content="@thosjleeper" />
     <meta name="twitter:creator" content="@thosjleeper" />
-    <meta property="twitter:image" content="{% if page.twitterimage == nil or page.twitterimage == "" %}http://thomasleeper.com/assets/img/thomas2016.jpg{% else %}{{ page.twitterimage }}{% endif %}" />
+    <meta property="twitter:image" content="{% if page.twitterimage == nil or page.twitterimage == "" %}https://thomasleeper.com/assets/img/thomas2016.jpg{% else %}{{ page.twitterimage }}{% endif %}" />
     <meta property="twitter:image:alt" content="{% if page.twitterimagealt == nil or page.twitterimagealt == "" %}Headshot of Thomas J. Leeper, PhD{% else %}{{ page.twitterimagealt }}{% endif %}" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else if page.title %}{{ page.title }} {% else if page.excerpt %}{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}{% else %} {% endif %}" />
