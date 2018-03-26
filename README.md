@@ -17,6 +17,8 @@ Some things I learned setting up my custom domain redirect (from [thomasleeper.c
 
 This is based on some advice from [this StackOverflow question](http://stackoverflow.com/questions/9082499/custom-domain-for-github-project-pages), which was pretty helpful. It was really frustrating getting this setup but once those settings were in place everything started working almost immediately. Hopefully this is helpful for anyone else experiencing similar problems. 
 
+To get SSL/HTTPS working, I followed the instructions here: https://jenmyers.net/using-https-with-github-pages-and-custom-domains.html, which use CloudFlare and require an account there.
+
 ---
 ## Share button
 
