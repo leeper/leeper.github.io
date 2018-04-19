@@ -37,32 +37,6 @@ orcid:              '0000-0003-4097-6326'
 dataverse:          leeper
 google-scholar:     'hqiux-MAAAAJ'
 publons:            '634082'
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#facebook:          username
-#xing:              username
-#instagram:         username
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:             username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
 
 # Gems
 plugins:
