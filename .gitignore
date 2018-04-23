@@ -1,4 +1,21 @@
-^lectures/.?$
+# teaching folders
+ampolcourse/
+designcourse/
+expcourse/
+exppolcourse/
+lectures/
+legexpcourse/
+opinioncourse/
+polpsycourse/
+rcourse/
+regcourse/
+rrcourse/
+statcompcourse/
+surveycourse/
+surveyexpcourse/
+websurveycourse/
+
+# build output
 _site/
 .sass-cache/
 .jekyll-metadata
