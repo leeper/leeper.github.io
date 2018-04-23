@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html style="font-family: Arial, Helvetica, sans-serif; width: 75%; margin: auto;">
+<html>
 <head>
     {% include head.html %}
 </head>
 <body>
-    <header role="banner">
+    <div>
         <div>
-            <div>
-                <div>
-                    <h1>{{ page.title }}</h1>
-                </div>
-                {{ content }}
-                {% include nav.html %}
-            </div>
+            <h1>{{ page.title }}</h1>
         </div>
-    </header>
+        <div>
+        {{ content }}
+        </div>
+        <div>
+        {% include nav.html %}
+        </div>
+    </div>
 </body>
 </html>
