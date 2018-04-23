@@ -1,14 +1,12 @@
-# Site
+# Site/theme
 title:              Thomas J. Leeper
 author:             Thomas J. Leeper
 name:               Thomas J. Leeper
-bio:                '<a href="http://www.lse.ac.uk/government/whosWho/Academic%20profiles/ThomasLeeper.aspx">Associate Professor in Political Behaviour</a><br /><a href="http://www.lse.ac.uk/government/">Government Department</a><br /><a href="http://www.lse.ac.uk/">London School of Economics and Political Science</a>'
-description:        'Thomas J. Leeper ~ Associate Professor in Political Behaviour, Government Department, London School of Economics and Political Science'
+bio:                'Behavioral scientist and R hacker, affiliated with the London School of Economics'
+description:        'Thomas J. Leeper, PhD ~ Behavioral Scientist and R Hacker'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/thomas2016.jpg'
-background:         'assets/img/canterbury.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://www.thomasleeper.com
 
@@ -22,7 +20,8 @@ kramdown:
   entity_output:    as_char
   toc_levels:       1..6
   enable_coderay:   false
-exclude:           ['lectures/']
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, LICENSE, Rakefile, 'ampolcourse/', 'designcourse/', 'expcourse/', 'exppolcourse/', 'lectures/', 'legexpcourse/', 'opinioncourse/', 'polpsycourse/', 'rcourse/', 'regcourse/', 'rrcourse/', 'statcompcourse/', 'surveycourse/', 'surveyexpcourse/', 'websurveycourse/']
 
 # Social
 email:              thosjleeper@gmail.com
@@ -41,6 +40,3 @@ plugins:
   - jekyll-feed
 #  - jekyll-sitemap
 #  - jekyll-gist
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, LICENSE, Rakefile]
