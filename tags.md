@@ -9,13 +9,16 @@ permalink: /tags.html
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
 
+<div>
 <ul>
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-  	<li><a href="#{{ this_word }}"><span>{{ this_word }}</span></a> <span>[{{ site.tags[this_word].size }}]</span></li>
+    <a href="./tags.html#{{ this_word }}"><span>{{ this_word }}</span></a> [<span>{{ site.tags[this_word].size }}</span>] 
   {% endunless %}{% endfor %}
 </ul>
+</div>
 
+<div>
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
     <h2 id="{{ this_word }}">{{ this_word }}</h2>
@@ -25,3 +28,4 @@ permalink: /tags.html
     {% endif %}{% endfor %}
         </ul>
 {% endunless %}{% endfor %}
+</div>
