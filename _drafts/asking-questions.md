@@ -1,4 +1,14 @@
-# Asking Questions is Hard, So Why Don't We Teach It? #
+---
+layout: post
+title: Asking Questions is Hard, So Why Don't We Teach It?
+tags:
+ - teaching
+ - troubleshooting
+ - questions
+ - stackoverflow
+ - r
+ - learning
+---
 
 
 
@@ -12,3 +22,10 @@ Small questions - it seems that a lot of people don't know how to ask for help. 
 
 
 Relate this back to teaching, reviewing, being a discussant.
+
+
+Asking questions requires humility and willingness to admit ignorance or failure.
+
+Talk about big picture deliberative questions - we attack ideas and people we don't like or misunderstand. But if we ask questions, including asking for clarification or asking ourselves why we might be wrong, we can get clarity.
+
+
