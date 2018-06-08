@@ -25,9 +25,11 @@ The episode highlighted some of the difficulties that lie at the software<>stati
 
 
 
-https://thepoliticalmethodologist.files.wordpress.com/2013/09/tpm_v3_n21.pdf
+ - https://thepoliticalmethodologist.files.wordpress.com/2013/09/tpm_v3_n21.pdf
+ - https://thepoliticalmethodologist.files.wordpress.com/2013/09/tpm_v4_n11.pdf
+ - Social science methods training at a lot ofplaces just involves reading the SPSS manual using super stylized datasets (perhaps even SPSS example datasets) and learning which tests to run in what order. Worst case example of this is the PROCESS module, which its users appear to not understand at all. (h/t Shannon McGregor)
+ - Software is powerful and should be learned. Statistics and math are powerful and should be learned. There's also a huge disconnect between what learning each means and how well each prepares one for the other (e.g., OLS in matrix form us (X'X)^-1(X'Y) veruss a QR decomposition).
 
-https://thepoliticalmethodologist.files.wordpress.com/2013/09/tpm_v4_n11.pdf
 
 
 
