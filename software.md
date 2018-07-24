@@ -13,8 +13,6 @@ A few highlights are as follows:
 
 [**dataverse**](https://CRAN.R-project.org/package=dataverse) provides access to [The Dataverse Network](http://dataverse.org) APIs. *dataverse* is the current generation package, providing access to the complete functionality of current Dataverse installations.
 
-[**ghit: Lightweight GitHub Package Installer**](https://CRAN.R-project.org/package=ghit) is a lightweight, vectorized drop-in replacement for `devtools::install_github()` that uses native git and R methods to clone and install a package from GitHub. It provides a lighter weight alternative to devtools with a very similar API, slightly different defaults, and completely rebuilt internals.
-
 [**MTurkR**](https://CRAN.R-project.org/package=MTurkR) is a client library providing access to the Amazon Mechanical Turk crowdsourcing platform through R. It also has a [Graphical User Interface](https://CRAN.R-project.org/package=MTurkRGUI) and [Wiki](https://github.com/cloudyr/MTurkR/wiki) with advice on using the package and MTurk more generally.
 
 [**prediction**](https://CRAN.R-project.org/package=prediction) and [**margins**](https://CRAN.R-project.org/package=margins) together form an R port of Stata's `margins` command. prediction provides tidy, type-safe predictions from model objects and Stata-style predictive margins. margins can calculate (average) marginal effects and their variances from regression models. The latter is especially helpful for models with power terms, non-linear transformations, and interaction terms, and for generalized linear models.
