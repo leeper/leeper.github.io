@@ -26,7 +26,7 @@ The difference between transparent research and (fully) reproducible research is
 
 What is make? It is a simple, powerful piece of software that defines output files as a [directed, acyclic graph](http://software-carpentry.org/) of dependencies on other files. For example, a PDF depends on a LaTeX source, some figures and tables, and those figures and tables further depend on data.
 
-![DAG](https://rawgit.com/leeper/make-example/master/dependency-graph.svg)
+![DAG](https://raw.githubusercontent.com/leeper/make-example/master/fig-dag-1.svg)
 
 make allows us to define those potentially complex dependencies in the form of a "makefile", which is a file that contains a set of "rules", each of which consists of a "target" (the output node), the set of input nodes (files) that output depends on, along with the commands needed to produce the output node from the input node(s). Here's an example makefile for a simple paper consisting of one figure and one table made from a single dataset:
 
