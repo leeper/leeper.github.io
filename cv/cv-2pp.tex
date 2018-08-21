@@ -1,6 +1,11 @@
 \documentclass[12pt]{article}
-\usepackage{setspace,hyperref,amsmath,amsfonts,multirow,xcolor}
-\usepackage[top=0.5in, bottom=1in, left=1.75in, right=1in, marginparwidth=1.4in]{geometry}
+\usepackage{setspace,hyperref,xcolor}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\lhead{\noindent\LARGE{Thomas J. Leeper}}
+
+\usepackage[top=0.75in, bottom=1in, left=1.75in, right=1in, marginparwidth=1.4in]{geometry}
 \setlength{\parindent}{-1.55ex}
 \usepackage{libertine}
 \renewcommand*\familydefault{\sfdefault}
@@ -10,12 +15,19 @@
 \definecolor{mg}{gray}{0.3} % light-gray definition
 \definecolor{dg}{gray}{0.0} % dark-gray definition
 \color{dg}
+
 \renewcommand{\section}[1]{\pagebreak[3]%
-    \llap{\scshape\smash{\parbox[t]{\marginparwidth}{\raggedright {\color{lg}#1}}}}%
+    \llap{\scshape\smash{\parbox[t]{\marginparwidth}{\raggedright {\color{black}#1}}}}%
     \vspace{-\baselineskip}\par}
+
 \newcommand{\topic}[1]{\pagebreak[3]\indent {\color{lg}{\footnotesize #1 }}\\}
+
 \newcommand{\entry}[1]{\indent {\color{lg}\guillemotright}\hspace{2pt}#1\vspace{.25em}\\}
+
 \newcommand{\subentry}[1]{{\color{lg}-} #1\vspace{.25em}\\}
+
+\newcommand{\hzline}[0]{\noindent\makebox[\linewidth]{\rule{\textwidth}{0.4pt}}}
+
 \hypersetup{
     bookmarks=false,        % show bookmarks bar?
     unicode=false,          % non-Latin characters in Acrobat’s bookmarks
@@ -32,121 +44,83 @@
 }
 
 \begin{document}
-{\LARGE Thomas J. Leeper}\\
-
-\today\\
-
+%\begin{minipage}[b]{0.5\linewidth}
+%\end{minipage}
 \begin{minipage}[b]{0.5\linewidth}
-Department of Government\\
-London School of Economics\\
-Connaught House 3.21\\
-Houghton Street\\
-London WC2A 2AE, UK\\
-\end{minipage}
-\begin{minipage}[b]{0.5\linewidth}
-Voicemail (USA): +1 651 230 7007\\
 Email: \href{mailto:thosjleeper@gmail.com}{thosjleeper@gmail.com}\\
-Web: \href{http://www.thomasleeper.com/}{http://www.thomasleeper.com/}\\
-\end{minipage}
+Web: \href{https://www.thomasleeper.com/}{https://www.thomasleeper.com/}\\
+GitHub: \href{https://github.com/leeper}{https://github.com/leeper}\\
+ORCID: \href{http://orcid.org/0000-0003-4097-6326}{0000-0003-4097-6326}
+\end{minipage}\\
+
+\vspace{-1em}
+\hzline
+
+\section{Summary of Qualifications}
+
+\entry{PhD training plus 5 years academic experience producing quantitative social science research \& teaching quantitative research methods at all levels}
+\entry{Recognized expertise in survey-experimental methods \& computational social science}
+\entry{Prolific developer of R software and ``trusted user'' (>30,000 rep) on StackOverflow}
+\hzline
+
+\section{Relevant Professional Experience}
+\entry{\textbf{Research Scientist}, \textit{Facebook Core Data Science} (2018 -- )}
+\entry{\textbf{Associate Professor}, \textit{London School of Economics} (Aug 2017 -- 2018)}
+\entry{\textbf{Assistant Professor}, \textit{London School of Economics} (Sep 2015 -- Aug 2017)}
+	\subentry{Conducted original quantitative social science research in collaboration with various partners and industry vendors in the United States, United Kingdom, and Denmark}
+	\subentry{Taught courses at undergraduate and postgraduate levels on research design, econometrics, public opinion research, and survey-experimental methods}
+	\subentry{Prepared numerous written articles and presentations for a variety of audiences including academics, journalists, and the general public}
+\entry{\textbf{Postdoc}, \textit{Department of Political Science, Aarhus University} (Jan 2013 -- Aug 2015)}
+	\subentry{Conducted original survey research in the United States and Denmark}
+	\subentry{Presented original research extensively at international professional conferences in the North America and Europe}
+	\subentry{Taught courses at postgraduate level on research design, statistical analysis (regression, panel data, multilevel modelling), experimental design, and survey methodology}
+\entry{\textbf{Graduate Fellow}, \textit{Institute for Policy Research, Northwestern University} (Jan 2009 -- Dec 2012)}
+	\subentry{Managed Northwestern Political Research Laboratory subject pool}
+	\subentry{Conducted original research using innovative survey and laboratory experimental methods to study media exposure and public opinion dynamics}
+\entry{\textbf{Research Assistant}, \textit{National Youth Leadership Council} (Jan -- Aug 2008)}
+	\subentry{Contributed quantitative research support to a team of service-learning researchers}
+\hzline
 
 \section{Education}
-\entry{PhD, Political Science, Northwestern University (2012)}
-%\subentry{Dissertation: {\em Essays on Political Information and the Dynamics of Public Opinion}}
-%\subentry{Chair: Jamie Druckman}
-%\subentry{Committee: Benjamin Page, Dennis Chong, \& Fay Lomax Cook}
-%\subentry{Fields: American Politics (major) and Methodology (minor)}
-%\entry{Summer Institute in Political Psychology, Stanford University (2009)}
-%\subentry{NU Law School Workshops on Causal Inference (2010) and Bayesian Inference (2011)}
-\entry{M.A., Northwestern University (2010)}
-%\subentry{Masters Thesis: ``Revisiting Political Awareness: Has Public Opinion Research Forsaken Federalism?'' Committee: Drs. James N. Druckman (Chair) and Dennis Chong.}
-\entry{B.A. {\em magna cum laude} with Distinction, Political Science \& Global Studies, University of Minnesota---Twin Cities (2007)}
-%\subentry{Political Science Concentration: Political Psychology, Beliefs, \& Behavior}
-%\subentry{Minors: Spanish Studies and Learning Abroad}
-%\subentry{Semester Abroad: Fundación Jose Ortega y Gassett, Toledo, Castilla-La Mancha, Spain (2006)}
-%\subentry{Honors Thesis, magna cum laude: ``Sympathy, Dissonance, and Affect Transfer: The Electoral Implications of Political Death.'' Adviser: Dr. Joanne Miller.}
+\entry{\textbf{PhD and MA, Political Science}, \textit{Northwestern University} (Dec 2012)}
+\entry{\textbf{B.A. {\em magna cum laude}, Political Science}, \textit{University of Minnesota} (Dec 2007)}
+	\subentry{Early election, Phi Beta Kappa (2007); Dean's List (2005--07)}
+\hzline
 
-\section{Academic Appointments}
-\entry{Department of Government, London School of Economics and Political Science}
-	\subentry{Associate Professor in Political Behaviour (2017--Present)}
-	\subentry{Assistant Professor in Political Behaviour (2015--2017)}
-\entry{Department of Political Science, Aarhus University}
-	\subentry{Postdoc (2013--2015)}
-
-%\section{Publications}
-\section{Selected\\Peer-Reviewed\\Publications}
-%\topic{Peer-Reviewed Publications}
-    \entry{Thomas J. Leeper. 2017. ``Am I a Methodologist? Asking for a Friend.'' \textit{PS: Political Science \& Politics}: In press.}
-	\entry{Joshua Robison, Thomas J. Leeper, and James N. Druckman. ``Do Heterogeneous Social Networks Undermine Attitude Strength?'' \textit{Political Psychology}. \href{http://doi.org/10.1111/pops.12374}{doi:10.1111/pops.12374}}
-    \entry{Thomas J. Leeper. 2017. ``How Does Treatment Self-Selection Affect Inferences About Political Communication?'' \textit{Journal of Experimental Political Science} 4(1): 21--33. \href{http://doi.org/10.1017/XPS.2017.1}{doi:10.1017/XPS.2017.1}}
-	\entry{Thomas J. Leeper. 2016. ``Crowdsourced Data Preprocessing with R and Amazon Mechanical Turk.'' \textit{R Journal} 8(1): 276--288. \href{https://journal.r-project.org/archive/2016-1/leeper.pdf}{https://journal.r-project.org/archive/2016-1/leeper.pdf}}
-	\entry{Kevin J. Mullinix, Thomas J. Leeper, James N. Druckman, and Jeremy Freese. 2015. ``The Generalizability of Survey Experiments.'' \textit{Journal of Experimental Political Science} 2(2): 109--138. \href{http://doi.org/10.1017/XPS.2015.19}{doi:10.1017/XPS.2015.19}}
-		%\subentry{Media coverage at \href{https://www.washingtonpost.com/news/monkey-cage/wp/2016/03/09/does-social-science-have-a-replication-crisis/}{The Monkey Cage}}
-	\entry{Thomas J. Leeper. 2014. ``Cognitive Style and the Survey Response.'' \textit{Public Opinion Quarterly} 78(4): 974--983. \href{http://doi.org/10.1093/poq/nfu042}{doi:10.1093/poq/nfu042}}
-	\entry{Thomas J. Leeper. 2014. ``The Informational Basis for Mass Polarization.'' \textit{Public Opinion Quarterly} 78(1): 27--46. \href{http://doi.org/10.1093/poq/nft045}{doi:10.1093/poq/nft045}}
-	\entry{Thomas J. Leeper, and Rune Slothuus. 2014. ``Political Parties, Motivated Reasoning, and Public Opinion Formation.'' \textit{Advances in Political Psychology} 35 (Supplement 1): 129--156. \href{http://doi.org/10.1111/pops.12164}{doi:10.1111/pops.12164}}
-	%\entry{Toby Bolsen, Thomas J. Leeper, and Matthew Shapiro. 2014. ``Doing What Others Do: Norms, Science, and Collective Action on Global Warming.'' \textit{American Politics Research} 42(1): 65--89. \href{http://doi.org/10.1177/1532673X13484173}{doi:10.1177/1532673X13484173}}
-	\entry{Toby Bolsen, and Thomas J. Leeper. 2013. ``Self-Interest and Attention to News among Issue Publics.'' \textit{Political Communication} 30(3): 329--348.\\ \href{http://doi.org/10.1080/10584609.2012.737428}{doi:10.1080/10584609.2012.737428}}
-	\entry{James N. Druckman, and Thomas J. Leeper. 2012. ``Learning More from Political Communication Experiments: Pretreatment and Its Effects.'' \textit{American Journal of Political Science} 56(4): 875--896. \href{http://doi.org/10.1111/j.1540-5907.2012.00582.x}{doi:10.1111/j.1540-5907.2012.00582.x}}
-	\entry{James N. Druckman, and Thomas J. Leeper. 2012. ``Is Public Opinion Stable? Resolving the Micro-Macro Disconnect in Studies of Public Opinion.'' \textit{Daedalus} 141(4): 50--68. \href{http://doi.org/10.1162/DAED\_a\_00173}{doi:10.1162/DAED\_a\_00173}}
-	\entry{James N. Druckman, Jordan Fein, and Thomas J. Leeper. 2012. ``A Source of Bias in Public Opinion Stability.'' \textit{American Political Science Review} 106(2): 430--454.\\ \href{http://doi.org/10.1017/S0003055412000123}{doi:10.1017/S0003055412000123}}
-
-%\topic{Other Publications}
-%\entry{Thomas J. Leeper. ``The Multiple Paths to Credibility.'' {\em The Political Methodologist}: In press.}
-%\entry{James N. Druckman, Thomas J. Leeper, and Kevin J. Mullinix. 2014. ``The Experimental Study of Legislative Behaviors.'' In Thomas Saalfeld, and Kaare Str\o m, eds., {\em The Oxford Handbook of Legislative Studies}, 194--210. Oxford, UK: Oxford University Press.}
-%\entry{Thomas J. Leeper. 2014. ``Making High-Resolution Graphics for Academic Publishing.'' {\em The Political Methodologist} 21(1): 2--5.}
-%\entry{Thomas J. Leeper. 2013. ``Crowdsourcing with R and the MTurk API.'' {\em The Political Methodologist} 2(2): 2--7.}
-%\entry{Thomas J. Leeper. 2011. ``The Role of Protocol in the Design and Reporting of Experiments.'' {\em The Experimental Political Scientist} 2(1): 6-10.}%
-%\entry{Marybeth Neal, Thomas J. Leeper, and Susan Root. 2009. ``Attributes of Quality Service-Learning: Findings from the Transitioning to Adulthood Survey.'' In James C. Kielsmeier, Susan Root, Bjorn Lyngstad, and Caryn Pernu, eds., {\em Growing to Greatness 2009}. St. Paul: NYLC.}
+\section{Skills}
+\entry{Software: R, Stata, LaTeX, MS Office; familiarity with SQL, Python, SPSS, SAS}
+	\subentry{Developer of more than 30 R packages}
+\entry{Languages: English (native), Spanish (intermediate), Danish (beginner)}
+\hzline
 
 \clearpage
 
-\section{Grants\\and\\Funding}
-\entry{ESRC Research Grant (ES/R000573/1) (2017), \textsterling120,025, with Sara Hobolt and James Tilley}
-\entry{LSE STICERD Small Grant, \textsterling 4,920 (2017), with Sara Hobolt}
-\entry{LSE Research Infrastructure and Investment Fund, \textsterling 11,611 (approx. \$17,000, 2016)}
-\entry{Named project member on Danish Council for Independent Research Sapere Aude grant to Rune Slothuus, total award 7,050,249 DKK (approx. \textsterling 690,000) (2014)}
-\entry{Time-Sharing Experiments for the Social Sciences, approx. \$12,000 (2013)}
-\entry{National Science Foundation Doctoral Dissertation Improvement Grant, \$12,000 (2012)}
-\entry{Northwestern Career Development Grant for Social Scientists, \$400 (2012)}
-\entry{Northwestern University TGS Conference Travel Grant, \$500 (2012)}
-\entry{APSA Annual Meeting Travel Grant, \$200 (2011)}
-\entry{Northwestern University TGS Conference Travel Grant, \$700 (2011)}
-\entry{Weinberg College of Arts and Sciences Humanities and Social Sciences Technology-Enhanced Doctoral Research Award, \$600 (2011)}
-\entry{Northwestern University Graduate Research Grant, \$3,000 (2011)}
-\entry{Northwestern University MacArthur Fund grant, \$2,000 (2009)}
-%\entry{Northwestern University Fellowship, \$20,000 (2008-2009, 2012-2013)}
-%\entry{Bush Foundation Study Abroad Scholarship, University of Minnesota, \$750 (2006)}
-%\entry{Hearst Foundation United States Senate Youth Program Scholarship, \$5,000 (2005)}
+\hzline
 
-\section{Honors\\and\\Awards}
-\entry{Best Paper Award from APSA Elections, Public OpInion, and Voting Behavior Section, with Rune Slothuus (2017)}
-\entry{LSE Promotions Committee Teaching Prize (2017)}
-\entry{Best Paper Award from APSA Experimental Research Section, with Kevin J. Mullinix (2015)}
-\entry{APSA Political Psychology Section Distinguished Junior Scholars Award (2014)}
-\entry{Best Paper Award from APSA Elections, Public Opinion, and Voting Behavior Section (2012)}
-\entry{Timothy Cook Best Graduate Student Paper Award from APSA Political Communication Section (2012)}
-\entry{Honorable Mention, National Science Foundation Graduate Research Fellowship (2009)}
-%\entry{Early election, Phi Beta Kappa, University of Minnesota (2007)}
-%\entry{College of Liberal Arts Undergraduate Honors Program, University of Minnesota (2006-2007)}
-%\entry{College of Liberal Arts Dean's List, University of Minnesota (2005-2007)}
-%\entry{Minnesota Delegate, United States Senate Youth Program (2005)}
+\section{Selected\\Peer-Reviewed\\Publications}
 
-%\section{Software Development}
-%\entry{Principal or contributing developer for R packages: \href{https://github.com/leeper/arco}{arco}, \href{https://cran.r-project.org/package=colourlovers}{colourlovers}, \href{https://github.com/hrbrmstr/dtupdate}{dtupdate}, \href{https://cran.r-project.org/package=dvn}{dvn}, \href{https://github.com/rOpenGov/federalregister}{federalregister}, \href{https://github.com/leeper/ghit}{ghit}, \href{https://cran.r-project.org/package=imguR}{imguR}, \href{https://github.com/leeper/margins}{margins}, \href{https://github.com/leeper/meme}{meme}, \href{https://github.com/leeper/microworkers}{microworkers}, \href{https://github.com/rOpenGov/mpg}{mpg}, \href{https://cran.r-project.org/package=MTurkR}{MTurkR}, \href{https://github.com/ropenhealth/openfda}{openfda}, \href{https://cran.r-project.org/package=pollstR}{pollstR}, \href{https://github.com/rOpenGov/recalls}{recalls}, \href{https://cran.r-project.org/package=rio}{rio}, \href{https://cran.r-project.org/package=rite}{CRAN}, \href{https://cran.r-project.org/package=Rmonkey}{Rmonkey}, \href{https://github.com/rOpenGov/RPublica}{RPublica}, \href{https://github.com/leeper/rscribd}{rscribd}, \href{https://cran.r-project.org/package=rsunlight}{rsunlight}, \href{https://github.com/leeper/slopegraph}{slopegraph}, \href{https://cran.r-project.org/package=sparktex}{sparktex}, \href{https://cran.r-project.org/package=UNF}{UNF}, \href{https://github.com/rOpenGov/usbroadband}{usbroadband}, \href{https://cran.r-project.org/package=webuse}{webuse}, and various packages contributed to the cloudyr project.}
+	\entry{Thomas J. Leeper, and Joshua Robison. ``More Important, but for What Exactly? The Insignificant Role of Subjective Issue Importance in Vote Decisions.'' \textit{Political Behavior}: In press.}
+	\entry{Thomas J. Leeper. 2018. ``Am I a Methodologist? Asking for a Friend.'' \textit{PS: Political Science \& Politics} 51(3): 602--606.\\ \href{https://doi.org/10.1017/S1049096518000549}{doi:10.1017/S1049096518000549}}
+	%\entry{Joshua Robison, Thomas J. Leeper, and James N. Druckman. 2018. ``Do Heterogeneous Social Networks Undermine Attitude Strength?'' \textit{Political Psychology} 39(2): 479--94.\\ \href{http://doi.org/10.1111/pops.12374}{doi:10.1111/pops.12374}}
+    \entry{Thomas J. Leeper. 2017. ``How Does Treatment Self-Selection Affect Inferences About Political Communication?'' \textit{Journal of Experimental Political Science} 4(1): 21--33.\\ \href{http://doi.org/10.1017/XPS.2017.1}{doi:10.1017/XPS.2017.1}}	
+	%\entry{Thomas J. Leeper. ``Crowdsourced Data Preprocessing with R and Amazon Mechanical Turk.'' \textit{R Journal} 8(1): 276--288. \href{https://journal.r-project.org/archive/2016-1/leeper.pdf}{https://journal.r-project.org/archive/2016-1/leeper.pdf}}
+	\entry{Kevin J. Mullinix, Thomas J. Leeper, James N. Druckman, and Jeremy Freese. 2015. ``The Generalizability of Survey Experiments.'' {\em Journal of Experimental Political Science} 2(2): 109--138.}
+	\entry{Thomas J. Leeper. 2014. ``Cognitive Style and the Survey Response.'' {\em Public Opinion Quarterly} 78(4): 974--983.}
+	%\entry{Thomas J. Leeper. 2014. ``Archiving Reproducible Research with R and Dataverse.'' {\em The R Journal} 6(1): 151--158. \href{http://journal.r-project.org/archive/2014-1/leeper.pdf}{http://journal.r-project.org/archive/2014-1/leeper.pdf}.}
+	\entry{Thomas J. Leeper. 2014. ``The Informational Basis for Mass Polarization.'' {\em Public Opinion Quarterly} 78(1): 27--46.}
+	%\entry{Thomas J. Leeper, and Rune Slothuus. 2014. ``Political Parties, Motivated Reasoning, and Public Opinion Formation.'' {\em Advances in Political Psychology} 35 (Supplement 1): 129--156. \href{http://dx.doi.org/10.1111/pops.12164}{doi:10.1111/pops.12164}}
+	%\entry{Toby Bolsen, Thomas J. Leeper, and Matthew Shapiro. 2014. ``Doing What Others Do: Norms, Science, and Collective Action on Global Warming.'' {\em American Politics Research} 42(1): 65--89. \href{http://dx.doi.org/10.1177/1532673X13484173}{doi:10.1177/1532673X13484173}}
+	%\entry{Toby Bolsen, and Thomas J. Leeper. 2013. ``Self-Interest and Attention to News among Issue Publics.'' {\em Political Communication} 30(3): 329--348.\\ \href{http://dx.doi.org/10.1080/10584609.2012.737428}{doi:10.1080/10584609.2012.737428}}
+	\entry{James N. Druckman, and Thomas J. Leeper. 2012. ``Learning More from Political Communication Experiments: Pretreatment and Its Effects.'' {\em American Journal of Political Science} 56(4): 875--896.}
+	%\entry{James N. Druckman, and Thomas J. Leeper. 2012. ``Is Public Opinion Stable? Resolving the Micro-Macro Disconnect in Studies of Public Opinion.'' {\em Daedalus} 141(4): 50--68. \href{http://dx.doi.org/10.1162/DAED\_a\_00173}{doi:10.1162/DAED\_a\_00173}}
+	\entry{James N. Druckman, Jordan Fein, and Thomas J. Leeper. 2012. ``A Source of Bias in Public Opinion Stability.'' {\em American Political Science Review} 106(2): 430--454.}
+\hzline
 
-
-\section{Service}
-\topic{Editing}
-	\entry{Editorial Board, \href{http://www.tandfonline.com/toc/upcp20/current}{\textit{Political Communication}} (2017--2020)}
-    \entry{Editorial Board, \href{http://joss.theoj.org/}{\textit{Journal of Open Source Software}} (2017--)}
-    \entry{Editorial Board, \href{http://link.springer.com/journal/11109}{\textit{Political Behavior}} (2016--2019)}
-	\entry{Editorial Board, \href{http://riojournal.com/}{\textit{Research Ideas and Outcomes}} (2015--)}
-	\entry{Associate PI, Time-Sharing Experiments for the Social Sciences (2013--)}
-
-\topic{Peer Review Activity}
-	\entry{Journal Reviewer (see \href{https://publons.com/a/634082/}{Publons Profile}):\\\textit{American Journal of Political Science}, \textit{American Political Science Review}, \textit{American Politics Research}, \textit{British Journal of Political Science}, \textit{Comparative Political Studies}, \textit{DATABASE: The Journal of Biological Databases and Curation}, \textit{European Union Politics}, \textit{Field Methods}, \textit{Future Internet}, \textit{International Journal of Public Opinion Research}, \textit{Irish Political Studies}, \textit{Japanese Journal of Political Science}, \textit{Journal of Communication}, \textit{Journal of Elections, Public Opinion, and Parties}, \textit{Journal of Ethnic and Migration Studies}, \textit{Journal of Experimental Political Science}, \textit{Journal of Politics}, \textit{Journal of Public Policy}, \textit{Journal of Women, Politics \& Policy}, \textit{Journalism \& Mass Communication Quarterly}, \textit{Nature Climate Change}, \textit{PLoS One}, \textit{Political Analysis}, \textit{Political Behavior}, \textit{Political Communication}, \textit{Political Psychology}, \textit{Political Research Quarterly}, \textit{Political Science Research and Methods}, \textit{Politics, Groups, and Identities}, \textit{PS: Political Science \& Politics}, \textit{Public Administration}, \textit{Public Opinion Quarterly}, \textit{Quarterly Journal of Political Science}, \textit{Research \& Politics}, \textit{R Journal}, \textit{SAGE Open}, \textit{Scandinavian Political Studies}, \textit{Science}, \textit{Social Science Computer Review}}
-	\entry{Funding Reviewer: Israeli Science Foundation, Netherlands Organisation for Scientific Research, U.K. Economic and Social Research Council, U.S. National Science Foundation}
-	\entry{Book Reviewer: Cambridge University Press, MIT Press, Princeton University Press, Routledge Press, SAGE Publications}
-	\entry{Other Peer Review Activity:\\ AAPOR Annual Conference, Center for Experimental Social Science at Nuffield College--Oxford, rOpenSci R Package Onboarding, TESS: Time-Sharing Experiments for the Social Sciences}
+\section{Other Relevant Experience}
+\entry{Editorial experience: Editorial board member, \textit{Political Behavior}, \textit{Political Communication}, \textit{Journal of Open Source Software}; Associate-PI, Time-Sharing Experiments in the Social Sciences; Peer reviewer for over 30 academic journals}
+\entry{Professional awards: APSA Elections, Public Opinion, and Voting Behavior Section (2015); APSA Experimental Research Section (2015); APSA Political Psychology Section (2014); APSA Elections, Public Opinion, and Voting Behavior Section (2012); APSA Political Communication Section (2012); Honorable Mention, National Science Foundation Graduate Research Fellowship (2009)}
+\entry{Recent Presentations: 2018: Durham University, University of Oxford, University of Washington; 2017: University of Konstanz, University of Vienna, ETH Zurich, NTNU Norway, European University Institute Florence; 2016: University of Essex, University of National Research University Higher School of Economics, The Ohio State University, Universitat Pompeu Fabra, Institute for Advanced Study-Toulouse; 2015: Nuffield College--Oxford, Louisiana State University, McGill University, University of Copenhagen, 2013: University of Southern Denmark; 2012: University of Chicago}
+\entry{Grant Funding: Secured institutional, national, and international research funding from LSE, Northwestern University, the Danish Council for Independent Research, US National Science Foundation, and UK Economic and Social Research Council}
+\hzline
 
 \end{document}
