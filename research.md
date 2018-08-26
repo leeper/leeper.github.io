@@ -11,6 +11,7 @@ This page lists some of my academic research interests, working papers, and past
 
 Working papers:
 
+* [&ldquo;Divided By The Vote: Affective Polarization in the Wake of Brexit&rdquo;]({{ page.papers }}DividedByTheVote.pdf) (with Sara B. Hobolt and James Tilley)
 * [&ldquo;The Role of Media Choice and Media Effects in Political Knowledge Gaps&rdquo;]({{ page.papers }}KnowledgeGaps.pdf)
 * [&ldquo;Can Citizens Be Framed? How Information, Not Emphasis, Changes Opinions&rdquo;]({{ page.papers }}CanCitizensBeFramed.pdf) (with Rune Slothuus)
 * [&ldquo;Are Strong Opinions More Stable?&rdquo;]({{ page.papers }}AreStrongOpinionsMoreStable.pdf)
@@ -21,7 +22,7 @@ Working papers:
 
 Selected publications:
 
-* Thomas J. Leeper, and Joshua Robison. N.d. &ldquo;More Important, but for What Exactly? The Insignificant Role of Subjective Issue Importance in Vote Decisions.&rdquo; *Political Behavior*: In press.
+* Thomas J. Leeper, and Joshua Robison. N.d. &ldquo;More Important, but for What Exactly? The Insignificant Role of Subjective Issue Importance in Vote Decisions.&rdquo; *Political Behavior*: In press. [Preprint]({{ page.papers }}PoliticalBehavior2018.pdf)
 * Thomas J. Leeper, and Rune Slothuus. N.d. &ldquo;Deliberation and Framing.&rdquo; In Andre Bächtiger, John Dryzek, Jane Mansbridge, and Mark Warren, eds., *Oxford Handbook of Deliberative Democracy*: In press. [Preprint]({{ page.papers }}DeliberationAndFraming.pdf)
 * Joshua Robison, Thomas J. Leeper, and James N. Druckman. [&ldquo;Do Disagreeable Political Discussion Networks Undermine Attitude Strength?&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/pops.12374/abstract) *Political Psychology* 39(2): 479-494. [Preprint]({{ page.papers }}HeterogeneousNetworks.pdf), [Reproduction Files](http://dx.doi.org/10.7910/DVN/DVWPVB)
 * Thomas J. Leeper. 2017. [&ldquo;How Does Treatment Self-Selection Affect Inferences About Political Communication?&rdquo;](https://doi.org/10.1017/XPS.2017.1) *Journal of Experimental Political Science*: In press. [Preprint]({{ page.papers }}PoliticalCommunicationSelfSelection.pdf), [Reproduction Files](http://hdl.handle.net/1902.1/17865)
