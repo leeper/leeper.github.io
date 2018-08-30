@@ -5,7 +5,7 @@ papers: https://s3.us-east-2.amazonaws.com/tjl-sharing/assets/
 permalink: /research.html
 ---
 
-This page lists some of my academic research interests, working papers, and past publications. You can also view PDFs of my [full CV](https://thomasleeper.com/cv/cv.pdf), or [an abbreviated (2pp) version](https://thomasleeper.com/cv/cv-2pp.pdf). My software projects are described at [https://thomasleeper.com/software/](https://thomasleeper.com/software/).
+This page lists some of my academic research interests, working papers, and past publications. You can also view PDFs of my [full academic CV](https://thomasleeper.com/cv/cv.pdf), or [a two-page version](https://thomasleeper.com/cv/cv-2pp.pdf). My software projects are described at [https://thomasleeper.com/software/](https://thomasleeper.com/software/).
 
 ## Public Opinion, Political Communication, and Political Psychology
 
