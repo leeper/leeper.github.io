@@ -18,7 +18,6 @@ Working papers:
 * [&ldquo;The Information Environment and Consistency in Citizens' Policy Opinions&rdquo;]({{ page.papers }}OpinionConsistency.pdf) (with Rune Slothuus)
 * [&ldquo;Interest Groups and Political Attitudes&rdquo;]({{ page.papers }}InterestGroupsAndPoliticalAttitudes.pdf)
 * [&ldquo;Politics and Media Coverage Shape the Issue Content of the Polling Agenda&rdquo;]({{ page.papers }}PollingAgenda.pdf)
-* [&ldquo;Causal Effects Under Self-Selection&rdquo;]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
 
 Selected publications:
 
@@ -41,13 +40,15 @@ Selected publications:
 
 Working papers:
 
-* Alexander Coppock, Thomas J. Leeper, and Kevin J. Mullinix. [&ldquo;The Generalizability of Heterogeneous Treatment Effect Estimates Across Samples&rdquo;]({{ page.papers }}HeterogeneousTreatmentEffects.pdf)
 * Leeper, Thomas J. [&ldquo;Interpreting Regression Results using Average Marginal Effects with R's margins&rdquo;]({{ page.papers }}AverageMarginalEffects.pdf)
 * Thomas J. Leeper, and Rune Slothuus. [&ldquo;Using the Rolling Reinterview Design to Study Political Campaigns and Electoral Behavior&rdquo;]({{ page.papers }}RollingReinterviewDesign.pdf)
-* Thomas J. Leeper, and Emily Thorson. [&ldquo;Minimial Sponsorship-Induced Bias in Web Survey Data.&rdquo;]({{ page.papers }}SurveySponsorship.pdf)
+* [&ldquo;Causal Effects Under Self-Selection&rdquo;]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
 
 Selected publications:
 
+* Thomas J. Leeper, and Emily Thorson. &ldquo;Should We Worry About Sponsorship-Induced Bias in Online Political Science Surveys?&rdquo; *Journal of Experimental Political Science*: In press. [Preprint]({{ page.papers }}SurveySponsorship.pdf)
+* Thomas J. Leeper. &ldquo;Where Have All the Respondents Gone? Perhaps We Ate Them All.&rdquo; *Public Opinion Quarterly*: In press.
+* Alexander Coppock, Thomas J. Leeper, and Kevin J. Mullinix. [&ldquo;Generalizability of Heterogeneous Treatment Effect Estimates Across Samples&rdquo;]({https://doi.org/10.1073/pnas.1808083115). *Proceedings of the National Academy of Sciences*: In press. [Preprint]({{ page.papers }}HeterogeneousTreatmentEffects.pdf)
 * Kevin J. Mullinix, Thomas J. Leeper, James N. Druckman, and Jeremy Freese. 2015. &ldquo;[The Generalizability of Survey Experiments.](http://doi.org/10.1017/XPS.2015.19)&rdquo; *Journal of Experimental Political Science* 2(2): 109-138. [Preprint]({{ page.papers }}GeneralizabilitySurveyExperiments.pdf), [Reproduction Files](http://doi.org/10.7910/DVN/MUJHGR)
 * Thomas J. Leeper. 2016. [&ldquo;Crowdsourced Data Preprocessing with R and Amazon Mechanical Turk.&rdquo;]({{ page.papers }}MTurkRCrowdsourcing.pdf) *The R Journal* 8(1): 276-88. [Reproduction Files](https://github.com/leeper/mturkr-article/tree/master/article)
 * Thomas J. Leeper. [&ldquo;The Multiple Paths To Credibility.&rdquo;](https://thepoliticalmethodologist.files.wordpress.com/2016/02/tpm_v23_n1.pdf) *The Political Methodologist* 23(1): 11&ndash;16. [Blog post](https://thepoliticalmethodologist.com/2015/12/21/the-multiple-routes-to-credibility/)
