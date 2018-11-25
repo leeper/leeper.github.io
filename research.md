@@ -22,7 +22,8 @@ Working papers:
 Selected publications:
 
 * Thomas J. Leeper, and Joshua Robison. N.d. [&ldquo;More Important, but for What Exactly? The Insignificant Role of Subjective Issue Importance in Vote Decisions.&rdquo;](https://doi.org/10.1007/s11109-018-9494-0) *Political Behavior*: In press. [Preprint]({{ page.papers }}PoliticalBehavior2018.pdf), [Reproduction Files](https://doi.org/10.7910/DVN/L4XKEZ)
-* Thomas J. Leeper, and Rune Slothuus. N.d. &ldquo;Deliberation and Framing.&rdquo; In Andre Bächtiger, John Dryzek, Jane Mansbridge, and Mark Warren, eds., *Oxford Handbook of Deliberative Democracy*: In press. [Preprint]({{ page.papers }}DeliberationAndFraming.pdf)
+* Thomas J. Leeper, and Rune Slothuus. N.d. &ldquo;Deliberation and Framing.&rdquo; In Andre Bachtiger, John Dryzek, Jane Mansbridge, and Mark Warren, eds., [*Oxford Handbook of Deliberative Democracy*](https://global.oup.com/academic/product/the-oxford-handbook-of-deliberative-democracy-9780198747369). Oxford: Oxford University Press. [Preprint]({{ page.papers }}DeliberationAndFraming.pdf)
+* Thomas J. Leeper, and Rune Slothuus. &ldquo;How the News Media Persuade: Framing Effects and Beyond.&rdquo; In Liz Suhay, Bernard Grofman, and Alex Treschel, eds., *Oxford Handbook of Electoral Persuasion*: In Press. [Preprint]({{ page.papers }}HowTheNewsMediaPersuade.pdf)
 * Joshua Robison, Thomas J. Leeper, and James N. Druckman. [&ldquo;Do Disagreeable Political Discussion Networks Undermine Attitude Strength?&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/pops.12374/abstract) *Political Psychology* 39(2): 479-494. [Preprint]({{ page.papers }}HeterogeneousNetworks.pdf), [Reproduction Files](http://doi.org/10.7910/DVN/DVWPVB)
 * Thomas J. Leeper. 2017. [&ldquo;How Does Treatment Self-Selection Affect Inferences About Political Communication?&rdquo;](https://doi.org/10.1017/XPS.2017.1) *Journal of Experimental Political Science*: In press. [Preprint]({{ page.papers }}PoliticalCommunicationSelfSelection.pdf), [Reproduction Files](http://hdl.handle.net/1902.1/17865)
 * Thomas J. Leeper, and Rune Slothuus. 2014 [&ldquo;Political Parties, Motivated Reasoning, and Public Opinion Formation.&rdquo;](http://onlinelibrary.wiley.com/doi/10.1111/pops.12164/abstract) *Advances in Political Psychology* 35(S1): 129--156. [Preprint]({{ page.papers }}AdvancesInPoliticalPsychology2014.pdf)
@@ -43,11 +44,14 @@ Working papers:
 * Leeper, Thomas J. [&ldquo;Interpreting Regression Results using Average Marginal Effects with R's margins&rdquo;]({{ page.papers }}AverageMarginalEffects.pdf)
 * Thomas J. Leeper, and Rune Slothuus. [&ldquo;Using the Rolling Reinterview Design to Study Political Campaigns and Electoral Behavior&rdquo;]({{ page.papers }}RollingReinterviewDesign.pdf)
 * [&ldquo;Causal Effects Under Self-Selection&rdquo;]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
+* [&ldquo;Measuring Subgroup Preferences in Conjoint Experiments&rdquo;]({{ page.papers }}MeasuringSubgroupPreferences.pdf) (with Sara B. Hobolt and James Tilley)
 
 Selected publications:
 
-* Thomas J. Leeper, and Emily Thorson. &ldquo;Should We Worry About Sponsorship-Induced Bias in Online Political Science Surveys?&rdquo; *Journal of Experimental Political Science*: In press. [Preprint]({{ page.papers }}SurveySponsorship.pdf)
-* Thomas J. Leeper. &ldquo;Where Have All the Respondents Gone? Perhaps We Ate Them All.&rdquo; *Public Opinion Quarterly*: In press.
+* Thomas J. Leeper, and Emily Thorson. &ldquo;Should We Worry About Sponsorship-Induced Bias in Online Political Science Surveys?&rdquo; *Journal of Experimental Political Science*: In press. [Preprint]({{ page.papers }}JournalOfExperimentalPoliticalScience2018.pdf), [Reproduction Files](https://doi.org/10.7910/DVN/KKFS8Y)
+* ThomasJ.Leeper. &ldquo;The Search for Real-World Media Efects.&rdquo; In Zoe Oxley and David Redlawsk, eds., *Oxford Encyclopedia of Political Decision Making*: In press. [Preprint]({{ page.papers }}SearchForRealWorldMediaEffects.pdf)
+* Thomas J. Leeper. &ldquo;Online Experimental Methods.&rdquo; In Liz Suhay, Bernard Grofman, and Alex Treschel, eds., *Oxford Handbook of Electoral Persuasion*: In press. [Preprint]({{ page.papers }}OnlineExperimentalMethods.pdf)
+* Thomas J. Leeper. &ldquo;Where Have All the Respondents Gone? Perhaps We Ate Them All.&rdquo; *Public Opinion Quarterly*: In press. [Preprint]({{ page.papers }}PublicOpinionQuarterly2018.pdf)
 * Alexander Coppock, Thomas J. Leeper, and Kevin J. Mullinix. [&ldquo;Generalizability of Heterogeneous Treatment Effect Estimates Across Samples&rdquo;]({https://doi.org/10.1073/pnas.1808083115). *Proceedings of the National Academy of Sciences*: In press. [Preprint]({{ page.papers }}HeterogeneousTreatmentEffects.pdf)
 * Kevin J. Mullinix, Thomas J. Leeper, James N. Druckman, and Jeremy Freese. 2015. &ldquo;[The Generalizability of Survey Experiments.](http://doi.org/10.1017/XPS.2015.19)&rdquo; *Journal of Experimental Political Science* 2(2): 109-138. [Preprint]({{ page.papers }}GeneralizabilitySurveyExperiments.pdf), [Reproduction Files](http://doi.org/10.7910/DVN/MUJHGR)
 * Thomas J. Leeper. 2016. [&ldquo;Crowdsourced Data Preprocessing with R and Amazon Mechanical Turk.&rdquo;]({{ page.papers }}MTurkRCrowdsourcing.pdf) *The R Journal* 8(1): 276-88. [Reproduction Files](https://github.com/leeper/mturkr-article/tree/master/article)
