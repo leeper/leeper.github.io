@@ -41,8 +41,8 @@ Selected publications:
 
 Working papers:
 
-* Leeper, Thomas J. [&ldquo;Interpreting Regression Results using Average Marginal Effects with R's margins&rdquo;]({{ page.papers }}AverageMarginalEffects.pdf)
-* Thomas J. Leeper, and Rune Slothuus. [&ldquo;Using the Rolling Reinterview Design to Study Political Campaigns and Electoral Behavior&rdquo;]({{ page.papers }}RollingReinterviewDesign.pdf)
+* [&ldquo;Interpreting Regression Results using Average Marginal Effects with R's margins&rdquo;]({{ page.papers }}AverageMarginalEffects.pdf)
+* [&ldquo;Using the Rolling Reinterview Design to Study Political Campaigns and Electoral Behavior&rdquo;]({{ page.papers }}RollingReinterviewDesign.pdf) (with Rune Slothuus)
 * [&ldquo;Causal Effects Under Self-Selection&rdquo;]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
 * [&ldquo;Measuring Subgroup Preferences in Conjoint Experiments&rdquo;]({{ page.papers }}MeasuringSubgroupPreferences.pdf) (with Sara B. Hobolt and James Tilley)
 
