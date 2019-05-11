@@ -44,12 +44,12 @@ Working papers:
 * [&ldquo;Interpreting Regression Results using Average Marginal Effects with R's margins&rdquo;]({{ page.papers }}AverageMarginalEffects.pdf)
 * [&ldquo;Using the Rolling Reinterview Design to Study Political Campaigns and Electoral Behavior&rdquo;]({{ page.papers }}RollingReinterviewDesign.pdf) (with Rune Slothuus)
 * [&ldquo;Causal Effects Under Self-Selection&rdquo;]({{ page.papers }}CausalEffectsUnderSelfSelection.pdf)
-* [&ldquo;Measuring Subgroup Preferences in Conjoint Experiments&rdquo;]({{ page.papers }}MeasuringSubgroupPreferences.pdf) (with Sara B. Hobolt and James Tilley)
 
 Selected publications:
 
+* Thomas J. Leeper, Sara B. Hobolt and James Tilley. &ldquo;Measuring Subgroup Preferences in Conjoint Experiments&rdquo; *Political Analysis*: In press. [Preprint]({{ page.papers }}MeasuringSubgroupPreferences.pdf)
 * Thomas J. Leeper, and Emily Thorson. &ldquo;Should We Worry About Sponsorship-Induced Bias in Online Political Science Surveys?&rdquo; *Journal of Experimental Political Science*: In press. [Preprint]({{ page.papers }}JournalOfExperimentalPoliticalScience2018.pdf), [Reproduction Files](https://doi.org/10.7910/DVN/KKFS8Y)
-* ThomasJ.Leeper. &ldquo;The Search for Real-World Media Efects.&rdquo; In Zoe Oxley and David Redlawsk, eds., *Oxford Encyclopedia of Political Decision Making*: In press. [Preprint]({{ page.papers }}SearchForRealWorldMediaEffects.pdf)
+* Thomas J. Leeper. &ldquo;The Search for Real-World Media Efects.&rdquo; In Zoe Oxley and David Redlawsk, eds., *Oxford Encyclopedia of Political Decision Making*: In press. [Preprint]({{ page.papers }}SearchForRealWorldMediaEffects.pdf)
 * Thomas J. Leeper. &ldquo;Online Experimental Methods.&rdquo; In Liz Suhay, Bernard Grofman, and Alex Treschel, eds., *Oxford Handbook of Electoral Persuasion*: In press. [Preprint]({{ page.papers }}OnlineExperimentalMethods.pdf)
 * Thomas J. Leeper. &ldquo;Where Have All the Respondents Gone? Perhaps We Ate Them All.&rdquo; *Public Opinion Quarterly*: In press. [Preprint]({{ page.papers }}PublicOpinionQuarterly2018.pdf)
 * Alexander Coppock, Thomas J. Leeper, and Kevin J. Mullinix. [&ldquo;Generalizability of Heterogeneous Treatment Effect Estimates Across Samples&rdquo;]({https://doi.org/10.1073/pnas.1808083115). *Proceedings of the National Academy of Sciences*: In press. [Preprint]({{ page.papers }}HeterogeneousTreatmentEffects.pdf)
