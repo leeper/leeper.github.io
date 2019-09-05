@@ -15,6 +15,14 @@ surveycourse/
 surveyexpcourse/
 websurveycourse/
 
+# software folders
+cregg/
+csvy/
+margins/
+pdfcount/
+prediction/
+rio/
+
 # build output
 _site/
 .sass-cache/
