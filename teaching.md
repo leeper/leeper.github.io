@@ -4,10 +4,6 @@ title: Teaching and Pedagogy
 permalink: /teaching.html
 ---
 
-## Teaching Philosophy
-
-Political psychologists study people. We want to know how people think, act, and understand the social and political universe. It is this curiosity about human understanding of politics that has driven my experiences as an educator. My research typically explores how people think and feel about politics and often grapples with meta-scientific questions about how researchers might come to know individuals' political cognitions, the causes of those beliefs and attitudes, and the implications thereof for politics more broadly. Teaching is a natural transition from this exploration of human psychology and behavior in which the objective is not for me to transmit information and formulate students' understanding but to guide them as they seek answers to their own political questions.
-
 Examples of my previous teaching are below, including (in most cases) fully open, Creative Commons-licensed syllabi, reading lists, and materials.
 
 ## Workshops and Short Courses
