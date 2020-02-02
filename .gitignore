@@ -35,3 +35,5 @@ cv/cv*.out
 cv/cv*.synctex.gz
 cv/cv*.bbl
 cv/cv*.blg
+
+*.tar.gz
