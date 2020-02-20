@@ -11,8 +11,6 @@ This page lists some of my academic research interests, working papers, and past
 
 Working papers:
 
-* [&ldquo;Divided By The Vote: Affective Polarization in the Wake of Brexit&rdquo;]({{ page.papers }}DividedByTheVote.pdf) (with Sara B. Hobolt and James Tilley)
-* [&ldquo;The Role of Media Choice and Media Effects in Political Knowledge Gaps&rdquo;]({{ page.papers }}KnowledgeGaps.pdf)
 * [&ldquo;Can Citizens Be Framed? How Information, Not Emphasis, Changes Opinions&rdquo;]({{ page.papers }}CanCitizensBeFramed.pdf) (with Rune Slothuus)
 * [&ldquo;Are Strong Opinions More Stable?&rdquo;]({{ page.papers }}AreStrongOpinionsMoreStable.pdf)
 * [&ldquo;The Information Environment and Consistency in Citizens' Policy Opinions&rdquo;]({{ page.papers }}OpinionConsistency.pdf) (with Rune Slothuus)
@@ -21,6 +19,9 @@ Working papers:
 
 Selected publications:
 
+* Thomas J. Leeper. N.d. &ldquo;The Role of Media Choice and Media Effects in Political Knowledge Gaps&rdquo; *Political Communication*: In press. [Preprint]]({{ page.papers }}KnowledgeGaps.pdf)
+* Simon Hix, Eric Kaufmann, and Thomas J. Leeper. N.d. &ldquo;Pricing Immigration&rdquo; *Journal of Experimental Political Science*: In press. [Preprint]({{ page.papers }}JournalOfExperimentalPoliticalScience2020.pdf)
+* Sara B. Hobolt, Thomas J. Leeper, and James Tilley. N.D. &ldquo;Divided By The Vote: Affective Polarization in the Wake of Brexit&rdquo; *British Journal of Political Science*: In press. [Preprint]({{ page.papers }}BritishJournalOfPoliticalScience20202.pdf)
 * Thomas J. Leeper, and Joshua Robison. N.d. [&ldquo;More Important, but for What Exactly? The Insignificant Role of Subjective Issue Importance in Vote Decisions.&rdquo;](https://doi.org/10.1007/s11109-018-9494-0) *Political Behavior*: In press. [Preprint]({{ page.papers }}PoliticalBehavior2018.pdf), [Reproduction Files](https://doi.org/10.7910/DVN/L4XKEZ)
 * Thomas J. Leeper, and Rune Slothuus. &ldquo;How the News Media Persuade: Framing Effects and Beyond.&rdquo; In Liz Suhay, Bernard Grofman, and Alex Treschel, eds., *Oxford Handbook of Electoral Persuasion*: In Press. [Preprint]({{ page.papers }}HowTheNewsMediaPersuade.pdf)
 * Thomas J. Leeper, and Rune Slothuus. N.d. &ldquo;Deliberation and Framing.&rdquo; In Andre Bachtiger, John Dryzek, Jane Mansbridge, and Mark Warren, eds., [*Oxford Handbook of Deliberative Democracy*](https://global.oup.com/academic/product/the-oxford-handbook-of-deliberative-democracy-9780198747369). Oxford: Oxford University Press. [Preprint]({{ page.papers }}DeliberationAndFraming.pdf)
