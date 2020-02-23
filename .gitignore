@@ -32,7 +32,7 @@ _site/
 cv/cv*.aux
 cv/cv*.log
 cv/cv*.out
-cv/cv*.synctex.gz
+cv/cv*.synctex*
 cv/cv*.bbl
 cv/cv*.blg
 
