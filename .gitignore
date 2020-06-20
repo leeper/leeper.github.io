@@ -37,3 +37,4 @@ cv/cv*.bbl
 cv/cv*.blg
 
 *.tar.gz
+*.Rcheck
