@@ -22,6 +22,8 @@ margins/
 pdfcount/
 prediction/
 rio/
+UNF/
+choco/
 
 # build output
 _site/
